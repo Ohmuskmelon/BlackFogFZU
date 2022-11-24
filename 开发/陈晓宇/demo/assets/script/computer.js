@@ -66,13 +66,13 @@ cc.Class({
                     this.node.destroy();
                 }
             } 
-            else if (event.keyCode == cc.macro.KEY.q){
-                let data1 = [1,2,3];
-                POINTS[POMAP.lockOfSwitchInCP0].state = true;
-                pushData(data1, 'data1', POMAP.lockOfSwitchInCP0);
-                let data2 = getData('data1', POMAP.lockOfSwitchInCP0);
-                console.log(data2);
-            }
+            // else if (event.keyCode == cc.macro.KEY.q){
+            //     let data1 = [1,2,3];
+            //     POINTS[POMAP.lockOfSwitchInCP0].state = true;
+            //     pushData(data1, 'data1', POMAP.lockOfSwitchInCP0);
+            //     let data2 = getData('data1', POMAP.lockOfSwitchInCP0);
+            //     console.log(data2);
+            // }
         }
     },
 
