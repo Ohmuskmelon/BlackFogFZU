@@ -14,7 +14,7 @@ var POINTS = [
         dataNum : 0,
         poData : [],
         poMap : {
-            "origin" : -1
+            "0" : -1
         }
     },
 ]
