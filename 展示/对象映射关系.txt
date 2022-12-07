@@ -1,0 +1,26 @@
+实体：账号		对应的库表：account
+    	属性：id                	对应字段：id
+   	属性：昵称                对应字段：username
+   	属性：密码		对应字段：password
+  	属性：动态码		对应字段：dynamic_code
+	属性：电话		对应字段：phone
+	属性：存档		对应字段：save
+
+
+实体：存档		对应的库表：Save
+	属性：账号归属		对应字段：account
+	属性：关卡		对应字段：Level
+	属性：物体位置		对应字段：position
+	属性：时间		对应字段：time
+	属性：鉴别		对应字段：check
+
+
+实体：电话		对应的库表：Phone
+	属性：保存电话		对应字段：phone
+	属性：邮箱		对应字段：email
+
+实体：密码		对应的库表：password
+	属性：保存密码		对应字段：password
+	属性：校验码		对应字段：dynamic_code
+	属性：动态码		对应字段：check
+
