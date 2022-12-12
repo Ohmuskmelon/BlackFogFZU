@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "54f80e35-51d4-4310-9af7-6cf8382dc909",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 256,
+  "height": 256,
+  "platformSettings": {},
+  "subMetas": {
+    "26.a柜子密码锁打开大图": {
+      "ver": "1.0.6",
+      "uuid": "1e9e370f-7b4b-4de3-9aac-70844df6e7d5",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "54f80e35-51d4-4310-9af7-6cf8382dc909",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -2,
+      "offsetY": 15.5,
+      "trimX": 72,
+      "trimY": 32,
+      "width": 108,
+      "height": 161,
+      "rawWidth": 256,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

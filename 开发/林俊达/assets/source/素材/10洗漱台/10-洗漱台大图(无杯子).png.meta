@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "abeff959-9493-4d5a-890b-2eab4e62f9f4",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 256,
+  "height": 256,
+  "platformSettings": {},
+  "subMetas": {
+    "10-洗漱台大图(无杯子)": {
+      "ver": "1.0.6",
+      "uuid": "56a649c6-9fa3-46b4-a97f-702d213b1d5a",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "abeff959-9493-4d5a-890b-2eab4e62f9f4",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1,
+      "offsetY": -5,
+      "trimX": 6,
+      "trimY": 39,
+      "width": 242,
+      "height": 188,
+      "rawWidth": 256,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

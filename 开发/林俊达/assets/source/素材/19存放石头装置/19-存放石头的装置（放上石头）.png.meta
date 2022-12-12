@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "5258fca8-330d-4168-b5ea-ee6dc97b213c",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 128,
+  "height": 128,
+  "platformSettings": {},
+  "subMetas": {
+    "19-存放石头的装置（放上石头）": {
+      "ver": "1.0.6",
+      "uuid": "5b769971-7df2-4e14-857a-968a675e78ea",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "5258fca8-330d-4168-b5ea-ee6dc97b213c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 3,
+      "offsetY": -1,
+      "trimX": 8,
+      "trimY": 6,
+      "width": 118,
+      "height": 118,
+      "rawWidth": 128,
+      "rawHeight": 128,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

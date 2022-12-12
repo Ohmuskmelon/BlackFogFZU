@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "f8cf7be8-a8b3-4b30-906f-796d5f7e95ae",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 256,
+  "height": 256,
+  "platformSettings": {},
+  "subMetas": {
+    "8.a洗衣机大图.1 (1)": {
+      "ver": "1.0.6",
+      "uuid": "112fbfc9-9b46-48b8-bcb9-8caa1396201e",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "f8cf7be8-a8b3-4b30-906f-796d5f7e95ae",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 12,
+      "trimX": 16,
+      "trimY": 6,
+      "width": 225,
+      "height": 220,
+      "rawWidth": 256,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

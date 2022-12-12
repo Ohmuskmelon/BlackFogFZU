@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "1e523dd0-549f-4df2-81bb-917153174c94",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 256,
+  "height": 256,
+  "platformSettings": {},
+  "subMetas": {
+    "11.衣柜（带锁）": {
+      "ver": "1.0.6",
+      "uuid": "27e06121-6f64-4da0-9cc7-36590db6f662",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "1e523dd0-549f-4df2-81bb-917153174c94",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -5,
+      "offsetY": 11,
+      "trimX": 85,
+      "trimY": 27,
+      "width": 76,
+      "height": 180,
+      "rawWidth": 256,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
