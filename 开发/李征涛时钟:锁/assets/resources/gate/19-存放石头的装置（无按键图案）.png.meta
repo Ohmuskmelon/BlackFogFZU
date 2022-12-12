@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "51b74586-6326-4ac5-bfa4-51484b798bc0",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 128,
+  "height": 128,
+  "platformSettings": {},
+  "subMetas": {
+    "19-存放石头的装置（无按键图案）": {
+      "ver": "1.0.6",
+      "uuid": "fa33d814-5626-4089-94c5-aabb9106e04d",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "51b74586-6326-4ac5-bfa4-51484b798bc0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -1,
+      "trimX": 5,
+      "trimY": 6,
+      "width": 118,
+      "height": 118,
+      "rawWidth": 128,
+      "rawHeight": 128,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
