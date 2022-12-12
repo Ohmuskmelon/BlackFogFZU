@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "6f58dc4a-6df5-49dd-8fd0-406711e3dffa",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 256,
+  "height": 256,
+  "platformSettings": {},
+  "subMetas": {
+    "30.水位默认状态": {
+      "ver": "1.0.6",
+      "uuid": "d83b0457-2e47-4362-a83a-2a1a5409beb7",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "6f58dc4a-6df5-49dd-8fd0-406711e3dffa",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 1,
+      "offsetY": -2,
+      "trimX": 65,
+      "trimY": 33,
+      "width": 128,
+      "height": 194,
+      "rawWidth": 256,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
