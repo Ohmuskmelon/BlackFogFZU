@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "18-密码锁（带数字）",
+    "texture": "36f69e52-a387-4760-acbb-bfd9ae87d00a",
+    "atlas": "",
+    "rect": [
+      21,
+      8,
+      102,
+      116
+    ],
+    "offset": [
+      8,
+      -2
+    ],
+    "originalSize": [
+      128,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

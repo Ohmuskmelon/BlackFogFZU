@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "台灯终稿",
+    "texture": "e2dae0e0-73ef-45d4-bdb0-b72811dce0ad",
+    "atlas": "",
+    "rect": [
+      61,
+      35,
+      137,
+      185
+    ],
+    "offset": [
+      1.5,
+      0.5
+    ],
+    "originalSize": [
+      256,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

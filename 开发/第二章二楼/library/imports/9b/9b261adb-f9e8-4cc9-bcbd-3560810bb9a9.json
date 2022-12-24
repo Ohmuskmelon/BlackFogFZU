@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "密码锁",
+    "texture": "b89907ca-84a4-4b79-855d-6b5ed22b1fcb",
+    "atlas": "",
+    "rect": [
+      21,
+      8,
+      102,
+      116
+    ],
+    "offset": [
+      8,
+      -2
+    ],
+    "originalSize": [
+      128,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "version": "1.1.1",
+  "windows": {
+    "main": {
+      "main": true,
+      "url": "app://editor/index.html",
+      "windowType": "dockable",
+      "x": -8,
+      "y": -8,
+      "width": 1552,
+      "height": 840,
+      "layout": {
+        "type": "dock-h",
+        "children": [
+          {
+            "width": 204,
+            "height": 637.7999877929688,
+            "type": "dock-v",
+            "children": [
+              {
+                "width": 204,
+                "height": 265.4750061035156,
+                "type": "panel",
+                "active": 0,
+                "children": [
+                  "hierarchy"
+                ]
+              },
+              {
+                "width": 204,
+                "height": 369.3125,
+                "type": "panel",
+                "active": 0,
+                "children": [
+                  "assets"
+                ]
+              }
+            ]
+          },
+          {
+            "width": 504,
+            "height": 637.7999877929688,
+            "type": "dock-v",
+            "children": [
+              {
+                "width": 504,
+                "height": 345.4375,
+                "type": "panel",
+                "active": 0,
+                "children": [
+                  "scene"
+                ]
+              },
+              {
+                "width": 504,
+                "height": 289.3625183105469,
+                "type": "panel",
+                "active": 0,
+                "children": [
+                  "console",
+                  "timeline",
+                  "game-window"
+                ]
+              }
+            ]
+          },
+          {
+            "width": 309.20001220703125,
+            "height": 637.7999877929688,
+            "type": "panel",
+            "active": 0,
+            "children": [
+              "inspector",
+              "cocos-services",
+              "node-library"
+            ]
+          }
+        ]
+      },
+      "panels": [
+        "hierarchy",
+        "assets",
+        "scene",
+        "console",
+        "timeline",
+        "game-window",
+        "inspector",
+        "cocos-services",
+        "node-library"
+      ]
+    },
+    " common-asset-worker-worker": {}
+  },
+  "panels": {},
+  "panelLabelWidth": {}
+}

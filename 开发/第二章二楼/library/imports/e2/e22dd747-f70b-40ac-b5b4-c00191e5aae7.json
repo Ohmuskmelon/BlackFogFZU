@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "33.舍管房间",
+    "texture": "c967d9b0-5617-4d9d-8f1b-e46fac375a33",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      900,
+      327
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      900,
+      327
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

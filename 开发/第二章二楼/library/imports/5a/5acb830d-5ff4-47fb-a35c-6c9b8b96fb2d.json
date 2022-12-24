@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "18-按键3",
+    "texture": "3ac9f6dd-ef4d-4710-b9fd-94dae2fa9de3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      7,
+      10
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      7,
+      10
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

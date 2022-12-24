@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "CloudsBack",
+    "texture": "e6ececcd-d5f0-4517-a7ed-2e3a21434ec6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      512,
+      320
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      512,
+      320
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

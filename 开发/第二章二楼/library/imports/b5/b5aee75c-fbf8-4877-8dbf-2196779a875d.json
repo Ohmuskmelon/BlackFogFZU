@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "npc1",
+    "texture": "275014ce-2530-4d71-bb80-76e7c3040b3e",
+    "atlas": "",
+    "rect": [
+      0,
+      12,
+      15,
+      19
+    ],
+    "offset": [
+      -0.5,
+      -6
+    ],
+    "originalSize": [
+      16,
+      31
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

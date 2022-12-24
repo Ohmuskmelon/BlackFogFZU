@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "envelope",
+    "texture": "86c03d91-675e-4460-9ce8-002c655d80bc",
+    "atlas": "",
+    "rect": [
+      13,
+      14,
+      39,
+      38
+    ],
+    "offset": [
+      0.5,
+      -1
+    ],
+    "originalSize": [
+      64,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "CloudsFront",
+    "texture": "9e69d1ff-90e8-4421-b0c6-c320a39b9e04",
+    "atlas": "",
+    "rect": [
+      0,
+      37,
+      512,
+      283
+    ],
+    "offset": [
+      0,
+      -18.5
+    ],
+    "originalSize": [
+      512,
+      320
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

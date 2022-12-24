@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "adventurer-run-04",
+    "texture": "a875b771-dd14-48f5-b08d-79f7b798e30f",
+    "atlas": "",
+    "rect": [
+      16,
+      9,
+      20,
+      27
+    ],
+    "offset": [
+      1,
+      -4
+    ],
+    "originalSize": [
+      50,
+      37
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

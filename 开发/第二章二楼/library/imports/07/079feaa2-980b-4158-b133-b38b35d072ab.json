@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "床",
+    "texture": "cccaa885-4724-42f8-9e06-54f02e3295e0",
+    "atlas": "",
+    "rect": [
+      4,
+      12,
+      244,
+      230
+    ],
+    "offset": [
+      -2,
+      1
+    ],
+    "originalSize": [
+      256,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

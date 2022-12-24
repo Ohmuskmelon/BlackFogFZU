@@ -1,0 +1,96 @@
+{
+  "version": "1.1.1",
+  "windows": {
+    "main": {
+      "main": true,
+      "url": "app://editor/index.html",
+      "windowType": "dockable",
+      "x": 80,
+      "y": 37,
+      "width": 1280,
+      "height": 760,
+      "layout": {
+        "type": "dock-h",
+        "children": [
+          {
+            "width": 206.109375,
+            "height": 673,
+            "type": "dock-v",
+            "children": [
+              {
+                "width": 206.109375,
+                "height": 237.640625,
+                "type": "panel",
+                "active": 0,
+                "children": [
+                  "hierarchy"
+                ]
+              },
+              {
+                "width": 206.109375,
+                "height": 432.359375,
+                "type": "panel",
+                "active": 0,
+                "children": [
+                  "assets"
+                ]
+              }
+            ]
+          },
+          {
+            "width": 760.765625,
+            "height": 673,
+            "type": "panel",
+            "active": 0,
+            "children": [
+              "scene"
+            ]
+          },
+          {
+            "width": 307.140625,
+            "height": 673,
+            "type": "panel",
+            "active": 0,
+            "children": [
+              "inspector"
+            ]
+          }
+        ]
+      },
+      "panels": [
+        "hierarchy",
+        "assets",
+        "scene",
+        "inspector"
+      ]
+    },
+    " common-asset-worker-worker": {}
+  },
+  "panels": {
+    "preferences": {
+      "x": 352,
+      "y": 122,
+      "width": 601,
+      "height": 566
+    },
+    "project-settings": {
+      "x": 480,
+      "y": 132,
+      "width": 600,
+      "height": 564
+    },
+    "package-manager": {
+      "x": 509,
+      "y": 0,
+      "width": 519,
+      "height": 824
+    },
+    "sprite-editor": {
+      "x": -8,
+      "y": -8,
+      "width": 1552,
+      "height": 840
+    }
+  },
+  "panelLabelWidth": {}
+}

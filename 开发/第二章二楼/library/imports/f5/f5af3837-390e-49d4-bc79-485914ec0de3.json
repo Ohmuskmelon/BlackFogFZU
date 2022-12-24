@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "adventurer-idle-2-03",
+    "texture": "3ac4195e-5036-4abe-b928-5ba2b0b0f05d",
+    "atlas": "",
+    "rect": [
+      9,
+      8,
+      25,
+      28
+    ],
+    "offset": [
+      -3.5,
+      -3.5
+    ],
+    "originalSize": [
+      50,
+      37
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

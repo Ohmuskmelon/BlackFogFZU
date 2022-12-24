@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "洗衣机",
+    "texture": "ff621ae8-23d8-47bd-b966-38de70c8b6b9",
+    "atlas": "",
+    "rect": [
+      51,
+      30,
+      147,
+      175
+    ],
+    "offset": [
+      -3.5,
+      10.5
+    ],
+    "originalSize": [
+      256,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

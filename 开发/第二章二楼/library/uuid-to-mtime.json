@@ -1,0 +1,3577 @@
+{
+  "53fa3ff6-d19c-422f-96e8-26b9698838de": {
+    "asset": 1670772421000,
+    "meta": 1671376164032,
+    "relativePath": "scenes"
+  },
+  "3b1dcb18-2a85-47fc-90d7-750667781dae": {
+    "asset": 1671356632000,
+    "meta": 1671376164032,
+    "relativePath": "source"
+  },
+  "58b7d078-dbf6-4da4-83d7-09cab74596e5": {
+    "asset": 1667370929000,
+    "meta": 1671376164340,
+    "relativePath": "source/bg"
+  },
+  "e1cef3d5-661d-4955-8a59-631ee1db0e66": {
+    "asset": 1668150682000,
+    "meta": 1671376164341,
+    "relativePath": "source/hero"
+  },
+  "285d6dfc-1b6c-4921-8643-b1233165239e": {
+    "asset": 1668742353000,
+    "meta": 1671376164341,
+    "relativePath": "source/map"
+  },
+  "5fdfc4b3-8c0e-4113-a4b1-63ac5fb1fb30": {
+    "asset": 1667370929000,
+    "meta": 1671376164597,
+    "relativePath": "source/hero/adventurer-attack1-00.png"
+  },
+  "49325667-311e-46ef-a3a8-1d56fc9e5458": {
+    "asset": 1667370929000,
+    "meta": 1671376164585,
+    "relativePath": "source/bg/BGBack.png"
+  },
+  "e6ececcd-d5f0-4517-a7ed-2e3a21434ec6": {
+    "asset": 1667370929000,
+    "meta": 1671376164586,
+    "relativePath": "source/bg/CloudsBack.png"
+  },
+  "9e69d1ff-90e8-4421-b0c6-c320a39b9e04": {
+    "asset": 1667370929000,
+    "meta": 1671376164588,
+    "relativePath": "source/bg/CloudsFront.png"
+  },
+  "efdd2b1b-6888-4f5b-b15f-8bd657cf8be0": {
+    "asset": 1667370929000,
+    "meta": 1671376164586,
+    "relativePath": "source/bg/BGFront.png"
+  },
+  "0a0220db-ddde-471f-a9b7-24e81fd08be3": {
+    "asset": 1667370929000,
+    "meta": 1671376164598,
+    "relativePath": "source/hero/adventurer-attack1-02.png"
+  },
+  "e440f296-a207-43f8-8b91-568d2bf1043a": {
+    "asset": 1667370929000,
+    "meta": 1671376164597,
+    "relativePath": "source/hero/adventurer-attack1-01.png"
+  },
+  "3423c227-c3b0-412f-95ef-05cb9cf93d67": {
+    "asset": 1667370929000,
+    "meta": 1671376164597,
+    "relativePath": "source/hero/adventurer-attack1-03.png"
+  },
+  "ac8619c8-e0d3-4271-9275-5bb1bad1a66a": {
+    "asset": 1667370929000,
+    "meta": 1671376164603,
+    "relativePath": "source/hero/adventurer-attack2-01.png"
+  },
+  "a852569b-d441-4a1e-aa79-7e304cc8f0f5": {
+    "asset": 1667370929000,
+    "meta": 1671376164605,
+    "relativePath": "source/hero/adventurer-attack2-04.png"
+  },
+  "cab8ec76-30b7-46c3-b452-b484c58c5a9a": {
+    "asset": 1667370929000,
+    "meta": 1671376164605,
+    "relativePath": "source/hero/adventurer-attack3-00.png"
+  },
+  "2ff4635e-623a-4b20-bb98-d72ac13b5cf6": {
+    "asset": 1667370929000,
+    "meta": 1671376164603,
+    "relativePath": "source/hero/adventurer-attack1-04.png"
+  },
+  "66870bfc-cdd0-43a9-b65b-3f70fafd91ee": {
+    "asset": 1667370929000,
+    "meta": 1671376164603,
+    "relativePath": "source/hero/adventurer-attack2-00.png"
+  },
+  "a3ff50a0-e447-4721-9c71-3a63a754651d": {
+    "asset": 1667370929000,
+    "meta": 1671376164604,
+    "relativePath": "source/hero/adventurer-attack2-02.png"
+  },
+  "dd096826-e880-41a6-bac9-37924594c7fc": {
+    "asset": 1667370929000,
+    "meta": 1671376164610,
+    "relativePath": "source/hero/adventurer-attack3-02.png"
+  },
+  "9bbbd988-4115-4cb4-98f1-771e16777343": {
+    "asset": 1667370929000,
+    "meta": 1671376164612,
+    "relativePath": "source/hero/adventurer-attack3-05.png"
+  },
+  "b03655c7-5818-4697-855e-79a9084173fa": {
+    "asset": 1667370929000,
+    "meta": 1671376164604,
+    "relativePath": "source/hero/adventurer-attack2-03.png"
+  },
+  "d04ef44a-d25c-408e-b8cb-0af600d8ca6a": {
+    "asset": 1667370929000,
+    "meta": 1671376164612,
+    "relativePath": "source/hero/adventurer-idle-2-00.png"
+  },
+  "24fef01c-4b8f-4682-a0f5-d5777ce7cb94": {
+    "asset": 1667370929000,
+    "meta": 1671376164611,
+    "relativePath": "source/hero/adventurer-attack3-03.png"
+  },
+  "baa27d0f-97e3-4d5a-951d-e56433f11bea": {
+    "asset": 1667370929000,
+    "meta": 1671376164610,
+    "relativePath": "source/hero/adventurer-attack3-01.png"
+  },
+  "450c114f-dd6f-4c4b-86f0-6e7231537410": {
+    "asset": 1667370929000,
+    "meta": 1671376164606,
+    "relativePath": "source/hero/adventurer-attack2-05.png"
+  },
+  "8dc8a750-12e4-4ed4-bf53-57b387123815": {
+    "asset": 1667370929000,
+    "meta": 1671376164614,
+    "relativePath": "source/hero/adventurer-idle-2-01.png"
+  },
+  "dfbbb4fc-54d3-42cf-b90b-bf3512eaa671": {
+    "asset": 1667370929000,
+    "meta": 1671376164611,
+    "relativePath": "source/hero/adventurer-attack3-04.png"
+  },
+  "5a7d8a7d-7735-477d-b2a7-c83aa0e91697": {
+    "asset": 1667370929000,
+    "meta": 1671376164614,
+    "relativePath": "source/hero/adventurer-idle-2-02.png"
+  },
+  "3ac4195e-5036-4abe-b928-5ba2b0b0f05d": {
+    "asset": 1667370929000,
+    "meta": 1671376164617,
+    "relativePath": "source/hero/adventurer-idle-2-03.png"
+  },
+  "3ad162a3-b297-4a5e-9173-3d2e495c2176": {
+    "asset": 1667370929000,
+    "meta": 1671376164617,
+    "relativePath": "source/hero/adventurer-run-00.png"
+  },
+  "0a7fcdee-1921-473e-b1b3-5d3aa5a1e444": {
+    "asset": 1667370929000,
+    "meta": 1671376164618,
+    "relativePath": "source/hero/adventurer-run-02.png"
+  },
+  "0d580e01-0225-4dc6-b58f-8e98dc1f38f9": {
+    "asset": 1667370929000,
+    "meta": 1671376164618,
+    "relativePath": "source/hero/adventurer-run-01.png"
+  },
+  "a875b771-dd14-48f5-b08d-79f7b798e30f": {
+    "asset": 1667370929000,
+    "meta": 1671376164619,
+    "relativePath": "source/hero/adventurer-run-04.png"
+  },
+  "bbd1eeaf-e9ac-41e7-b1a9-3f75fb7f9f6f": {
+    "asset": 1667370929000,
+    "meta": 1671376164622,
+    "relativePath": "source/hero/adventurer-run-05.png"
+  },
+  "3d7e1006-233f-40ee-ab3f-dc435b3f5732": {
+    "asset": 1667370929000,
+    "meta": 1671376164619,
+    "relativePath": "source/hero/adventurer-run-03.png"
+  },
+  "2749d38b-936d-4466-aae0-34d83ca0ed1b": {
+    "asset": 1667370929000,
+    "meta": 1671376164726,
+    "relativePath": "source/map/TilesExamples.png"
+  },
+  "c7f98428-7cd1-4062-9cec-beeb205d4672": {
+    "asset": 1667370929000,
+    "meta": 1671376164725,
+    "relativePath": "source/map/Tileset.png"
+  },
+  "bc259f5f-8147-4e5a-b428-e0b2839f661c": {
+    "asset": 1667370929000,
+    "meta": 1671376164733,
+    "relativePath": "source/map/Trees.png"
+  },
+  "1679ac60-bf0b-4199-b00e-af9e2e4b8c32": {
+    "asset": 1671361940000,
+    "meta": 1671376164032,
+    "relativePath": "scripts"
+  },
+  "9a1be5e1-e2c1-4b88-9728-208c72a7ed53": {
+    "asset": 1671351651000,
+    "meta": 1671376164031,
+    "relativePath": "animation"
+  },
+  "fef59ced-29fd-447a-b22f-68038a884f67": {
+    "asset": 1671361856000,
+    "meta": 1671376164032,
+    "relativePath": "resources"
+  },
+  "1c9ce92e-969b-402b-bb52-2bda2605a440": {
+    "asset": 1668474729000,
+    "meta": 1671376164341,
+    "relativePath": "source/dialog"
+  },
+  "a1554917-76ac-4874-a70a-4641f314b5d2": {
+    "asset": 1667476177000,
+    "meta": 1671376164595,
+    "relativePath": "source/dialog/faceset-box.png"
+  },
+  "ce1ad896-af22-4047-9a68-2271309b2f59": {
+    "asset": 1667476177000,
+    "meta": 1671376164594,
+    "relativePath": "source/dialog/dialogue-bubble.png"
+  },
+  "d7894c90-2322-4546-aa5b-1e820338d245": {
+    "asset": 1668751615000,
+    "meta": 1671376164056,
+    "relativePath": "resources/role"
+  },
+  "c28a7629-3e2c-4e6e-9c23-c76161f4243e": {
+    "asset": 1667725709000,
+    "meta": 1671376164727,
+    "relativePath": "source/map/Tileset.tsx"
+  },
+  "56d6a38a-0df9-4ca3-9081-e818f9cad0b4": {
+    "asset": 1668685027000,
+    "meta": 1671376164342,
+    "relativePath": "source/npc"
+  },
+  "1cccb78a-260a-4333-bf86-891b9882c750": {
+    "asset": 1666941532000,
+    "meta": 1671376164734,
+    "relativePath": "source/npc/npc1.png"
+  },
+  "e72e8fd7-d134-4a93-86a5-253d74698757": {
+    "asset": 1667795181000,
+    "meta": 1671376164214,
+    "relativePath": "scenes/nemu.fire"
+  },
+  "82c5491e-9167-4fba-8d60-0c99710b9d2b": {
+    "asset": 1667370929000,
+    "meta": 1671376164359,
+    "relativePath": "resources/role/player.png"
+  },
+  "275014ce-2530-4d71-bb80-76e7c3040b3e": {
+    "asset": 1666941532000,
+    "meta": 1671376164824,
+    "relativePath": "resources/role/scene1/npc1.png"
+  },
+  "85644a28-2728-4d5a-9c64-392c0f53fb30": {
+    "asset": 1668150850000,
+    "meta": 1671376164339,
+    "relativePath": "source/bag"
+  },
+  "e7ff2ca1-eb4f-448c-91ed-8e31fdeaf840": {
+    "asset": 1585289948000,
+    "meta": 1671376164587,
+    "relativePath": "source/bag/bagBg.png"
+  },
+  "8ef427cd-dabe-4958-8a65-77420b8f3af6": {
+    "asset": 1585289948000,
+    "meta": 1671376164594,
+    "relativePath": "source/bag/bagBtn.png"
+  },
+  "c976b37f-b19d-41e0-95e7-bde0eb0a070d": {
+    "asset": 1670761527000,
+    "meta": 1671376164246,
+    "relativePath": "scripts/bag"
+  },
+  "64af0348-7f40-4bbc-95ac-1dea977deec5": {
+    "asset": 1668080159000,
+    "meta": 1671376164596,
+    "relativePath": "source/dialog/packLine.png"
+  },
+  "a57216d9-fd8f-4fc4-818f-c714790f3a75": {
+    "asset": 1668475652000,
+    "meta": 1671376165263,
+    "relativePath": "source/map/map2.tmx"
+  },
+  "dcadf5f4-73a6-4423-9d72-05897e4ef0e1": {
+    "asset": 1668577597000,
+    "meta": 1671376164341,
+    "relativePath": "source/item"
+  },
+  "0e342a29-3c70-4e9b-9917-a15bd08ef39f": {
+    "asset": 1668150149000,
+    "meta": 1671376164640,
+    "relativePath": "source/item/blank.png"
+  },
+  "66806ad0-5caf-449c-9c30-e1ea5f6b7e6c": {
+    "asset": 1470753857000,
+    "meta": 1671376164631,
+    "relativePath": "source/item/armor 2.png"
+  },
+  "c979a2e9-685e-4c22-8082-689f8e1ec570": {
+    "asset": 1470753857000,
+    "meta": 1671376164630,
+    "relativePath": "source/item/armor.png"
+  },
+  "b9a175b7-ea72-4dbf-8f11-4069fcf45365": {
+    "asset": 1470753853000,
+    "meta": 1671376164644,
+    "relativePath": "source/item/bow.png"
+  },
+  "cf098259-b0f4-41cc-821f-5b82fbf09835": {
+    "asset": 1470753851000,
+    "meta": 1671376164650,
+    "relativePath": "source/item/coin.png"
+  },
+  "ba15471a-02ec-455f-b71c-7adc3fbc6417": {
+    "asset": 1509991203000,
+    "meta": 1671376164645,
+    "relativePath": "source/item/boots.png"
+  },
+  "99d87708-14eb-48fd-9dba-7b27914caaa0": {
+    "asset": 1470753850000,
+    "meta": 1671376164653,
+    "relativePath": "source/item/dagger2.png"
+  },
+  "ed382ef9-31bc-4466-9614-ccb4a2d0c0de": {
+    "asset": 1470753851000,
+    "meta": 1671376164652,
+    "relativePath": "source/item/dagger.png"
+  },
+  "c0154669-d430-49c3-8628-2bc0163c7db6": {
+    "asset": 1470753849000,
+    "meta": 1671376164655,
+    "relativePath": "source/item/document.png"
+  },
+  "e568d909-c2de-4c6e-b3ff-b9adc50a184a": {
+    "asset": 1470753856000,
+    "meta": 1671376164630,
+    "relativePath": "source/item/axe.png"
+  },
+  "4eec981d-e615-4380-ab9d-5343fc71faa6": {
+    "asset": 1470753855000,
+    "meta": 1671376164634,
+    "relativePath": "source/item/axe2.png"
+  },
+  "b6cba443-399f-4115-b8de-ca99093864f6": {
+    "asset": 1470753854000,
+    "meta": 1671376164637,
+    "relativePath": "source/item/axeDouble2.png"
+  },
+  "a0b1f606-781c-4c25-8704-bf8951819d2a": {
+    "asset": 1470753855000,
+    "meta": 1671376164637,
+    "relativePath": "source/item/axeDouble.png"
+  },
+  "dceb1ef3-0780-499a-beb2-d1d04f9d1b57": {
+    "asset": 1470753853000,
+    "meta": 1671376164641,
+    "relativePath": "source/item/backpack.png"
+  },
+  "36d3b05b-aa27-4da1-ab39-2f1163cfa075": {
+    "asset": 1470753852000,
+    "meta": 1671376164644,
+    "relativePath": "source/item/bow2.png"
+  },
+  "86c03d91-675e-4460-9ce8-002c655d80bc": {
+    "asset": 1470753848000,
+    "meta": 1671376164653,
+    "relativePath": "source/item/envelope.png"
+  },
+  "a9086d38-55df-4fc6-9367-da9cb3de2315": {
+    "asset": 1470753843000,
+    "meta": 1671376164670,
+    "relativePath": "source/item/heart.png"
+  },
+  "21f2c965-6bf4-45d1-887f-f46f242e450c": {
+    "asset": 1470753842000,
+    "meta": 1671376164671,
+    "relativePath": "source/item/helmet.png"
+  },
+  "d08904dc-5817-4986-986e-de784798b524": {
+    "asset": 1470753842000,
+    "meta": 1671376164680,
+    "relativePath": "source/item/helmet2.png"
+  },
+  "01e5524d-cf77-45dd-819c-5e4d1d219cda": {
+    "asset": 1470753847000,
+    "meta": 1671376164663,
+    "relativePath": "source/item/gemGreen.png"
+  },
+  "d76f740a-2679-4f2e-92ac-5850177f761f": {
+    "asset": 1470753845000,
+    "meta": 1671376164671,
+    "relativePath": "source/item/hammer.png"
+  },
+  "cef5a87b-759a-438a-a64d-c9d6e73db937": {
+    "asset": 1470753839000,
+    "meta": 1671376164682,
+    "relativePath": "source/item/leather2.png"
+  },
+  "ea3a2cac-4638-4cff-af8c-afeed08e5e6e": {
+    "asset": 1470753848000,
+    "meta": 1671376164662,
+    "relativePath": "source/item/gem.png"
+  },
+  "e96a70c5-054c-4bc9-948e-39451438e557": {
+    "asset": 1509990953000,
+    "meta": 1671376164683,
+    "relativePath": "source/item/necklace.png"
+  },
+  "cb57b473-5491-4e42-806a-5a5b5d2ebee1": {
+    "asset": 1470753846000,
+    "meta": 1671376164662,
+    "relativePath": "source/item/gemRed.png"
+  },
+  "587ca222-85bc-4ae8-a2a0-4da1fca59bca": {
+    "asset": 1470753840000,
+    "meta": 1671376164692,
+    "relativePath": "source/item/leather.png"
+  },
+  "ef7ff25b-7e4b-45b5-be9b-878eb10d210a": {
+    "asset": 1470753844000,
+    "meta": 1671376164671,
+    "relativePath": "source/item/hammer2.png"
+  },
+  "6ff73e79-37e7-493a-9d75-0bef68f33dae": {
+    "asset": 1470753838000,
+    "meta": 1671376164687,
+    "relativePath": "source/item/potion.png"
+  },
+  "f28b04b6-7ca9-4059-a5fc-4c59dfc524cf": {
+    "asset": 1470753837000,
+    "meta": 1671376164683,
+    "relativePath": "source/item/potion2.png"
+  },
+  "917e37ea-c91f-42f0-9439-72e6e19a2e67": {
+    "asset": 1470753836000,
+    "meta": 1671376164690,
+    "relativePath": "source/item/potion3.png"
+  },
+  "0af3be4c-afdf-42f8-83ba-e115995fb1fc": {
+    "asset": 1470753835000,
+    "meta": 1671376164691,
+    "relativePath": "source/item/potion4.png"
+  },
+  "a8088dc6-c8c8-4b33-a047-1ac95eb2d9b6": {
+    "asset": 1470753834000,
+    "meta": 1671376164702,
+    "relativePath": "source/item/scroll.png"
+  },
+  "6e280fc5-9bda-4509-8acf-9a816ad792e8": {
+    "asset": 1470753830000,
+    "meta": 1671376164703,
+    "relativePath": "source/item/shieldSmall.png"
+  },
+  "4704bcd5-4965-4295-a520-19202b55b3cf": {
+    "asset": 1470753824000,
+    "meta": 1671376164722,
+    "relativePath": "source/item/sword2.png"
+  },
+  "a8bca4a9-23be-463d-a730-91dfaf65286d": {
+    "asset": 1470753827000,
+    "meta": 1671376164714,
+    "relativePath": "source/item/star.png"
+  },
+  "083cae86-cebc-47b2-bfb1-542ee51243e1": {
+    "asset": 1509991367000,
+    "meta": 1671376164712,
+    "relativePath": "source/item/shield_semi.png"
+  },
+  "fffde42f-691b-4684-a290-41fc4b5ebe8d": {
+    "asset": 1470753826000,
+    "meta": 1671376164714,
+    "relativePath": "source/item/sword.png"
+  },
+  "c86c32b1-0ca1-4d19-be69-fb156504e754": {
+    "asset": 1470753823000,
+    "meta": 1671376164720,
+    "relativePath": "source/item/tome.png"
+  },
+  "2e4d9e5b-0347-4c63-bd90-0a6c709d8fa5": {
+    "asset": 1470753832000,
+    "meta": 1671376164702,
+    "relativePath": "source/item/shield.png"
+  },
+  "c84051b8-1833-4eb5-8613-c050320419bf": {
+    "asset": 1470753829000,
+    "meta": 1671376164708,
+    "relativePath": "source/item/shieldSmall2.png"
+  },
+  "cc25ee48-c97d-4ccf-b99b-3310c024c616": {
+    "asset": 1470753831000,
+    "meta": 1671376164702,
+    "relativePath": "source/item/shield2.png"
+  },
+  "22de04d1-9231-4e46-9a28-91eb1731a063": {
+    "asset": 1509991511000,
+    "meta": 1671376164711,
+    "relativePath": "source/item/shield_wood.png"
+  },
+  "6430178e-0c9a-483b-9ed5-f14ab4eb82bc": {
+    "asset": 1470753821000,
+    "meta": 1671376164724,
+    "relativePath": "source/item/wand.png"
+  },
+  "aeee400b-90da-4183-a168-f36708aedacf": {
+    "asset": 1470753819000,
+    "meta": 1671376164726,
+    "relativePath": "source/item/wand2.png"
+  },
+  "62a2682d-9359-4768-932a-aff954997108": {
+    "asset": 1470753822000,
+    "meta": 1671376164722,
+    "relativePath": "source/item/tools.png"
+  },
+  "38c3ba84-071d-4af5-8858-0c5f7ec03188": {
+    "asset": 1470753818000,
+    "meta": 1671376164728,
+    "relativePath": "source/item/woodSword.png"
+  },
+  "7074e424-003f-4e1d-9c25-3673d0154ffb": {
+    "asset": 1470753809000,
+    "meta": 1671376164628,
+    "relativePath": "source/item/X.png"
+  },
+  "1cca798b-6e04-45e8-823b-1bdfcb853d30": {
+    "asset": 1668134763000,
+    "meta": 1671376164826,
+    "relativePath": "resources/role/scene1/npc3.png"
+  },
+  "bf7fefe7-df79-49b0-9bf9-18536b484481": {
+    "asset": 1668134763000,
+    "meta": 1671376164739,
+    "relativePath": "source/npc/npc3.png"
+  },
+  "21fb279b-0eff-47a3-8804-16d088adf942": {
+    "asset": 1667370929000,
+    "meta": 1671376164738,
+    "relativePath": "source/npc/npc2.png"
+  },
+  "88b5bbae-12fc-4f97-b6fe-22fe1c665286": {
+    "asset": 1668685085000,
+    "meta": 1671376164826,
+    "relativePath": "resources/role/scene1/npc2.png"
+  },
+  "f29d7759-3929-422a-b5fb-2b464eea64b2": {
+    "asset": 1668738826000,
+    "meta": 1671376164735,
+    "relativePath": "source/map/map.png"
+  },
+  "f0052702-2502-4562-a232-35721224a457": {
+    "asset": 1668742304000,
+    "meta": 1671376165263,
+    "relativePath": "source/map/map.tmx"
+  },
+  "6dec8d4e-a21f-49aa-bb27-8d3b05db2854": {
+    "asset": 1668739517000,
+    "meta": 1671376164741,
+    "relativePath": "source/map/scene1.png"
+  },
+  "cbe9c58e-0552-4ab0-8cbd-f6fb3349715a": {
+    "asset": 1668742320000,
+    "meta": 1671376164740,
+    "relativePath": "source/map/scene2.png"
+  },
+  "640f591b-a462-424c-932d-ef3301215900": {
+    "asset": 1668751615000,
+    "meta": 1671376164351,
+    "relativePath": "resources/role/scene1"
+  },
+  "c5345148-a3d3-41be-95ed-1f183c453e9d": {
+    "asset": 1668751663000,
+    "meta": 1671376164352,
+    "relativePath": "resources/role/scene2"
+  },
+  "e6a2ddd1-3645-49cc-8578-c20030535af2": {
+    "asset": 1668751632000,
+    "meta": 1671376164828,
+    "relativePath": "resources/role/scene2/npc2.png"
+  },
+  "351849a9-a169-46f0-ad5c-575e668fd630": {
+    "asset": 1668751632000,
+    "meta": 1671376164825,
+    "relativePath": "resources/role/scene2/npc1.png"
+  },
+  "2fea96a0-33ff-498b-a3bc-b5e87941ea63": {
+    "asset": 1669365473000,
+    "meta": 1671376164057,
+    "relativePath": "resources/tools"
+  },
+  "9e6ce186-f7a1-47b5-bc16-6afc9993536f": {
+    "asset": 1585298598000,
+    "meta": 1671376164368,
+    "relativePath": "resources/tools/黄石.png"
+  },
+  "c56dd01c-a5fa-4c3c-b349-4f7c9bafb5e8": {
+    "asset": 1585298598000,
+    "meta": 1671376164365,
+    "relativePath": "resources/tools/卷轴.png"
+  },
+  "61828468-e758-4cfb-84c8-5da401ff0c51": {
+    "asset": 1585298598000,
+    "meta": 1671376164366,
+    "relativePath": "resources/tools/火腿.png"
+  },
+  "0fc0aaae-a8af-4a7d-ab9f-885a01306784": {
+    "asset": 1585298598000,
+    "meta": 1671376164367,
+    "relativePath": "resources/tools/煎饺.png"
+  },
+  "b5728a56-ab78-4d55-9c53-6b3822e32441": {
+    "asset": 1585298598000,
+    "meta": 1671376164367,
+    "relativePath": "resources/tools/心经.png"
+  },
+  "abe8a525-3784-4830-8491-a70721be3d70": {
+    "asset": 1585298598000,
+    "meta": 1671376164369,
+    "relativePath": "resources/tools/烈酒.png"
+  },
+  "77c8a66e-edfc-4657-9855-a417d00f8d07": {
+    "asset": 1585298598000,
+    "meta": 1671376164368,
+    "relativePath": "resources/tools/银钥匙.png"
+  },
+  "bd8baf73-13c3-423d-89e1-403e8334ecd9": {
+    "asset": 1585298598000,
+    "meta": 1671376164368,
+    "relativePath": "resources/tools/金钥匙.png"
+  },
+  "8e8e1bf5-a54b-4c01-9daf-c1afcadd9112": {
+    "asset": 1669294656000,
+    "meta": 1671376164032,
+    "relativePath": "prefabs"
+  },
+  "26b17d83-b28b-440e-b266-089808eb1867": {
+    "asset": 1669366192000,
+    "meta": 1671376164036,
+    "relativePath": "prefabs/tool.prefab"
+  },
+  "ab8ca541-7c40-47a4-9699-fa1eb080d1e4": {
+    "asset": 1669377509000,
+    "meta": 1671376164501,
+    "relativePath": "scripts/dialog/dialog - 001.js"
+  },
+  "26e1b477-683d-4a0e-bc68-80840768a332": {
+    "asset": 1669527483000,
+    "meta": 1671376164342,
+    "relativePath": "source/素材"
+  },
+  "83730c78-4ca0-4853-81a7-d90c4a946d45": {
+    "asset": 1669527483000,
+    "meta": 1671376164731,
+    "relativePath": "source/素材/10洗漱台"
+  },
+  "bbc1b656-3c73-484e-b6bd-ae0ad203f7d0": {
+    "asset": 1669527483000,
+    "meta": 1671376164735,
+    "relativePath": "source/素材/15.六间宿舍背景"
+  },
+  "4390a907-69d8-4d6c-b20c-5e7fa342d580": {
+    "asset": 1669527693000,
+    "meta": 1671376164736,
+    "relativePath": "source/素材/16.走廊背景"
+  },
+  "9e9f98e7-533e-4434-82b5-4297e658d2cd": {
+    "asset": 1669527693000,
+    "meta": 1671376164736,
+    "relativePath": "source/素材/18密码锁"
+  },
+  "b9d4fa07-edb0-410a-b010-1b5fb97fd5dd": {
+    "asset": 1669527693000,
+    "meta": 1671376164737,
+    "relativePath": "source/素材/19存放石头装置"
+  },
+  "1026738b-eb91-4868-885b-0426ba82e94d": {
+    "asset": 1669527693000,
+    "meta": 1671376164738,
+    "relativePath": "source/素材/22衣服"
+  },
+  "116dbea6-d760-43ef-8767-63c32bba9815": {
+    "asset": 1669527693000,
+    "meta": 1671376164739,
+    "relativePath": "source/素材/26.柜子密码锁"
+  },
+  "96b7e0df-c3b1-43c5-990f-1317ed3b946e": {
+    "asset": 1669527693000,
+    "meta": 1671376164739,
+    "relativePath": "source/素材/27.a 台灯大图"
+  },
+  "8a2b2def-22d7-4a6b-9698-12f33e7e1957": {
+    "asset": 1669527693000,
+    "meta": 1671376164740,
+    "relativePath": "source/素材/28.桌面"
+  },
+  "c9248223-04b4-4bf4-91e3-06ccf1ebf76f": {
+    "asset": 1669527483000,
+    "meta": 1671376164740,
+    "relativePath": "source/素材/30.洗衣机水位"
+  },
+  "662e4a47-8bfc-4756-8512-eadb8f9ae1f0": {
+    "asset": 1669527693000,
+    "meta": 1671376164741,
+    "relativePath": "source/素材/31.杯子"
+  },
+  "fe85d7b9-3d40-4c69-8bad-dc739b0f4cc3": {
+    "asset": 1669527693000,
+    "meta": 1671376164742,
+    "relativePath": "source/素材/4.电闸"
+  },
+  "38e4b998-4081-4f20-8e8e-9e12e6d673ee": {
+    "asset": 1669527693000,
+    "meta": 1671376164742,
+    "relativePath": "source/素材/5.宿舍门"
+  },
+  "db52bce7-7b6d-4bba-ba65-94340fcd8a15": {
+    "asset": 1669527483000,
+    "meta": 1671376164742,
+    "relativePath": "source/素材/8.洗衣机"
+  },
+  "7ad02f43-5d4d-4640-b13c-621a1fc1ecda": {
+    "asset": 1669527693000,
+    "meta": 1671376164743,
+    "relativePath": "source/素材/弹窗"
+  },
+  "95da1ea2-8f4e-47e1-973c-5a009d00766c": {
+    "asset": 1669527442000,
+    "meta": 1671376164751,
+    "relativePath": "source/素材/25.衣杆.png"
+  },
+  "27c1e0e8-0cda-4991-babd-980ece23dfea": {
+    "asset": 1669527441000,
+    "meta": 1671376164748,
+    "relativePath": "source/素材/14 .宿舍灯开关.png"
+  },
+  "ef43dd69-a7c6-4be3-9ab8-8dfc344779fd": {
+    "asset": 1669527453000,
+    "meta": 1671376164742,
+    "relativePath": "source/素材/11.衣柜.png"
+  },
+  "1e523dd0-549f-4df2-81bb-917153174c94": {
+    "asset": 1669527452000,
+    "meta": 1671376164750,
+    "relativePath": "source/素材/11.衣柜（带锁）.png"
+  },
+  "abeff959-9493-4d5a-890b-2eab4e62f9f4": {
+    "asset": 1669527461000,
+    "meta": 1671376164923,
+    "relativePath": "source/素材/10洗漱台/10-洗漱台大图(无杯子).png"
+  },
+  "9875eda7-a3e9-4a6b-9359-1a9fea7e3a45": {
+    "asset": 1669527464000,
+    "meta": 1671376164922,
+    "relativePath": "source/素材/10洗漱台/10-蓝色杯子.png"
+  },
+  "848d30bd-cc9e-4f27-a309-a58c2e7f9bd6": {
+    "asset": 1669527463000,
+    "meta": 1671376164923,
+    "relativePath": "source/素材/10洗漱台/10-洗漱台大图(有杯子).png"
+  },
+  "3d8af1d1-4118-4e70-8d8a-fc3c399e2243": {
+    "asset": 1669527459000,
+    "meta": 1671376164925,
+    "relativePath": "source/素材/15.六间宿舍背景/159161669353436_.pic.jpg"
+  },
+  "93a25ebf-f7a6-4a67-86bd-d27e868c669b": {
+    "asset": 1669527479000,
+    "meta": 1671376164978,
+    "relativePath": "source/素材/26.柜子密码锁/26.a 数字1.png"
+  },
+  "35a06ec5-d3f7-44d7-a61a-8d8bae6c9fdc": {
+    "asset": 1669527458000,
+    "meta": 1671376164926,
+    "relativePath": "source/素材/15.六间宿舍背景/159291669360420_.pic.jpg"
+  },
+  "c03f6d1c-64f5-47b6-bdb1-029eee412ea9": {
+    "asset": 1669527456000,
+    "meta": 1671376164927,
+    "relativePath": "source/素材/15.六间宿舍背景/159281669360404_.pic.jpg"
+  },
+  "c3f3c583-99ce-430a-9c79-fc40cef79df7": {
+    "asset": 1669527457000,
+    "meta": 1671376164927,
+    "relativePath": "source/素材/15.六间宿舍背景/159311669360624_.pic.jpg"
+  },
+  "cca005c7-5522-4833-afa5-f946f1e0d59b": {
+    "asset": 1669527482000,
+    "meta": 1671376164978,
+    "relativePath": "source/素材/26.柜子密码锁/26.a 数字0.png"
+  },
+  "87af061e-7f02-4bdc-93ec-067c1ebb6ac9": {
+    "asset": 1669527446000,
+    "meta": 1671376164752,
+    "relativePath": "source/素材/9.阳台栏杆.png"
+  },
+  "6386a559-189e-43b8-8a68-10d57f031a2f": {
+    "asset": 1669527462000,
+    "meta": 1671376164921,
+    "relativePath": "source/素材/10洗漱台/10-黄色杯子.png"
+  },
+  "6ab4807d-baea-401f-9f69-4cc93b072c51": {
+    "asset": 1669527444000,
+    "meta": 1671376164753,
+    "relativePath": "source/素材/27.a台灯大图.png"
+  },
+  "ff05db44-203f-4e2b-83a0-5c9e017e865a": {
+    "asset": 1669527478000,
+    "meta": 1671376164984,
+    "relativePath": "source/素材/26.柜子密码锁/26.a 数字7.png"
+  },
+  "e534ab32-083f-40fe-803d-30d22a14da1b": {
+    "asset": 1669527477000,
+    "meta": 1671376164986,
+    "relativePath": "source/素材/26.柜子密码锁/26.a 数字8.png"
+  },
+  "a17538e1-cdbe-457e-90d0-f5a167efdf02": {
+    "asset": 1669527480000,
+    "meta": 1671376164988,
+    "relativePath": "source/素材/26.柜子密码锁/26.a柜子密码锁关闭大图.png"
+  },
+  "d8819235-a8fe-40ae-b60d-f2305f339b2c": {
+    "asset": 1669527469000,
+    "meta": 1671376165001,
+    "relativePath": "source/素材/30.洗衣机水位/30.水位块填充.png"
+  },
+  "b2cab564-8980-45e1-9bbc-82e7f62a7a90": {
+    "asset": 1669527467000,
+    "meta": 1671376165000,
+    "relativePath": "source/素材/30.洗衣机水位/30.水位块.png"
+  },
+  "0715d251-8506-4203-8d53-8214a9703f50": {
+    "asset": 1669527481000,
+    "meta": 1671376164978,
+    "relativePath": "source/素材/26.柜子密码锁/26.a 数字3.png"
+  },
+  "0e0bfbaf-e925-412c-a9cb-b84a449a1cce": {
+    "asset": 1669527466000,
+    "meta": 1671376165013,
+    "relativePath": "source/素材/30.洗衣机水位/30.水位块默认.png"
+  },
+  "6f58dc4a-6df5-49dd-8fd0-406711e3dffa": {
+    "asset": 1669527465000,
+    "meta": 1671376165017,
+    "relativePath": "source/素材/30.洗衣机水位/30.水位默认状态.png"
+  },
+  "0217446e-bf32-4941-b744-8e2312167ace": {
+    "asset": 1669527474000,
+    "meta": 1671376165041,
+    "relativePath": "source/素材/8.洗衣机/8.洗衣机.png"
+  },
+  "273b4790-2515-484e-a022-d0f98150e6e3": {
+    "asset": 1669527472000,
+    "meta": 1671376165046,
+    "relativePath": "source/素材/8.洗衣机/洗衣机按钮.1.png"
+  },
+  "184c4837-a925-45d7-9e9d-9f99cc32661c": {
+    "asset": 1669527468000,
+    "meta": 1671376165001,
+    "relativePath": "source/素材/30.洗衣机水位/30.水位块选择.png"
+  },
+  "f8cf7be8-a8b3-4b30-906f-796d5f7e95ae": {
+    "asset": 1669527475000,
+    "meta": 1671376165041,
+    "relativePath": "source/素材/8.洗衣机/8.a洗衣机大图.1 (1).png"
+  },
+  "af8db43f-9ed3-4268-b206-56fbfe89ea88": {
+    "asset": 1669527473000,
+    "meta": 1671376165041,
+    "relativePath": "source/素材/8.洗衣机/8.a洗衣机大图.png"
+  },
+  "8758ec5a-dee2-43da-a675-10c25f88411c": {
+    "asset": 1669527476000,
+    "meta": 1671376165048,
+    "relativePath": "source/素材/8.洗衣机/洗衣机按钮.3.png"
+  },
+  "28e5b032-a552-4aff-8a5a-eff5fa178401": {
+    "asset": 1669527471000,
+    "meta": 1671376165054,
+    "relativePath": "source/素材/8.洗衣机/洗衣机按钮.4.png"
+  },
+  "27e4a02a-e841-4e42-9886-6975d7b2a372": {
+    "asset": 1669527470000,
+    "meta": 1671376165048,
+    "relativePath": "source/素材/8.洗衣机/洗衣机按钮.2 (1).png"
+  },
+  "3ac9f6dd-ef4d-4710-b9fd-94dae2fa9de3": {
+    "asset": 1669527532000,
+    "meta": 1671376164944,
+    "relativePath": "source/素材/18密码锁/18-按键3.png"
+  },
+  "6a34314c-ec2f-48f6-aa6d-a65fc6f83933": {
+    "asset": 1669527533000,
+    "meta": 1671376164940,
+    "relativePath": "source/素材/18密码锁/18-按键1.png"
+  },
+  "0e6a678a-3180-448b-ae0b-8a8f15be42bf": {
+    "asset": 1669527539000,
+    "meta": 1671376164932,
+    "relativePath": "source/素材/18密码锁/18-密码锁（不带数字）.png"
+  },
+  "ac99c151-16ee-462d-89c2-3e519dd54c78": {
+    "asset": 1669527528000,
+    "meta": 1671376164933,
+    "relativePath": "source/素材/18密码锁/18-密码锁（带数字）.png"
+  },
+  "b11a4c7d-d6ee-488d-a0b4-a54900876e55": {
+    "asset": 1669527530000,
+    "meta": 1671376164955,
+    "relativePath": "source/素材/18密码锁/18-按键7.png"
+  },
+  "e373d0a8-d12d-496a-b4bb-80b368aab77e": {
+    "asset": 1669527536000,
+    "meta": 1671376164954,
+    "relativePath": "source/素材/18密码锁/18-按键6.png"
+  },
+  "2c172ed2-5410-4be2-94bd-60e282155e40": {
+    "asset": 1669527538000,
+    "meta": 1671376164951,
+    "relativePath": "source/素材/18密码锁/18-按键4.png"
+  },
+  "8a79fe43-1895-4294-897f-71bda29422af": {
+    "asset": 1669527537000,
+    "meta": 1671376164956,
+    "relativePath": "source/素材/18密码锁/18-按键9.png"
+  },
+  "8de7da2d-66dd-4b42-af3d-7088f6fddaa6": {
+    "asset": 1669527502000,
+    "meta": 1671376164962,
+    "relativePath": "source/素材/19存放石头装置/19-存放石头的装置（无按键图案）.png"
+  },
+  "173eb12d-b19c-43d9-ab3d-aef751ec4b26": {
+    "asset": 1669527529000,
+    "meta": 1671376164956,
+    "relativePath": "source/素材/18密码锁/18-按键8.png"
+  },
+  "65e26904-4c07-4af3-8670-0e7986182bf6": {
+    "asset": 1669527534000,
+    "meta": 1671376164942,
+    "relativePath": "source/素材/18密码锁/18-按键2.png"
+  },
+  "17c5d5a9-d1dc-4e22-9128-1e1d700e4d48": {
+    "asset": 1669527542000,
+    "meta": 1671376164950,
+    "relativePath": "source/素材/16.走廊背景/159251669357813_ 2.pic.jpg"
+  },
+  "220a160c-5e86-4011-91d5-e63433bdc889": {
+    "asset": 1669527540000,
+    "meta": 1671376164947,
+    "relativePath": "source/素材/16.走廊背景/159251669357813_.pic.jpg"
+  },
+  "5258fca8-330d-4168-b5ea-ee6dc97b213c": {
+    "asset": 1669527511000,
+    "meta": 1671376164960,
+    "relativePath": "source/素材/19存放石头装置/19-存放石头的装置（放上石头）.png"
+  },
+  "7699acba-c3ee-4e5e-b581-1352fd418d32": {
+    "asset": 1669527531000,
+    "meta": 1671376164952,
+    "relativePath": "source/素材/18密码锁/18-按键5.png"
+  },
+  "80864126-c53d-4908-8e50-325aa00ee7e7": {
+    "asset": 1669527543000,
+    "meta": 1671376164945,
+    "relativePath": "source/素材/16.走廊背景/159231669357374_.pic.jpg"
+  },
+  "b09c7607-46bb-4b91-a0cd-26774e66126f": {
+    "asset": 1669527512000,
+    "meta": 1671376164961,
+    "relativePath": "source/素材/19存放石头装置/19-按键+.png"
+  },
+  "855d413e-e7a2-4273-b251-2f12c114f04f": {
+    "asset": 1669527507000,
+    "meta": 1671376164964,
+    "relativePath": "source/素材/19存放石头装置/19-按键-.png"
+  },
+  "0f99ab87-36ae-4cc9-9db8-d06ffbf59019": {
+    "asset": 1669527504000,
+    "meta": 1671376164964,
+    "relativePath": "source/素材/19存放石头装置/19-按键×.png"
+  },
+  "bcc8e516-e612-406f-866b-92f5d8ce7747": {
+    "asset": 1669527513000,
+    "meta": 1671376164961,
+    "relativePath": "source/素材/19存放石头装置/19-存放石头的装置（未放石头）.png"
+  },
+  "2092b97c-0c3a-4a43-b5fa-3c73ea9ae2ed": {
+    "asset": 1669527506000,
+    "meta": 1671376164965,
+    "relativePath": "source/素材/19存放石头装置/19-按键÷.png"
+  },
+  "3fe05a4a-fa51-444e-8fd2-2554f3417483": {
+    "asset": 1669527503000,
+    "meta": 1671376164965,
+    "relativePath": "source/素材/19存放石头装置/19-按键三角形.png"
+  },
+  "cfdff4b6-b448-444f-b523-b8d7cd0d31d6": {
+    "asset": 1669527510000,
+    "meta": 1671376164969,
+    "relativePath": "source/素材/19存放石头装置/19-按键五角星.png"
+  },
+  "b76d7628-8559-4a62-9ad7-3a38411710d1": {
+    "asset": 1669527509000,
+    "meta": 1671376164969,
+    "relativePath": "source/素材/19存放石头装置/19-按键圆形.png"
+  },
+  "3b72df26-8043-4d0f-b9c6-9bd47f9cfecb": {
+    "asset": 1669527508000,
+    "meta": 1671376164968,
+    "relativePath": "source/素材/19存放石头装置/19-按键正方形.png"
+  },
+  "2046eb07-92d8-45c8-b550-6f9ba7ff9b51": {
+    "asset": 1669527515000,
+    "meta": 1671376164973,
+    "relativePath": "source/素材/22衣服/22-³ְִֹ.png"
+  },
+  "59f9fea0-d32c-422f-b53b-8a6b4e75bcd8": {
+    "asset": 1669527501000,
+    "meta": 1671376164969,
+    "relativePath": "source/素材/19存放石头装置/19-按键菱形.png"
+  },
+  "7d5e5fac-e358-4dea-9a03-1810d295679e": {
+    "asset": 1669527514000,
+    "meta": 1671376164973,
+    "relativePath": "source/素材/22衣服/22-ׁ¼ֹאֳ±.png"
+  },
+  "846cf704-1f05-4589-8e17-b04c54f64b98": {
+    "asset": 1669527518000,
+    "meta": 1671376164974,
+    "relativePath": "source/素材/22衣服/22-袜子.png"
+  },
+  "d9eb353c-8fbb-42f2-ac87-6328b4d79ad2": {
+    "asset": 1669527483000,
+    "meta": 1671376164977,
+    "relativePath": "source/素材/26.柜子密码锁/26.a 数字2.png"
+  },
+  "78d9aa9d-f4ab-49aa-924f-18bcc96401a3": {
+    "asset": 1669527487000,
+    "meta": 1671376164982,
+    "relativePath": "source/素材/26.柜子密码锁/26.a 数字4.png"
+  },
+  "43853d8e-a366-4a18-a158-94f35612c8f9": {
+    "asset": 1669527516000,
+    "meta": 1671376164975,
+    "relativePath": "source/素材/22衣服/22-裤子.png"
+  },
+  "87b310e7-8e5e-49a2-9725-a7d37480aa64": {
+    "asset": 1669527487000,
+    "meta": 1671376164985,
+    "relativePath": "source/素材/26.柜子密码锁/26.a 数字6.png"
+  },
+  "7ce893f1-43d9-45f4-8bcd-915cfe8aedff": {
+    "asset": 1669527485000,
+    "meta": 1671376164983,
+    "relativePath": "source/素材/26.柜子密码锁/26.a 数字5.png"
+  },
+  "0e350036-3b56-46fa-9e9c-cbedfaa19bc6": {
+    "asset": 1669527485000,
+    "meta": 1671376164986,
+    "relativePath": "source/素材/26.柜子密码锁/26.a 数字9.png"
+  },
+  "0ec4067e-89fc-407e-a72e-4fa5d317c0a5": {
+    "asset": 1669527499000,
+    "meta": 1671376164992,
+    "relativePath": "source/素材/27.a 台灯大图/27.a台灯大图.png"
+  },
+  "27e12c37-4faa-46d3-83f5-9856f9b34352": {
+    "asset": 1669527493000,
+    "meta": 1671376164991,
+    "relativePath": "source/素材/27.a 台灯大图/27.a台灯按钮.1.png"
+  },
+  "18c459f4-ba20-44f2-ab38-77b9aaed7b0b": {
+    "asset": 1669527495000,
+    "meta": 1671376164992,
+    "relativePath": "source/素材/27.a 台灯大图/27.a台灯按钮.2.png"
+  },
+  "6eafd33c-ebc5-47a9-8acf-02bc92e25ccd": {
+    "asset": 1669527494000,
+    "meta": 1671376164993,
+    "relativePath": "source/素材/27.a 台灯大图/台灯终稿.png"
+  },
+  "cb4f111f-ab96-4b9f-a28a-fd1f4ef76578": {
+    "asset": 1669527497000,
+    "meta": 1671376164993,
+    "relativePath": "source/素材/27.a 台灯大图/红色灯罩.png"
+  },
+  "16854977-550e-434c-b23e-84e795d16deb": {
+    "asset": 1669527496000,
+    "meta": 1671376164998,
+    "relativePath": "source/素材/27.a 台灯大图/蓝色灯罩 (1).png"
+  },
+  "54f80e35-51d4-4310-9af7-6cf8382dc909": {
+    "asset": 1669527489000,
+    "meta": 1671376164987,
+    "relativePath": "source/素材/26.柜子密码锁/26.a柜子密码锁打开大图.png"
+  },
+  "015779be-dfe7-4d6b-b0be-59693cd44491": {
+    "asset": 1669527498000,
+    "meta": 1671376164994,
+    "relativePath": "source/素材/27.a 台灯大图/绿色灯罩 (1).png"
+  },
+  "4400ae49-d48f-4713-b052-d6f86654ff8b": {
+    "asset": 1669527500000,
+    "meta": 1671376164997,
+    "relativePath": "source/素材/27.a 台灯大图/黄色灯罩.png"
+  },
+  "5b8752e3-4d57-426f-8d81-26e17a1e3fd4": {
+    "asset": 1669527545000,
+    "meta": 1671376164999,
+    "relativePath": "source/素材/28.桌面/28.a桌子数字.png"
+  },
+  "d08fc306-98d2-4ae2-994f-4269e16f6e9c": {
+    "asset": 1669527526000,
+    "meta": 1671376165019,
+    "relativePath": "source/素材/31.杯子/31.矮杯子.png"
+  },
+  "962aa151-a454-4682-8aad-40cfe6bfec51": {
+    "asset": 1669527544000,
+    "meta": 1671376165000,
+    "relativePath": "source/素材/28.桌面/28.桌面大图.png"
+  },
+  "7a6a9204-7ea1-4084-bee1-a7f318084ed4": {
+    "asset": 1669527527000,
+    "meta": 1671376165018,
+    "relativePath": "source/素材/31.杯子/31.高杯子.png"
+  },
+  "de3d835e-5472-4c7c-994a-32740bb77e67": {
+    "asset": 1669527520000,
+    "meta": 1671376165020,
+    "relativePath": "source/素材/4.电闸/4.a 电闸大图.png"
+  },
+  "b90ee5f1-78ad-413c-b326-1c3bac5a0a45": {
+    "asset": 1669527524000,
+    "meta": 1671376165022,
+    "relativePath": "source/素材/5.宿舍门/5.a开门.2.png"
+  },
+  "20457dc6-0486-4d3a-a269-b2d3dd8bf646": {
+    "asset": 1669527521000,
+    "meta": 1671376165020,
+    "relativePath": "source/素材/4.电闸/4.b 电闸开关.png"
+  },
+  "d8907dad-c0e9-4f57-85bf-09d36bcb7599": {
+    "asset": 1669527525000,
+    "meta": 1671376165022,
+    "relativePath": "source/素材/5.宿舍门/5.a开门.1.png"
+  },
+  "18ee9ae1-4cae-4f69-b818-ef06705a520e": {
+    "asset": 1669527523000,
+    "meta": 1671376165039,
+    "relativePath": "source/素材/5.宿舍门/5.a开门.3.png"
+  },
+  "50daf069-921e-4971-ab53-283fb896b39a": {
+    "asset": 1669527492000,
+    "meta": 1671376165054,
+    "relativePath": "source/素材/弹窗/弹窗.1.png"
+  },
+  "c1608fde-4a91-4d80-9f74-c54249eb6d77": {
+    "asset": 1669527519000,
+    "meta": 1671376165021,
+    "relativePath": "source/素材/4.电闸/4.电闸.png"
+  },
+  "5579d949-22f9-4a8e-b461-c0bd28548b0f": {
+    "asset": 1669527522000,
+    "meta": 1671376165040,
+    "relativePath": "source/素材/5.宿舍门/5.宿舍门.png"
+  },
+  "11eb7f1b-a2f8-439f-9d28-b018a923f5ad": {
+    "asset": 1669527490000,
+    "meta": 1671376165056,
+    "relativePath": "source/素材/弹窗/弹窗.3.png"
+  },
+  "8d5ce81e-2e5e-4117-bf6e-16799bf9d8f7": {
+    "asset": 1669527491000,
+    "meta": 1671376165055,
+    "relativePath": "source/素材/弹窗/弹窗.2.png"
+  },
+  "f1284670-2e34-4d7f-a9bc-e5517efd8368": {
+    "asset": 1670760264000,
+    "meta": 1671376164333,
+    "relativePath": "scripts/tool"
+  },
+  "9dbbcd75-19fc-48f6-8765-74576ed05492": {
+    "asset": 1670761518000,
+    "meta": 1671376164287,
+    "relativePath": "scripts/item"
+  },
+  "e04e5633-60ac-4984-a626-b315ed2b1015": {
+    "asset": 1670761540000,
+    "meta": 1671376164285,
+    "relativePath": "scripts/dialog"
+  },
+  "025de2fe-d9d2-4b5e-8460-658deca02c69": {
+    "asset": 1670508006000,
+    "meta": 1671376164555,
+    "relativePath": "scripts/item/item.js"
+  },
+  "96ff6d88-a3ba-41f9-ac02-bf458b9e2ee3": {
+    "asset": 1670760693000,
+    "meta": 1671376164286,
+    "relativePath": "scripts/games"
+  },
+  "edb90ecd-552e-49b7-8c9c-7d02ffc0af38": {
+    "asset": 1670825801000,
+    "meta": 1671376164285,
+    "relativePath": "scripts/controller"
+  },
+  "a88afe35-60f0-498a-ade2-f313a97e418c": {
+    "asset": 1670760378000,
+    "meta": 1671376164333,
+    "relativePath": "scripts/tip"
+  },
+  "2f55febd-36d9-43eb-9e27-dbf23808a14f": {
+    "asset": 1670760875000,
+    "meta": 1671376164562,
+    "relativePath": "scripts/tip/tips.js"
+  },
+  "65d7d2f0-ff5b-4982-a2f6-f3e99edb1956": {
+    "asset": 1670768396000,
+    "meta": 1671376164286,
+    "relativePath": "scripts/info"
+  },
+  "627fb45a-e91c-4a0c-80b6-4e61de6ee7d8": {
+    "asset": 1670826318000,
+    "meta": 1671376164853,
+    "relativePath": "scenes/chapter1/games/chp1_scene1_1_game1.fire"
+  },
+  "7ae5e596-997d-4d48-aa9d-e1a9a281d465": {
+    "asset": 1670768498000,
+    "meta": 1671376164532,
+    "relativePath": "scripts/info/bagInfo.js"
+  },
+  "ef989efd-a56a-474c-902b-399c635bab69": {
+    "asset": 1670768727000,
+    "meta": 1671376164578,
+    "relativePath": "scripts/tool/tool.js"
+  },
+  "7ad76af9-9568-4c54-9125-4a14f0e833f8": {
+    "asset": 1670772215000,
+    "meta": 1671376164304,
+    "relativePath": "scripts/savestate.js"
+  },
+  "5ee397be-6455-41a1-acf6-0f5e199d49ad": {
+    "asset": 1671361674000,
+    "meta": 1671376164058,
+    "relativePath": "scenes/chapter1"
+  },
+  "cfc9d4f8-2e34-41a4-8ff1-3143059e74ea": {
+    "asset": 1671358744000,
+    "meta": 1671376164058,
+    "relativePath": "scenes/chapter2"
+  },
+  "f697954f-c892-4a89-9360-a7499dc0674c": {
+    "asset": 1671351651000,
+    "meta": 1671376164373,
+    "relativePath": "scenes/chapter1/games"
+  },
+  "3198b7bb-ab64-4bfb-9db7-1d7a91a5344a": {
+    "asset": 1671362001000,
+    "meta": 1671376164380,
+    "relativePath": "scenes/chapter2/games"
+  },
+  "4d71ad88-1c29-4fda-95c8-157abd7c1af6": {
+    "asset": 1670825828000,
+    "meta": 1671376164915,
+    "relativePath": "scenes/chapter2/games/chp2_scene2_1_game2.fire"
+  },
+  "b745fe50-ff13-458e-a4d4-66c5b0434f1a": {
+    "asset": 1670774720000,
+    "meta": 1671376164462,
+    "relativePath": "scripts/controller/saveState.js"
+  },
+  "e2b6cbc3-5993-4ddb-a635-765d9e673baa": {
+    "asset": 1670781249000,
+    "meta": 1671376164409,
+    "relativePath": "scripts/bag/useTool.js"
+  },
+  "20753d65-32d0-4d7a-9aa7-082fd1313d82": {
+    "asset": 1670781388000,
+    "meta": 1671376164392,
+    "relativePath": "scripts/bag/bagSetting.js"
+  },
+  "675b4323-ad4b-43b1-b7aa-022a766e44a4": {
+    "asset": 1670781392000,
+    "meta": 1671376164400,
+    "relativePath": "scripts/bag/bagTool.js"
+  },
+  "27d86bf0-be74-427c-bd56-9668767a8565": {
+    "asset": 1670825221000,
+    "meta": 1671376164539,
+    "relativePath": "scripts/info/dialogContent.js"
+  },
+  "21410b1d-b591-453e-b3e4-793e39a5b526": {
+    "asset": 1670855961000,
+    "meta": 1671376164508,
+    "relativePath": "scenes/chapter2/chp2_scene1.fire"
+  },
+  "b5e08d7d-8973-4c79-af89-d8156793c821": {
+    "asset": 1670777764000,
+    "meta": 1671376164441,
+    "relativePath": "scripts/controller/loadState.js"
+  },
+  "51c72900-dffd-49ac-af93-ce0814b2de5b": {
+    "asset": 1670826256000,
+    "meta": 1671376164265,
+    "relativePath": "scripts/changeback.js"
+  },
+  "3b9dc050-d1f7-4855-b34d-7cbeb1913b1c": {
+    "asset": 1671358983000,
+    "meta": 1671376164343,
+    "relativePath": "source/美工"
+  },
+  "47a3b782-ebaf-4077-9036-ead4f1d2d421": {
+    "asset": 1670853177000,
+    "meta": 1671376164743,
+    "relativePath": "source/美工/1.主角"
+  },
+  "20770432-50a1-45df-bfdc-7c4f209cd543": {
+    "asset": 1670853177000,
+    "meta": 1671376164743,
+    "relativePath": "source/美工/10.洗漱台"
+  },
+  "be3b8428-260e-40b7-b7ff-d79c00edc4a8": {
+    "asset": 1670853177000,
+    "meta": 1671376164744,
+    "relativePath": "source/美工/11.衣柜"
+  },
+  "5cbe58f9-2b27-40c7-91fd-f9995fe00586": {
+    "asset": 1670853177000,
+    "meta": 1671376164745,
+    "relativePath": "source/美工/13.蓝色的石头"
+  },
+  "1d4eab9d-d5e6-48d0-84ce-1030ed01874d": {
+    "asset": 1671072777000,
+    "meta": 1671376164749,
+    "relativePath": "source/美工/15.六间宿舍背景"
+  },
+  "ff8afd23-eb03-454f-94cb-fb1df94b4847": {
+    "asset": 1671352571000,
+    "meta": 1671376164749,
+    "relativePath": "source/美工/16.走廊背景"
+  },
+  "08e53137-0b24-4648-ad61-a9efbff7a4fe": {
+    "asset": 1670853177000,
+    "meta": 1671376164749,
+    "relativePath": "source/美工/18.锁着的楼梯口"
+  },
+  "c82e254a-73d8-4c67-a92e-fe2117898745": {
+    "asset": 1670853177000,
+    "meta": 1671376164750,
+    "relativePath": "source/美工/18密码锁"
+  },
+  "92bc8c80-57fe-4b91-941b-c6e62754386c": {
+    "asset": 1670853177000,
+    "meta": 1671376164751,
+    "relativePath": "source/美工/19.舍管房间墙壁装石头的装置"
+  },
+  "dd4255b7-c830-4f1f-a461-de70346fe530": {
+    "asset": 1670853177000,
+    "meta": 1671376164751,
+    "relativePath": "source/美工/19存放石头装置"
+  },
+  "6a3c1b4e-ec4c-4eed-9ed5-4b2b0388e174": {
+    "asset": 1670853177000,
+    "meta": 1671376164752,
+    "relativePath": "source/美工/22.301阳台晒的衣服"
+  },
+  "997e1d63-34df-48de-a367-f8c3974f4b48": {
+    "asset": 1670853177000,
+    "meta": 1671376164752,
+    "relativePath": "source/美工/22衣服"
+  },
+  "6e38f613-7072-4363-b8c1-14a37c565f50": {
+    "asset": 1670853177000,
+    "meta": 1671376164753,
+    "relativePath": "source/美工/25.衣杆"
+  },
+  "d235a9ee-3a16-4e21-8e6a-020ca8c63004": {
+    "asset": 1670853177000,
+    "meta": 1671376164754,
+    "relativePath": "source/美工/26.柜子密码锁"
+  },
+  "189a228f-ed80-47b5-a731-2d3be62f7885": {
+    "asset": 1670853177000,
+    "meta": 1671376164755,
+    "relativePath": "source/美工/27.a 台灯大图"
+  },
+  "e2a36366-f4f7-48ee-9669-9ebb3985626c": {
+    "asset": 1670853177000,
+    "meta": 1671376164755,
+    "relativePath": "source/美工/27.台灯"
+  },
+  "0abdb221-2627-4240-873d-f13029eead9a": {
+    "asset": 1670853177000,
+    "meta": 1671376164755,
+    "relativePath": "source/美工/28.桌面"
+  },
+  "26bb4e8a-b8a9-42e0-96de-fd5d042d9b20": {
+    "asset": 1670853177000,
+    "meta": 1671376164756,
+    "relativePath": "source/美工/30.洗衣机水位"
+  },
+  "4e8fd1c5-b284-48de-b735-a137b5fc6ba4": {
+    "asset": 1670853177000,
+    "meta": 1671376164756,
+    "relativePath": "source/美工/31.杯子"
+  },
+  "e2bd25d2-3828-45b2-afb1-4375571ec585": {
+    "asset": 1670853177000,
+    "meta": 1671376164757,
+    "relativePath": "source/美工/4.电闸"
+  },
+  "f5a7c581-deff-4913-ab9c-64e9a7ad18e2": {
+    "asset": 1670853177000,
+    "meta": 1671376164758,
+    "relativePath": "source/美工/5.宿舍门"
+  },
+  "44a50e5d-1583-4b12-8c46-9123766d7afb": {
+    "asset": 1670853177000,
+    "meta": 1671376164759,
+    "relativePath": "source/美工/8.洗衣机"
+  },
+  "0c5e10da-35e6-4ddb-a830-74753e0ce8c3": {
+    "asset": 1670846795000,
+    "meta": 1671376164759,
+    "relativePath": "source/美工/23.墙壁数字.zip"
+  },
+  "447ce614-eeb2-4900-b5bf-20c3dd2ad442": {
+    "asset": 1670846795000,
+    "meta": 1671376164773,
+    "relativePath": "source/美工/主角测试型号04.zip"
+  },
+  "a6d4795d-833b-465f-9d3d-8f3598ec8835": {
+    "asset": 1670853177000,
+    "meta": 1671376164773,
+    "relativePath": "source/美工/弹窗"
+  },
+  "f50d25b1-6001-4c56-a024-56ce25c3f7e6": {
+    "asset": 1670853177000,
+    "meta": 1671376164777,
+    "relativePath": "source/美工/测试型号01"
+  },
+  "454033a2-9b4d-4d4a-a0ef-4fed35e6caf8": {
+    "asset": 1670846795000,
+    "meta": 1671376164774,
+    "relativePath": "source/美工/密码锁.zip"
+  },
+  "24a7599e-87dc-4c8a-a57d-2e71edd30db2": {
+    "asset": 1670846795000,
+    "meta": 1671376164753,
+    "relativePath": "source/美工/1.a 主角静止动画.png"
+  },
+  "26e17184-f449-409e-8f65-eae6a9fe8247": {
+    "asset": 1670846795000,
+    "meta": 1671376164763,
+    "relativePath": "source/美工/25.衣杆.png"
+  },
+  "6e0a86e4-2ca0-4a88-a563-b6200fb1d454": {
+    "asset": 1670853177000,
+    "meta": 1671376165049,
+    "relativePath": "source/美工/1.主角/主角动画"
+  },
+  "b06564a8-85f8-4c6a-a5f8-42bf66470259": {
+    "asset": 1670846795000,
+    "meta": 1671376164757,
+    "relativePath": "source/美工/11.衣柜.png"
+  },
+  "c22ac730-c863-44e0-9aad-0dc361622075": {
+    "asset": 1670846795000,
+    "meta": 1671376164757,
+    "relativePath": "source/美工/14 .宿舍灯开关.png"
+  },
+  "661714c0-94c3-46ea-86ec-a072481cb0f7": {
+    "asset": 1670846795000,
+    "meta": 1671376164765,
+    "relativePath": "source/美工/26.c.锁屏手机.png"
+  },
+  "9c5eed4b-857e-4ba2-bdb8-8d92a3652c37": {
+    "asset": 1670846795000,
+    "meta": 1671376164771,
+    "relativePath": "source/美工/9.阳台栏杆.png"
+  },
+  "0809ff69-586a-4861-a5d3-4f021b063d6a": {
+    "asset": 1670846795000,
+    "meta": 1671376164781,
+    "relativePath": "source/美工/美工.md"
+  },
+  "c967d9b0-5617-4d9d-8f1b-e46fac375a33": {
+    "asset": 1670846795000,
+    "meta": 1671376164771,
+    "relativePath": "source/美工/33.舍管房间.pic.jpg"
+  },
+  "85d6c56e-cc8d-4f3d-b88b-ade9c6f6f142": {
+    "asset": 1670846795000,
+    "meta": 1671376164785,
+    "relativePath": "source/美工/测试型号01.zip"
+  },
+  "fe12552b-b975-4676-953f-a9529d930111": {
+    "asset": 1670846795000,
+    "meta": 1671376165056,
+    "relativePath": "source/美工/1.主角/readme"
+  },
+  "23da4359-8a52-443c-befa-3734ec01a801": {
+    "asset": 1670846795000,
+    "meta": 1671376164808,
+    "relativePath": "source/美工/Bed.png"
+  },
+  "f64243c3-cdd7-495b-89f0-4d4c3f186cd6": {
+    "asset": 1670846795000,
+    "meta": 1671376164762,
+    "relativePath": "source/美工/26.手机.png"
+  },
+  "ac15543d-ae52-4142-9dfa-c9e5587cdd6b": {
+    "asset": 1670846795000,
+    "meta": 1671376165059,
+    "relativePath": "source/美工/10.洗漱台/readme"
+  },
+  "5d9d6758-8d7e-4189-9c2c-058abe28d13d": {
+    "asset": 1670846795000,
+    "meta": 1671376164764,
+    "relativePath": "source/美工/26.b打开柜子.png"
+  },
+  "b89907ca-84a4-4b79-855d-6b5ed22b1fcb": {
+    "asset": 1670846795000,
+    "meta": 1671376164777,
+    "relativePath": "source/美工/密码锁.png"
+  },
+  "cccaa885-4724-42f8-9e06-54f02e3295e0": {
+    "asset": 1670846795000,
+    "meta": 1671376164779,
+    "relativePath": "source/美工/床.png"
+  },
+  "04f558d6-0ec8-4d54-b5cb-34bf36e0943b": {
+    "asset": 1670846795000,
+    "meta": 1671376164788,
+    "relativePath": "source/美工/一楼大厅.jpg"
+  },
+  "5b6ef5fa-3a2d-4e0b-9af1-f4ad0b5f27c9": {
+    "asset": 1670846795000,
+    "meta": 1671376164779,
+    "relativePath": "source/美工/开门改色.1.png"
+  },
+  "20f1dc77-cb98-4ef2-951d-690aebf08f2b": {
+    "asset": 1670846795000,
+    "meta": 1671376164780,
+    "relativePath": "source/美工/开门改色.2.png"
+  },
+  "ff621ae8-23d8-47bd-b966-38de70c8b6b9": {
+    "asset": 1670846795000,
+    "meta": 1671376164784,
+    "relativePath": "source/美工/洗衣机.png"
+  },
+  "ef3032ab-7deb-46da-9eb8-6dd5b10a8b85": {
+    "asset": 1670846795000,
+    "meta": 1671376164785,
+    "relativePath": "source/美工/测试型号00.png"
+  },
+  "1f74ea86-0129-40d6-9479-ca694ce185c2": {
+    "asset": 1670846795000,
+    "meta": 1671376164790,
+    "relativePath": "source/美工/门.2.png"
+  },
+  "d053b9f8-4e5b-4fe5-af1d-ea1929e0e69a": {
+    "asset": 1670846795000,
+    "meta": 1671376165053,
+    "relativePath": "source/美工/1.主角/1.a 主角静止动画.png"
+  },
+  "eb9e9997-4788-4367-8f41-9453106db31f": {
+    "asset": 1670846795000,
+    "meta": 1671376165064,
+    "relativePath": "source/美工/11.衣柜/第六天"
+  },
+  "44b978a0-f0fc-46bd-9d36-012b0f5dae47": {
+    "asset": 1670846795000,
+    "meta": 1671376165067,
+    "relativePath": "source/美工/13.蓝色的石头/readme"
+  },
+  "9d2f9b92-49e2-445c-8788-49a83d5d99a8": {
+    "asset": 1670846795000,
+    "meta": 1671376165060,
+    "relativePath": "source/美工/10.洗漱台/10.a洗漱台大图(无杯子).png"
+  },
+  "5c33e2a6-9681-43ee-9ec2-e5a916c49a4c": {
+    "asset": 1670846795000,
+    "meta": 1671376165057,
+    "relativePath": "source/美工/1.主角/1.主角 .png"
+  },
+  "e244654a-05fd-4717-9936-24fcb539fb59": {
+    "asset": 1670846795000,
+    "meta": 1671376165062,
+    "relativePath": "source/美工/10.洗漱台/10.b黄色杯子.png"
+  },
+  "a3ed991b-be57-4193-8686-673c39b49595": {
+    "asset": 1670846795000,
+    "meta": 1671376165062,
+    "relativePath": "source/美工/10.洗漱台/10.b蓝色杯子.png"
+  },
+  "4b7e002c-85b2-435a-a39f-0450218a4233": {
+    "asset": 1670846795000,
+    "meta": 1671376165063,
+    "relativePath": "source/美工/10.洗漱台/10.a洗漱台大图(有杯子).png"
+  },
+  "d43809ab-32bf-4aad-bce7-d25c538d38a6": {
+    "asset": 1670846795000,
+    "meta": 1671376165066,
+    "relativePath": "source/美工/11.衣柜/11.衣柜.1.png"
+  },
+  "4133e405-e913-4596-b4f0-e9e512fa7518": {
+    "asset": 1670846795000,
+    "meta": 1671376165065,
+    "relativePath": "source/美工/11.衣柜/11.衣柜.png"
+  },
+  "ffee1056-c9c0-4656-a89e-b2fbbbe7ba49": {
+    "asset": 1670846795000,
+    "meta": 1671376165066,
+    "relativePath": "source/美工/11.衣柜/床.png"
+  },
+  "db919c23-b4db-456b-be4c-09e558410810": {
+    "asset": 1670846795000,
+    "meta": 1671376165069,
+    "relativePath": "source/美工/13.蓝色的石头/13.蓝色宝石.png"
+  },
+  "04d44ba6-4637-4cb6-8b87-bd9d52a1f792": {
+    "asset": 1670846795000,
+    "meta": 1671376165074,
+    "relativePath": "source/美工/15.六间宿舍背景/301_.pic.jpg"
+  },
+  "9678d004-30ee-4ba8-9f11-40790370faf2": {
+    "asset": 1670846795000,
+    "meta": 1671376165076,
+    "relativePath": "source/美工/15.六间宿舍背景/302.pic.jpg"
+  },
+  "0ae12acf-d453-4f77-b97e-7c1f484ceba7": {
+    "asset": 1670846795000,
+    "meta": 1671376165078,
+    "relativePath": "source/美工/15.六间宿舍背景/303.pic.jpg"
+  },
+  "4e2cdd1b-fa50-4ef6-8f84-03ceaf9a9cc8": {
+    "asset": 1670846795000,
+    "meta": 1671376165073,
+    "relativePath": "source/美工/15.六间宿舍背景/201.pic.jpg"
+  },
+  "988b1472-f7b1-49ae-ae5a-0a982b31c191": {
+    "asset": 1670846795000,
+    "meta": 1671376165080,
+    "relativePath": "source/美工/18.锁着的楼梯口/18.a密码锁（不带数字）.png"
+  },
+  "b2b8b1dd-e72b-46a5-a3b1-7052572081d4": {
+    "asset": 1670846795000,
+    "meta": 1671376165085,
+    "relativePath": "source/美工/18.锁着的楼梯口/18.a密码锁（带数字）.png"
+  },
+  "ec6db24c-b829-4652-9039-441e119493c7": {
+    "asset": 1670846795000,
+    "meta": 1671376165093,
+    "relativePath": "source/美工/18.锁着的楼梯口/readme"
+  },
+  "c866576e-3386-443a-be08-df18a0972105": {
+    "asset": 1670846795000,
+    "meta": 1671376165084,
+    "relativePath": "source/美工/18.锁着的楼梯口/18.按键1.png"
+  },
+  "b97be3dd-c007-49b9-b43c-a4364cdfacab": {
+    "asset": 1670846795000,
+    "meta": 1671376165088,
+    "relativePath": "source/美工/16.走廊背景/159231669357374_.pic.jpg"
+  },
+  "218c02a1-e66a-4d19-b865-531c8df7007f": {
+    "asset": 1670846795000,
+    "meta": 1671376165082,
+    "relativePath": "source/美工/16.走廊背景/159251669357813_.pic.jpg"
+  },
+  "67a32b80-20b1-42b9-ac04-72882aa14ad7": {
+    "asset": 1670846795000,
+    "meta": 1671376165087,
+    "relativePath": "source/美工/18.锁着的楼梯口/18.按键2.png"
+  },
+  "96e14859-75ec-48da-91c8-146f50579c0d": {
+    "asset": 1670846795000,
+    "meta": 1671376165091,
+    "relativePath": "source/美工/18.锁着的楼梯口/18.按键5.png"
+  },
+  "b6771fa0-7911-4b6b-947f-a8250211a4d4": {
+    "asset": 1670846795000,
+    "meta": 1671376165088,
+    "relativePath": "source/美工/18.锁着的楼梯口/18.按键3.png"
+  },
+  "2f25d538-1d3e-41db-bdd6-45e9399dca09": {
+    "asset": 1670846795000,
+    "meta": 1671376165091,
+    "relativePath": "source/美工/18.锁着的楼梯口/18.按键6.png"
+  },
+  "c3bca0f9-8737-4ec4-b6eb-1a33659e2a0e": {
+    "asset": 1670846795000,
+    "meta": 1671376165092,
+    "relativePath": "source/美工/18.锁着的楼梯口/18.按键7.png"
+  },
+  "ade081bb-927f-4c51-8012-c8e0718e7985": {
+    "asset": 1670846795000,
+    "meta": 1671376165089,
+    "relativePath": "source/美工/18.锁着的楼梯口/18.按键4.png"
+  },
+  "b3f50e48-653a-4cbf-a3a8-96a48a9e1bec": {
+    "asset": 1670846795000,
+    "meta": 1671376165094,
+    "relativePath": "source/美工/18.锁着的楼梯口/18.按键8.png"
+  },
+  "ceb24e68-4bf6-4e36-8aef-f080bc20c519": {
+    "asset": 1670846795000,
+    "meta": 1671376165094,
+    "relativePath": "source/美工/18.锁着的楼梯口/18.按键9.png"
+  },
+  "866c5442-135a-41aa-ada8-0d23dfda2d1c": {
+    "asset": 1670846795000,
+    "meta": 1671376165096,
+    "relativePath": "source/美工/18密码锁/18-密码锁（不带数字）.png"
+  },
+  "36f69e52-a387-4760-acbb-bfd9ae87d00a": {
+    "asset": 1670846795000,
+    "meta": 1671376165098,
+    "relativePath": "source/美工/18密码锁/18-密码锁（带数字）.png"
+  },
+  "343272cf-9397-4f71-85a3-339ac43fe4b6": {
+    "asset": 1670846795000,
+    "meta": 1671376165097,
+    "relativePath": "source/美工/18密码锁/18-按键1.png"
+  },
+  "068183d6-6cd0-4c4d-af10-9b346a706cb2": {
+    "asset": 1670846795000,
+    "meta": 1671376165097,
+    "relativePath": "source/美工/18密码锁/18-按键2.png"
+  },
+  "f5dedc86-c6b3-4c46-811f-dfa45e3dcc2b": {
+    "asset": 1670846795000,
+    "meta": 1671376165100,
+    "relativePath": "source/美工/18密码锁/18-按键3.png"
+  },
+  "097e8c17-1c8b-4b6d-a563-93187d4ef8db": {
+    "asset": 1670846795000,
+    "meta": 1671376165101,
+    "relativePath": "source/美工/18密码锁/18-按键4.png"
+  },
+  "6ddee826-b82a-455c-b8c0-d2007640de79": {
+    "asset": 1670846795000,
+    "meta": 1671376165101,
+    "relativePath": "source/美工/18密码锁/18-按键5.png"
+  },
+  "6acc4cb5-fc2e-4f2f-b1c2-97524154f6f3": {
+    "asset": 1670846795000,
+    "meta": 1671376165103,
+    "relativePath": "source/美工/18密码锁/18-按键6.png"
+  },
+  "38b915dc-4bd9-4bb6-a01b-5a25a42847dd": {
+    "asset": 1670846795000,
+    "meta": 1671376165104,
+    "relativePath": "source/美工/18密码锁/18-按键8.png"
+  },
+  "0d1e5b4f-8235-45f2-98f3-6fb614b5f781": {
+    "asset": 1670846795000,
+    "meta": 1671376165104,
+    "relativePath": "source/美工/18密码锁/18-按键9.png"
+  },
+  "fc7718fa-b047-4fbe-b665-53ab09e4c212": {
+    "asset": 1670846795000,
+    "meta": 1671376165103,
+    "relativePath": "source/美工/18密码锁/18-按键7.png"
+  },
+  "d422e254-8e91-4413-8658-fad4dfe847bb": {
+    "asset": 1670846795000,
+    "meta": 1671376165109,
+    "relativePath": "source/美工/19.舍管房间墙壁装石头的装置/19.a 存放石头的装置（未放石头）.png"
+  },
+  "87f0a6e0-44a0-4c6a-87e2-36e7364bba76": {
+    "asset": 1670846795000,
+    "meta": 1671376165110,
+    "relativePath": "source/美工/19.舍管房间墙壁装石头的装置/19.b 存放石头的装置（放上石头）.png"
+  },
+  "c6abf251-1eb2-4b75-a106-ea23f611f531": {
+    "asset": 1670846795000,
+    "meta": 1671376165110,
+    "relativePath": "source/美工/19.舍管房间墙壁装石头的装置/19.存放石头的装置（无按键图案）.png"
+  },
+  "4294994b-75dc-44c5-b80d-7a90b0e06625": {
+    "asset": 1670846795000,
+    "meta": 1671376165114,
+    "relativePath": "source/美工/19.舍管房间墙壁装石头的装置/readme"
+  },
+  "ac424413-8439-46dc-93e0-ac5edabdf313": {
+    "asset": 1670846795000,
+    "meta": 1671376165111,
+    "relativePath": "source/美工/19.舍管房间墙壁装石头的装置/19.按键+.png"
+  },
+  "f837dfa3-736c-4e5a-a619-773f006c7fac": {
+    "asset": 1670846795000,
+    "meta": 1671376165111,
+    "relativePath": "source/美工/19.舍管房间墙壁装石头的装置/19.按键-.png"
+  },
+  "6246bef6-a524-401d-9738-7582d120844d": {
+    "asset": 1670846795000,
+    "meta": 1671376165112,
+    "relativePath": "source/美工/19.舍管房间墙壁装石头的装置/19.按键÷.png"
+  },
+  "3c485c88-e4b0-44a0-ae37-25b04d2a6934": {
+    "asset": 1670846795000,
+    "meta": 1671376165115,
+    "relativePath": "source/美工/19.舍管房间墙壁装石头的装置/19.按键三角形.png"
+  },
+  "9f5ca9b5-7dc2-43c7-8881-81f15a8b6276": {
+    "asset": 1670846795000,
+    "meta": 1671376165112,
+    "relativePath": "source/美工/19.舍管房间墙壁装石头的装置/19.按键×.png"
+  },
+  "18462e39-7c84-4e87-ae6c-d62a4c80b13d": {
+    "asset": 1670846795000,
+    "meta": 1671376165116,
+    "relativePath": "source/美工/19.舍管房间墙壁装石头的装置/19.按键五角星.png"
+  },
+  "f53ee4b7-2cdf-49ad-9106-90c747abea6b": {
+    "asset": 1670846795000,
+    "meta": 1671376165117,
+    "relativePath": "source/美工/19.舍管房间墙壁装石头的装置/19.按键圆形.png"
+  },
+  "92b39434-6f13-40f6-8a5e-c18332ecb713": {
+    "asset": 1670846795000,
+    "meta": 1671376165117,
+    "relativePath": "source/美工/19.舍管房间墙壁装石头的装置/19.按键正方形.png"
+  },
+  "08e13ffc-bf58-4fb4-8ca4-3437a11b16f6": {
+    "asset": 1670846795000,
+    "meta": 1671376165118,
+    "relativePath": "source/美工/19.舍管房间墙壁装石头的装置/19.按键菱形.png"
+  },
+  "247a73e9-e8e8-4f56-98ae-f1f90cdf92bb": {
+    "asset": 1670846795000,
+    "meta": 1671376165124,
+    "relativePath": "source/美工/19存放石头装置/19-存放石头的装置（未放石头）.png"
+  },
+  "4dc206e3-19fd-4bf3-91c8-3ee5d5399e88": {
+    "asset": 1670846795000,
+    "meta": 1671376165119,
+    "relativePath": "source/美工/19存放石头装置/19-存放石头的装置（无按键图案）.png"
+  },
+  "bcdeb93c-6856-420c-9ae6-b110f71814bb": {
+    "asset": 1670846795000,
+    "meta": 1671376165118,
+    "relativePath": "source/美工/19存放石头装置/19-存放石头的装置（放上石头）.png"
+  },
+  "e126ce50-352a-460a-a186-a9c609f1c54a": {
+    "asset": 1670846795000,
+    "meta": 1671376165124,
+    "relativePath": "source/美工/19存放石头装置/19-按键-.png"
+  },
+  "587b62ff-d1f4-448a-a717-6636c0d2c519": {
+    "asset": 1670846795000,
+    "meta": 1671376165134,
+    "relativePath": "source/美工/22.301阳台晒的衣服/readme"
+  },
+  "94ea248f-f138-472b-9918-2a698d5904b1": {
+    "asset": 1670846795000,
+    "meta": 1671376165122,
+    "relativePath": "source/美工/19存放石头装置/19-按键+.png"
+  },
+  "ddee17af-30c3-4407-aeaa-5ccbaa22d42d": {
+    "asset": 1670846795000,
+    "meta": 1671376165123,
+    "relativePath": "source/美工/19存放石头装置/19-按键×.png"
+  },
+  "72ddb43a-0cd1-4faa-9830-122356426e50": {
+    "asset": 1670846795000,
+    "meta": 1671376165125,
+    "relativePath": "source/美工/19存放石头装置/19-按键÷.png"
+  },
+  "98b58a21-f0ab-4903-bf9a-068507380a91": {
+    "asset": 1670846795000,
+    "meta": 1671376165125,
+    "relativePath": "source/美工/19存放石头装置/19-按键三角形.png"
+  },
+  "1d30aabd-9adb-4e9a-93a4-e334da3fc441": {
+    "asset": 1670846795000,
+    "meta": 1671376165137,
+    "relativePath": "source/美工/25.衣杆/readme"
+  },
+  "0dadb37e-fa75-405c-8e13-3c8463d7c8d9": {
+    "asset": 1670846795000,
+    "meta": 1671376165126,
+    "relativePath": "source/美工/19存放石头装置/19-按键圆形.png"
+  },
+  "28d4ac9f-71d6-4035-bb97-79d1519e1763": {
+    "asset": 1670846795000,
+    "meta": 1671376165130,
+    "relativePath": "source/美工/19存放石头装置/19-按键正方形.png"
+  },
+  "7e40b690-fdbb-4b47-b5d1-23e49d5f69cf": {
+    "asset": 1670846795000,
+    "meta": 1671376165127,
+    "relativePath": "source/美工/19存放石头装置/19-按键五角星.png"
+  },
+  "947b7e73-39a9-4a41-babc-f0807022c403": {
+    "asset": 1670846795000,
+    "meta": 1671376165133,
+    "relativePath": "source/美工/22.301阳台晒的衣服/22.a 袜子.png"
+  },
+  "c72ede40-c8e4-4562-bc60-5d2294020596": {
+    "asset": 1670846795000,
+    "meta": 1671376165133,
+    "relativePath": "source/美工/19存放石头装置/19-按键菱形.png"
+  },
+  "5469baa6-26b2-47f0-ac52-70028757d325": {
+    "asset": 1670846795000,
+    "meta": 1671376165134,
+    "relativePath": "source/美工/22.301阳台晒的衣服/22.a 裤子.png"
+  },
+  "6b7811eb-6d0e-4c18-a481-7d1057ebc192": {
+    "asset": 1670846795000,
+    "meta": 1671376165133,
+    "relativePath": "source/美工/22.301阳台晒的衣服/22.a 衬衫.png"
+  },
+  "154e50b3-abf3-4428-9afe-85be99f6b25b": {
+    "asset": 1670846795000,
+    "meta": 1671376165135,
+    "relativePath": "source/美工/22.301阳台晒的衣服/22.a 鸭舌帽.png"
+  },
+  "90b691ad-aadb-4ffd-a0b3-0780ed9ab7a2": {
+    "asset": 1670846795000,
+    "meta": 1671376165140,
+    "relativePath": "source/美工/22衣服/22-ׁ¼ֹאֳ±.png"
+  },
+  "375dfb48-d420-44e7-b5c9-6057706f1d1b": {
+    "asset": 1670846795000,
+    "meta": 1671376165142,
+    "relativePath": "source/美工/22衣服/22-袜子.png"
+  },
+  "cdcdd520-6add-4334-92ec-84e2254734b4": {
+    "asset": 1670846795000,
+    "meta": 1671376165138,
+    "relativePath": "source/美工/22衣服/22-³ְִֹ.png"
+  },
+  "b62a81d1-bf4d-4883-87df-467983ceffe0": {
+    "asset": 1670846795000,
+    "meta": 1671376165141,
+    "relativePath": "source/美工/22衣服/22-裤子.png"
+  },
+  "31df6a4e-5177-4271-adf6-a6723a14d735": {
+    "asset": 1670846795000,
+    "meta": 1671376165140,
+    "relativePath": "source/美工/25.衣杆/25.衣杆.png"
+  },
+  "6a81e717-a61d-4e2f-a5d1-9c0893a1087c": {
+    "asset": 1670846795000,
+    "meta": 1671376165142,
+    "relativePath": "source/美工/26.柜子密码锁/26.a 数字0.png"
+  },
+  "39fef19b-79a4-4581-8a19-d457d233e6b3": {
+    "asset": 1670846795000,
+    "meta": 1671376165153,
+    "relativePath": "source/美工/26.柜子密码锁/第七天"
+  },
+  "e0c70f57-c54e-4dba-b95e-2de49ad295b4": {
+    "asset": 1670846795000,
+    "meta": 1671376165148,
+    "relativePath": "source/美工/26.柜子密码锁/26.a 数字3.png"
+  },
+  "4a20eb77-f3a9-4065-a2e4-ef6d3c72e96f": {
+    "asset": 1670846795000,
+    "meta": 1671376165147,
+    "relativePath": "source/美工/26.柜子密码锁/26.a 数字2.png"
+  },
+  "c29c9381-a8ab-439a-8a58-fc41cdd7eae5": {
+    "asset": 1670846795000,
+    "meta": 1671376165149,
+    "relativePath": "source/美工/26.柜子密码锁/26.a 数字4.png"
+  },
+  "dd0042fa-2b6e-45a9-96c4-8d3c43da92f1": {
+    "asset": 1670846795000,
+    "meta": 1671376165143,
+    "relativePath": "source/美工/26.柜子密码锁/26.a 数字1.png"
+  },
+  "42802a15-2d07-4472-818f-f71ce9d6f5b5": {
+    "asset": 1670846795000,
+    "meta": 1671376165150,
+    "relativePath": "source/美工/26.柜子密码锁/26.a 数字5.png"
+  },
+  "b43fe41b-2632-45cf-9d68-c8d04cc3c4db": {
+    "asset": 1670846795000,
+    "meta": 1671376165149,
+    "relativePath": "source/美工/26.柜子密码锁/26.a 数字6.png"
+  },
+  "319b9d78-fbfe-45de-a1fa-06dd8c7c7aab": {
+    "asset": 1670846795000,
+    "meta": 1671376165151,
+    "relativePath": "source/美工/26.柜子密码锁/26.a 数字7.png"
+  },
+  "5dd57025-9cff-4a68-a394-74f915839832": {
+    "asset": 1670846795000,
+    "meta": 1671376165152,
+    "relativePath": "source/美工/26.柜子密码锁/26.a 数字8.png"
+  },
+  "65ce6aa0-ad40-49cf-ae61-c4b9b4af7839": {
+    "asset": 1670846795000,
+    "meta": 1671376165151,
+    "relativePath": "source/美工/26.柜子密码锁/26.a 数字9.png"
+  },
+  "e0bee75c-e39d-4846-811a-e148ad2e553b": {
+    "asset": 1670846795000,
+    "meta": 1671376165157,
+    "relativePath": "source/美工/26.柜子密码锁/26.a柜子密码锁关闭大图.png"
+  },
+  "616f6e44-deb5-4d6b-aeed-96a09abfcbce": {
+    "asset": 1670846795000,
+    "meta": 1671376165158,
+    "relativePath": "source/美工/26.柜子密码锁/26.a柜子密码锁打开大图.png"
+  },
+  "71d9af82-09f5-4d39-9ebe-a3deb2bc9b3f": {
+    "asset": 1670846795000,
+    "meta": 1671376165158,
+    "relativePath": "source/美工/27.a 台灯大图/27.a台灯大图.png"
+  },
+  "1accda76-e46e-4c3c-b06a-4ece5bd60adb": {
+    "asset": 1670846795000,
+    "meta": 1671376165157,
+    "relativePath": "source/美工/27.a 台灯大图/27.a台灯按钮.1.png"
+  },
+  "f18049e2-ebd6-45e0-8c28-a27111fba7ab": {
+    "asset": 1670846795000,
+    "meta": 1671376165162,
+    "relativePath": "source/美工/27.a 台灯大图/27.a台灯按钮.2.png"
+  },
+  "e2dae0e0-73ef-45d4-bdb0-b72811dce0ad": {
+    "asset": 1670846795000,
+    "meta": 1671376165163,
+    "relativePath": "source/美工/27.a 台灯大图/台灯终稿.png"
+  },
+  "bb9bf2d7-881c-44eb-99c1-9a92880958f8": {
+    "asset": 1670846795000,
+    "meta": 1671376165174,
+    "relativePath": "source/美工/27.台灯/第九天"
+  },
+  "cb11946b-3a18-41f8-9656-15c6f09bf0ef": {
+    "asset": 1670846795000,
+    "meta": 1671376165164,
+    "relativePath": "source/美工/27.a 台灯大图/红色灯罩.png"
+  },
+  "a8949d66-e652-4b14-987b-0d3294f6d822": {
+    "asset": 1670846795000,
+    "meta": 1671376165165,
+    "relativePath": "source/美工/27.a 台灯大图/绿色灯罩 (1).png"
+  },
+  "3cb4f061-0149-4936-817a-e28d9ca67baa": {
+    "asset": 1670846795000,
+    "meta": 1671376165168,
+    "relativePath": "source/美工/27.a 台灯大图/蓝色灯罩 (1).png"
+  },
+  "c563aaa9-ae97-4baa-a3c1-71367283d3e4": {
+    "asset": 1670846795000,
+    "meta": 1671376165169,
+    "relativePath": "source/美工/27.a 台灯大图/黄色灯罩.png"
+  },
+  "3140431a-69fd-4988-91aa-b16f3bf70517": {
+    "asset": 1670846795000,
+    "meta": 1671376165179,
+    "relativePath": "source/美工/28.桌面/第八天"
+  },
+  "3f0b8f80-f82c-4c20-a90c-ea40a89eca39": {
+    "asset": 1670846795000,
+    "meta": 1671376165167,
+    "relativePath": "source/美工/27.台灯/27.a台灯按钮.1.png"
+  },
+  "09a8c5bc-bece-4233-a6f7-963bd7fcde1e": {
+    "asset": 1670846795000,
+    "meta": 1671376165181,
+    "relativePath": "source/美工/30.洗衣机水位/第五天"
+  },
+  "47677a61-18f8-4b4c-83b3-29a16bcb71eb": {
+    "asset": 1670846795000,
+    "meta": 1671376165168,
+    "relativePath": "source/美工/27.台灯/27.a台灯按钮.2.png"
+  },
+  "0ab1dfbd-f2eb-4f37-8818-694ad3bc3780": {
+    "asset": 1670846795000,
+    "meta": 1671376165174,
+    "relativePath": "source/美工/27.台灯/27.a台灯终稿.png"
+  },
+  "68fddf22-d2b7-42c9-852a-a63dd0c65380": {
+    "asset": 1670846795000,
+    "meta": 1671376165176,
+    "relativePath": "source/美工/27.台灯/27.a红色灯罩.png"
+  },
+  "917983d0-2cd1-4a5d-af3e-d3acdcc7040a": {
+    "asset": 1670846795000,
+    "meta": 1671376165176,
+    "relativePath": "source/美工/27.台灯/27.a蓝色灯罩.png"
+  },
+  "fef66e7b-6cc9-4449-9830-713043810544": {
+    "asset": 1670846795000,
+    "meta": 1671376165188,
+    "relativePath": "source/美工/4.电闸/第二天"
+  },
+  "32fb6906-eaf9-4ae8-8951-30e90aabf478": {
+    "asset": 1670846795000,
+    "meta": 1671376165175,
+    "relativePath": "source/美工/27.台灯/27.a绿色灯罩.png"
+  },
+  "d8559947-4605-49f5-ae99-1f69a9862ac9": {
+    "asset": 1670846795000,
+    "meta": 1671376165177,
+    "relativePath": "source/美工/27.台灯/27.a黄色灯罩.png"
+  },
+  "412c6bbf-1a77-4928-bf92-6bb517364bcd": {
+    "asset": 1670846795000,
+    "meta": 1671376165177,
+    "relativePath": "source/美工/28.桌面/28.a桌子数字.png"
+  },
+  "44f9117f-92e5-449b-b5d7-6a2f7700c1c6": {
+    "asset": 1670846795000,
+    "meta": 1671376165178,
+    "relativePath": "source/美工/28.桌面/28.桌面大图.png"
+  },
+  "b4d3a6a5-0be3-45a2-971a-7080c45bf81e": {
+    "asset": 1670846795000,
+    "meta": 1671376165182,
+    "relativePath": "source/美工/30.洗衣机水位/30.水位块.png"
+  },
+  "74b9a670-926c-4883-a671-cb75032db48f": {
+    "asset": 1670846795000,
+    "meta": 1671376165184,
+    "relativePath": "source/美工/30.洗衣机水位/30.水位块填充.png"
+  },
+  "aad95980-d2f8-48a2-8f95-e11c83db52b6": {
+    "asset": 1670846795000,
+    "meta": 1671376165184,
+    "relativePath": "source/美工/30.洗衣机水位/30.水位块选择.png"
+  },
+  "507247b5-31c2-4e7b-b2ec-802618496f68": {
+    "asset": 1670846795000,
+    "meta": 1671376165185,
+    "relativePath": "source/美工/30.洗衣机水位/30.水位默认状态.png"
+  },
+  "12221118-ead7-43a7-be96-6206a8123045": {
+    "asset": 1670846795000,
+    "meta": 1671376165195,
+    "relativePath": "source/美工/5.宿舍门/第一天"
+  },
+  "06a05381-d4e1-44be-bf5d-c069d4808cc5": {
+    "asset": 1670846795000,
+    "meta": 1671376165185,
+    "relativePath": "source/美工/30.洗衣机水位/30.水位块默认.png"
+  },
+  "4ba8e0c3-c84a-46f4-bfd8-56173537583c": {
+    "asset": 1670846795000,
+    "meta": 1671376165203,
+    "relativePath": "source/美工/8.洗衣机/第三天"
+  },
+  "ed4994be-35fc-4526-a36f-24088816208c": {
+    "asset": 1670846795000,
+    "meta": 1671376165189,
+    "relativePath": "source/美工/31.杯子/31.矮杯子.png"
+  },
+  "02410d1f-0a48-40cd-9ced-620b57afb40c": {
+    "asset": 1670846795000,
+    "meta": 1671376165190,
+    "relativePath": "source/美工/31.杯子/31.高杯子.png"
+  },
+  "8b13410e-b123-4f09-8991-73493cb45781": {
+    "asset": 1670853177000,
+    "meta": 1671376165219,
+    "relativePath": "source/美工/1.主角/主角动画/face to left"
+  },
+  "c2637b37-26b7-4ec2-9bae-90a309cd29fa": {
+    "asset": 1670846795000,
+    "meta": 1671376165191,
+    "relativePath": "source/美工/4.电闸/4.a 电闸大图.png"
+  },
+  "d3964a7c-b431-47c0-87a6-7fc27283cf5e": {
+    "asset": 1670853177000,
+    "meta": 1671376165219,
+    "relativePath": "source/美工/1.主角/主角动画/face to right"
+  },
+  "bf178119-2cc9-4019-8802-3aeca27e38a7": {
+    "asset": 1670846795000,
+    "meta": 1671376165190,
+    "relativePath": "source/美工/4.电闸/4.b 电闸开关.png"
+  },
+  "7f00dcbd-76c4-4a4f-ba20-8688ac95fe51": {
+    "asset": 1670846795000,
+    "meta": 1671376165192,
+    "relativePath": "source/美工/4.电闸/4.电闸.png"
+  },
+  "385f3dbf-69ac-47fb-b0c0-12dc7263661f": {
+    "asset": 1670846795000,
+    "meta": 1671376165193,
+    "relativePath": "source/美工/5.宿舍门/5.a开门.1.png"
+  },
+  "8861ad27-0c9c-4830-921b-750b7e4e5f70": {
+    "asset": 1670846795000,
+    "meta": 1671376165194,
+    "relativePath": "source/美工/5.宿舍门/5.a开门.2.png"
+  },
+  "c946e500-0a2f-4910-b7e8-98b0cdd49f21": {
+    "asset": 1670846795000,
+    "meta": 1671376165196,
+    "relativePath": "source/美工/5.宿舍门/5.a开门.3.png"
+  },
+  "49c10bb5-ef08-42ad-9eb0-66bb52883b8a": {
+    "asset": 1670846795000,
+    "meta": 1671376165198,
+    "relativePath": "source/美工/5.宿舍门/5.宿舍门.png"
+  },
+  "5cb919a2-1d4a-45f1-ac60-c8973add1605": {
+    "asset": 1670846795000,
+    "meta": 1671376165199,
+    "relativePath": "source/美工/8.洗衣机/8.a洗衣机大图.1.png"
+  },
+  "55f099e7-7868-4a0a-b053-8913604fd196": {
+    "asset": 1670846795000,
+    "meta": 1671376165205,
+    "relativePath": "source/美工/8.洗衣机/洗衣机按钮.1.png"
+  },
+  "ac47e2df-762c-4ba8-b083-bb48a579e49f": {
+    "asset": 1670846795000,
+    "meta": 1671376165200,
+    "relativePath": "source/美工/8.洗衣机/8.洗衣机.png"
+  },
+  "06591acb-4839-41ff-b127-64f0bf584786": {
+    "asset": 1670846795000,
+    "meta": 1671376165201,
+    "relativePath": "source/美工/8.洗衣机/洗衣机.png"
+  },
+  "0399e719-dd17-4a6e-bcc6-c5d2053b17fd": {
+    "asset": 1670846795000,
+    "meta": 1671376165206,
+    "relativePath": "source/美工/8.洗衣机/洗衣机按钮.2.png"
+  },
+  "c3d9cd0c-ab1d-42c4-92a2-a99f4a2a34d9": {
+    "asset": 1670846795000,
+    "meta": 1671376165207,
+    "relativePath": "source/美工/8.洗衣机/洗衣机按钮.3.png"
+  },
+  "9ceb5b15-b0a2-4099-87fb-916e0783b92b": {
+    "asset": 1670846795000,
+    "meta": 1671376165210,
+    "relativePath": "source/美工/弹窗/弹窗.3.png"
+  },
+  "ed6ef1ee-5a8b-48d3-9d28-74363cbbf0ce": {
+    "asset": 1670846795000,
+    "meta": 1671376165209,
+    "relativePath": "source/美工/弹窗/弹窗.1.png"
+  },
+  "8698e762-e855-4ef9-8924-848f246c5add": {
+    "asset": 1670846795000,
+    "meta": 1671376165209,
+    "relativePath": "source/美工/弹窗/弹窗.2.png"
+  },
+  "984bf19b-0cd2-44c5-b219-769c999ea11c": {
+    "asset": 1670846795000,
+    "meta": 1671376165210,
+    "relativePath": "source/美工/弹窗/弹窗.png"
+  },
+  "c636b881-8036-449e-b7fc-69e4221decba": {
+    "asset": 1670846795000,
+    "meta": 1671376165214,
+    "relativePath": "source/美工/测试型号01/01_jump.png"
+  },
+  "f59f5022-84c6-4c9c-b3ed-5929ce00ae91": {
+    "asset": 1670846795000,
+    "meta": 1671376165219,
+    "relativePath": "source/美工/测试型号01/01_run_left.png"
+  },
+  "8237cf7a-91a0-49ad-8ebc-788112b2d79d": {
+    "asset": 1670846795000,
+    "meta": 1671376165216,
+    "relativePath": "source/美工/测试型号01/01_run_right.png"
+  },
+  "adc40b21-589d-4e1b-95c4-5fb624d88d29": {
+    "asset": 1670846795000,
+    "meta": 1671376165217,
+    "relativePath": "source/美工/测试型号01/测试型号01.png"
+  },
+  "d05b3884-a5eb-4bb0-a467-ae8001db120a": {
+    "asset": 1670846795000,
+    "meta": 1671376165230,
+    "relativePath": "source/美工/1.主角/主角动画/face to left/left1.png"
+  },
+  "33d5c7d3-7896-4846-bc19-bd793c72bdbc": {
+    "asset": 1670846795000,
+    "meta": 1671376165227,
+    "relativePath": "source/美工/1.主角/主角动画/face to left/left2.png"
+  },
+  "7e8298fe-154d-4d21-9993-84f4dfaa644b": {
+    "asset": 1670846795000,
+    "meta": 1671376165229,
+    "relativePath": "source/美工/1.主角/主角动画/face to left/left3.png"
+  },
+  "a30e7398-2df6-4544-a008-059fc1ccf366": {
+    "asset": 1670846795000,
+    "meta": 1671376165235,
+    "relativePath": "source/美工/1.主角/主角动画/face to left/left5.png"
+  },
+  "7f6db4ad-8366-4947-afa4-33f373b023aa": {
+    "asset": 1670846795000,
+    "meta": 1671376165230,
+    "relativePath": "source/美工/1.主角/主角动画/face to left/left4.png"
+  },
+  "234e2faa-da25-490e-a837-a4c7f0a73494": {
+    "asset": 1670846795000,
+    "meta": 1671376165236,
+    "relativePath": "source/美工/1.主角/主角动画/face to left/left7.png"
+  },
+  "91a9710b-919e-40f0-bb5d-0ba8cff0e1ef": {
+    "asset": 1670846795000,
+    "meta": 1671376165237,
+    "relativePath": "source/美工/1.主角/主角动画/face to left/left8.png"
+  },
+  "0b70694a-65df-4519-a140-18ffbb494d04": {
+    "asset": 1670846795000,
+    "meta": 1671376165236,
+    "relativePath": "source/美工/1.主角/主角动画/face to left/left6.png"
+  },
+  "89fc7814-623b-4cca-bd07-0e044fc83879": {
+    "asset": 1670846795000,
+    "meta": 1671376165236,
+    "relativePath": "source/美工/1.主角/主角动画/face to right/right1.png"
+  },
+  "aca81faa-1f38-4ae8-9554-300e316e2749": {
+    "asset": 1670846795000,
+    "meta": 1671376165237,
+    "relativePath": "source/美工/1.主角/主角动画/face to right/right2.png"
+  },
+  "ac4ecd2d-332b-43eb-83db-5487f12f4d1f": {
+    "asset": 1670846795000,
+    "meta": 1671376165240,
+    "relativePath": "source/美工/1.主角/主角动画/face to right/right3.png"
+  },
+  "932f8de4-4fa0-473c-a83e-cda71e47c746": {
+    "asset": 1670846795000,
+    "meta": 1671376165240,
+    "relativePath": "source/美工/1.主角/主角动画/face to right/right4.png"
+  },
+  "3a3fbdad-1d82-461b-9a0a-51c4757583ec": {
+    "asset": 1670846795000,
+    "meta": 1671376165241,
+    "relativePath": "source/美工/1.主角/主角动画/face to right/right7.png"
+  },
+  "38216c72-8e67-461b-a7b7-58477b8e3daa": {
+    "asset": 1670846795000,
+    "meta": 1671376165242,
+    "relativePath": "source/美工/1.主角/主角动画/face to right/right5.png"
+  },
+  "721caa30-c759-4711-af90-c94e32afc3f4": {
+    "asset": 1670846795000,
+    "meta": 1671376165241,
+    "relativePath": "source/美工/1.主角/主角动画/face to right/right6.png"
+  },
+  "19cadfe6-5336-48a1-a1d9-f2d3d6fa79ff": {
+    "asset": 1670846795000,
+    "meta": 1671376165242,
+    "relativePath": "source/美工/1.主角/主角动画/face to right/right8.png"
+  },
+  "ad87051a-2d9a-41f8-8675-43b936f4b674": {
+    "asset": 1670854884000,
+    "meta": 1671376164035,
+    "relativePath": "animation/runleft.anim"
+  },
+  "da2ab779-d4e7-4fb2-944f-3c815957e794": {
+    "asset": 1670854895000,
+    "meta": 1671376164035,
+    "relativePath": "animation/runright.anim"
+  },
+  "51ee2c5d-53a8-4a07-b17e-181ed66d9afa": {
+    "asset": 1670854155000,
+    "meta": 1671376164035,
+    "relativePath": "animation/idle.anim"
+  },
+  "bffff164-8212-49dd-8c03-0e300dae9641": {
+    "asset": 1671072898000,
+    "meta": 1671376164394,
+    "relativePath": "scenes/chapter1/chp1_一楼走廊.fire"
+  },
+  "1125afd2-a51c-4845-affe-8cf8e2333906": {
+    "asset": 1671073699000,
+    "meta": 1671376164376,
+    "relativePath": "scenes/chapter1/chp1_302_1.fire"
+  },
+  "c54c79ca-b0ef-4d8c-9f3b-e8ef61beb097": {
+    "asset": 1671070465000,
+    "meta": 1671376164437,
+    "relativePath": "scripts/controller/game - 001.js"
+  },
+  "c9b7eafd-e4b3-4451-a50a-fb8c1d12b4b3": {
+    "asset": 1671071643000,
+    "meta": 1671376164570,
+    "relativePath": "scripts/tip/trigger.js"
+  },
+  "822613a1-908e-4624-a6a5-b3bc19ec2517": {
+    "asset": 1671087170000,
+    "meta": 1671376164430,
+    "relativePath": "scenes/chapter1/chp1_二楼走廊.fire"
+  },
+  "1493c3c7-6646-4961-acb9-7777db0cb46b": {
+    "asset": 1671073104000,
+    "meta": 1671376164381,
+    "relativePath": "scenes/chapter1/chp1_一楼走廊 - 001.fire"
+  },
+  "5bb93d6d-1090-487a-9fae-e9188d515d6c": {
+    "asset": 1671073274000,
+    "meta": 1671376164417,
+    "relativePath": "scripts/controller/camera.js"
+  },
+  "6e7e06b4-4eaa-4986-9a69-d1e3c22d75f8": {
+    "asset": 1671073540000,
+    "meta": 1671376164456,
+    "relativePath": "scripts/controller/player_ctrl_pc - 001.js"
+  },
+  "5903aee9-1ba8-4fe3-a93e-1e778dd280ff": {
+    "asset": 1671073917000,
+    "meta": 1671376164378,
+    "relativePath": "scenes/chapter1/chp1_303.fire"
+  },
+  "cd1d1b27-73e9-4203-bd23-05adcb0efa02": {
+    "asset": 1671089376000,
+    "meta": 1671376164375,
+    "relativePath": "scenes/chapter1/chp1_302.fire"
+  },
+  "8d753c8e-93e8-4ed5-9810-8f0e8ba93a4b": {
+    "asset": 1671074492000,
+    "meta": 1671376164373,
+    "relativePath": "scenes/chapter1/chp1_301.fire"
+  },
+  "6327188f-42aa-42ae-a6d8-e3c38f3f21d7": {
+    "asset": 1671075319000,
+    "meta": 1671376164527,
+    "relativePath": "scripts/info/ItemInfo.js"
+  },
+  "5317a874-661b-4bbf-98ca-d4393ec2bbc1": {
+    "asset": 1671075705000,
+    "meta": 1671376164505,
+    "relativePath": "scripts/game_chp1/cp1_lamp"
+  },
+  "7b0f7c20-be88-494d-bbfe-7af777582cf4": {
+    "asset": 1671078235000,
+    "meta": 1671376164836,
+    "relativePath": "scenes/chapter1/games/chp1_302_1_lamp.fire"
+  },
+  "3219443f-3468-4371-ac7a-c63384a5a718": {
+    "asset": 1671075704000,
+    "meta": 1671376164864,
+    "relativePath": "scripts/game_chp1/cp1_lamp/setbuttom.js"
+  },
+  "c4b1b467-5483-4e22-a81c-47e45b44ff65": {
+    "asset": 1671075704000,
+    "meta": 1671376164872,
+    "relativePath": "scripts/game_chp1/cp1_lamp/switchbutton.js"
+  },
+  "609a6c6c-132c-40ef-ab11-3cd3810aff2e": {
+    "asset": 1671075828000,
+    "meta": 1671376164056,
+    "relativePath": "resources/num"
+  },
+  "7d786f6f-3266-4584-bcdf-56651bc823d7": {
+    "asset": 1671075828000,
+    "meta": 1671376164353,
+    "relativePath": "resources/num/2.png"
+  },
+  "f135b6f7-0280-43fb-b906-c017f53e5418": {
+    "asset": 1671075828000,
+    "meta": 1671376164352,
+    "relativePath": "resources/num/1.png"
+  },
+  "4909bb36-76dd-4438-8ab4-4d047ef613bb": {
+    "asset": 1671075828000,
+    "meta": 1671376164359,
+    "relativePath": "resources/num/4.png"
+  },
+  "f09caf86-2d9d-46ba-9a2b-36926aff1c35": {
+    "asset": 1671075828000,
+    "meta": 1671376164357,
+    "relativePath": "resources/num/3.png"
+  },
+  "5f07fd95-d16b-4e2b-8432-6727174c66f1": {
+    "asset": 1671075828000,
+    "meta": 1671376164057,
+    "relativePath": "resources/shade"
+  },
+  "e3897046-09c5-4bfb-8b2c-0d04c698f916": {
+    "asset": 1671075828000,
+    "meta": 1671376164362,
+    "relativePath": "resources/shade/3.png"
+  },
+  "b0a06b06-8489-452c-a225-86fb2b12d553": {
+    "asset": 1671075828000,
+    "meta": 1671376164361,
+    "relativePath": "resources/shade/2.png"
+  },
+  "d1c4c3a8-3a93-446d-9ccd-d81abbb22a79": {
+    "asset": 1671075828000,
+    "meta": 1671376164361,
+    "relativePath": "resources/shade/1.png"
+  },
+  "61abd01e-8da1-43e9-a371-052228a329a1": {
+    "asset": 1671075828000,
+    "meta": 1671376164362,
+    "relativePath": "resources/shade/4.png"
+  },
+  "5b03ecea-60df-4e2c-923f-3a3428be7677": {
+    "asset": 1671075829000,
+    "meta": 1671376164041,
+    "relativePath": "resources/27.a台灯按钮.1.png"
+  },
+  "28967db7-12e1-42f9-a907-2aef27846620": {
+    "asset": 1671075830000,
+    "meta": 1671376164041,
+    "relativePath": "resources/27.a台灯按钮.2.png"
+  },
+  "f5eea8e1-052d-48b4-b671-2bf0aac8e194": {
+    "asset": 1671075831000,
+    "meta": 1671376164048,
+    "relativePath": "resources/27.a台灯终稿.png"
+  },
+  "b52b89b2-5302-4f98-8c21-184880cff838": {
+    "asset": 1671075832000,
+    "meta": 1671376164049,
+    "relativePath": "resources/28.a桌子数字.png"
+  },
+  "e6bc73b6-e150-4100-a88e-fff6bbf64ffd": {
+    "asset": 1671075833000,
+    "meta": 1671376164045,
+    "relativePath": "resources/28.桌面大图.png"
+  },
+  "3fc8f88f-05e0-4c72-a2b3-0873be60d82d": {
+    "asset": 1671076952000,
+    "meta": 1671376164031,
+    "relativePath": "llj"
+  },
+  "984678b0-1aae-458e-9343-10ef0308dfe4": {
+    "asset": 1671075658000,
+    "meta": 1671376164343,
+    "relativePath": "llj/assets/resources"
+  },
+  "620bd213-9e37-49fe-88c2-5d15f5b607b8": {
+    "asset": 1671075658000,
+    "meta": 1671376164344,
+    "relativePath": "llj/assets/script"
+  },
+  "24870901-245a-4526-a289-0df92080cdd4": {
+    "asset": 1671075658000,
+    "meta": 1671376164788,
+    "relativePath": "llj/assets/resources/num"
+  },
+  "57c5a5e5-e8a1-4ae1-97fa-82cf3580376f": {
+    "asset": 1671075658000,
+    "meta": 1671376164789,
+    "relativePath": "llj/assets/resources/shade"
+  },
+  "50f50dad-5181-41fa-8623-80d815ea02ea": {
+    "asset": 1670852823000,
+    "meta": 1671376164797,
+    "relativePath": "llj/assets/script/setbuttom.js"
+  },
+  "bfdd5343-3d3c-4caa-9004-755637e88f3e": {
+    "asset": 1670852823000,
+    "meta": 1671376164806,
+    "relativePath": "llj/assets/script/switchbutton.js"
+  },
+  "dea266a5-b11a-46e0-abba-6ca428bdaf62": {
+    "asset": 1670852823000,
+    "meta": 1671376164821,
+    "relativePath": "llj/assets/resources/28.a桌子数字.png"
+  },
+  "6e83e254-141f-4a51-beae-6d1f5c34a40e": {
+    "asset": 1670852823000,
+    "meta": 1671376164807,
+    "relativePath": "llj/assets/resources/27.a台灯按钮.1.png"
+  },
+  "b971e596-6e41-4c76-89f4-3bf6a0ffd554": {
+    "asset": 1670852823000,
+    "meta": 1671376164817,
+    "relativePath": "llj/assets/resources/27.a台灯按钮.2.png"
+  },
+  "98ab78a0-da1f-4952-8077-0e75198af693": {
+    "asset": 1670852823000,
+    "meta": 1671376164823,
+    "relativePath": "llj/assets/resources/28.桌面大图.png"
+  },
+  "c7840f3f-6cdc-4797-8e69-a1d6d1c058e4": {
+    "asset": 1670852823000,
+    "meta": 1671376164822,
+    "relativePath": "llj/assets/resources/27.a台灯终稿.png"
+  },
+  "1dff7eb4-d5bf-4b25-8ad8-863defd781ca": {
+    "asset": 1670852823000,
+    "meta": 1671376165218,
+    "relativePath": "llj/assets/resources/num/1.png"
+  },
+  "1a7dbbd3-8749-4526-9dd9-9f57dc3cae18": {
+    "asset": 1670852823000,
+    "meta": 1671376165219,
+    "relativePath": "llj/assets/resources/num/2.png"
+  },
+  "604a6e81-c467-4184-b4f1-9191b01746a2": {
+    "asset": 1670852823000,
+    "meta": 1671376165220,
+    "relativePath": "llj/assets/resources/num/3.png"
+  },
+  "ff95eb63-c781-4bfb-9392-3f8b2982608d": {
+    "asset": 1670852823000,
+    "meta": 1671376165220,
+    "relativePath": "llj/assets/resources/num/4.png"
+  },
+  "1f003047-3f47-469d-b4d9-c965e78bbeef": {
+    "asset": 1670852823000,
+    "meta": 1671376165228,
+    "relativePath": "llj/assets/resources/shade/3.png"
+  },
+  "1fcbdff8-55e0-46c8-9e34-0e4abd19167a": {
+    "asset": 1670852823000,
+    "meta": 1671376165226,
+    "relativePath": "llj/assets/resources/shade/1.png"
+  },
+  "9238ff9b-921a-474d-904b-9d5adfb97f38": {
+    "asset": 1670852823000,
+    "meta": 1671376165226,
+    "relativePath": "llj/assets/resources/shade/2.png"
+  },
+  "b1712737-2b91-497a-a192-0f48a8377743": {
+    "asset": 1670852823000,
+    "meta": 1671376165228,
+    "relativePath": "llj/assets/resources/shade/4.png"
+  },
+  "b23deee8-ba28-44f0-bdfb-b60c7bec50f2": {
+    "asset": 1671075878000,
+    "meta": 1671376164033,
+    "relativePath": "llj/assets"
+  },
+  "3f929a31-c594-4bc7-8865-f150c9f9fd63": {
+    "asset": 1671077313000,
+    "meta": 1671376164522,
+    "relativePath": "scripts/games/gameController.js"
+  },
+  "e1a79121-d3f7-4c7b-8f0e-99d4a8be894a": {
+    "asset": 1671078229000,
+    "meta": 1671376164429,
+    "relativePath": "scripts/controller/changeScene.js"
+  },
+  "e6653aee-4161-4346-a539-684b6cfd7a35": {
+    "asset": 1671078674000,
+    "meta": 1671376164503,
+    "relativePath": "scripts/game_chp1/cp1_cup"
+  },
+  "511781d7-3ec0-4a12-bea4-39c2ab1a87bc": {
+    "asset": 1670852823000,
+    "meta": 1671376164835,
+    "relativePath": "scripts/game_chp1/cp1_cup/1_java.js"
+  },
+  "402c0686-ec37-4028-92fe-8fc09092502c": {
+    "asset": 1670852823000,
+    "meta": 1671376164840,
+    "relativePath": "scripts/game_chp1/cp1_cup/2_java.js"
+  },
+  "ca069c95-f29c-41df-b45a-74d5153b91ef": {
+    "asset": 1670852823000,
+    "meta": 1671376164845,
+    "relativePath": "scripts/game_chp1/cp1_cup/3_java.js"
+  },
+  "e03b844e-385f-4b6b-8c20-5fae6c9d7731": {
+    "asset": 1670852823000,
+    "meta": 1671376164850,
+    "relativePath": "scripts/game_chp1/cp1_cup/4_java.js"
+  },
+  "6082da98-6428-4015-82a1-e954baabec11": {
+    "asset": 1670852823000,
+    "meta": 1671376164858,
+    "relativePath": "scripts/game_chp1/cp1_cup/5_java.js"
+  },
+  "23bf5889-d88d-4a59-8cfe-6d6830909d60": {
+    "asset": 1671079465000,
+    "meta": 1671376164826,
+    "relativePath": "scenes/chapter1/games/chp1_201_1_cup.fire"
+  },
+  "0f380715-a776-46f3-be57-e1af2c884680": {
+    "asset": 1671079617000,
+    "meta": 1671376164371,
+    "relativePath": "scenes/chapter1/chp1_201.fire"
+  },
+  "5f8f4391-30ae-4b90-8184-00ccef2abdeb": {
+    "asset": 1671079140000,
+    "meta": 1671376164509,
+    "relativePath": "scripts/game_chp1/cp1_washingMachine"
+  },
+  "481d8844-8d16-47f7-8fec-86aa18c0f77c": {
+    "asset": 1670852823000,
+    "meta": 1671376164882,
+    "relativePath": "scripts/game_chp1/cp1_washingMachine/button.ts"
+  },
+  "682742db-11f3-499c-9301-9fb54cf11a0a": {
+    "asset": 1670852823000,
+    "meta": 1671376164892,
+    "relativePath": "scripts/game_chp1/cp1_washingMachine/changcolor.ts"
+  },
+  "9584813f-20bc-4f67-8319-1f40d2e3de8f": {
+    "asset": 1670852823000,
+    "meta": 1671376164898,
+    "relativePath": "scripts/game_chp1/cp1_washingMachine/check.ts"
+  },
+  "e5c1b76a-9a98-4436-b202-fe1fce30f57e": {
+    "asset": 1670852823000,
+    "meta": 1671376164904,
+    "relativePath": "scripts/game_chp1/cp1_washingMachine/check_out.ts"
+  },
+  "b0fb1c71-001d-49c4-b029-322ba610fdd2": {
+    "asset": 1670852823000,
+    "meta": 1671376164912,
+    "relativePath": "scripts/game_chp1/cp1_washingMachine/config.ts"
+  },
+  "2d2f792f-a40c-49bb-a189-ed176a246e49": {
+    "asset": 1671087876000,
+    "meta": 1671376164827,
+    "relativePath": "scenes/chapter1/games/chp1_203_1_washingMachine.fire"
+  },
+  "adf4372d-c2e4-43a3-8e3b-068c0558be49": {
+    "asset": 1671087805000,
+    "meta": 1671376164372,
+    "relativePath": "scenes/chapter1/chp1_203.fire"
+  },
+  "6dea93d1-4795-40b1-83b5-a8d3601e7459": {
+    "asset": 1671079679000,
+    "meta": 1671376164549,
+    "relativePath": "scripts/info/sceneinfo.js"
+  },
+  "430ceb93-0519-4a9e-ae51-945905a9066b": {
+    "asset": 1671088046000,
+    "meta": 1671376164506,
+    "relativePath": "scripts/game_chp1/cp1_lock_302"
+  },
+  "3fb506cf-e99a-40dc-b7dc-c16d688bf5ce": {
+    "asset": 1671088102000,
+    "meta": 1671376164508,
+    "relativePath": "scripts/game_chp1/cp1_lock_sheguan"
+  },
+  "c95ff8de-a425-4503-8333-9bf8df58d90e": {
+    "asset": 1671087998000,
+    "meta": 1671376164509,
+    "relativePath": "scripts/game_chp1/cp1_lock_stair"
+  },
+  "4236d162-3bb3-48ae-b4a1-75274ddc465c": {
+    "asset": 1671088705000,
+    "meta": 1671376164543,
+    "relativePath": "scripts/info/gameInfo.js"
+  },
+  "eebff11a-f870-4cdc-a78c-eb32ef872361": {
+    "asset": 1671089373000,
+    "meta": 1671376164285,
+    "relativePath": "scripts/game_chp1"
+  },
+  "a9cc437a-fe44-49f1-8a88-19c2fd49033f": {
+    "asset": 1667751431000,
+    "meta": 1671376164034,
+    "relativePath": "animation/attack3.anim"
+  },
+  "fe521694-c751-4031-9f61-c8b65d90ffe0": {
+    "asset": 1667751305000,
+    "meta": 1671376164034,
+    "relativePath": "animation/attack.anim"
+  },
+  "26526322-42d0-4fc1-a948-91bb375f9ea8": {
+    "asset": 1667751356000,
+    "meta": 1671376164034,
+    "relativePath": "animation/attack2.anim"
+  },
+  "938611b0-6dea-40c7-bdd4-5d88d691f18a": {
+    "asset": 1667466842000,
+    "meta": 1671376164035,
+    "relativePath": "animation/run.anim"
+  },
+  "effa92bc-9a10-45b9-a7b2-49a8a3aa178f": {
+    "asset": 1670825250000,
+    "meta": 1671376164380,
+    "relativePath": "scenes/chapter1/chp1_scene1.fire"
+  },
+  "1d5beeec-7e16-4998-b46d-3c418df92e1d": {
+    "asset": 1671355216000,
+    "meta": 1671376164505,
+    "relativePath": "scenes/chapter2/chp2_floor2.fire"
+  },
+  "433d3135-dda1-4091-8af0-22a3d8e6d7d2": {
+    "asset": 1671352571000,
+    "meta": 1671376165107,
+    "relativePath": "source/美工/16.走廊背景/楼道（有门）.png"
+  },
+  "d6245042-afac-49df-aa0b-41c8dd5694c8": {
+    "asset": 1671352644000,
+    "meta": 1671376164048,
+    "relativePath": "resources/37.b 提示纸的大图.png"
+  },
+  "851837f4-8e2f-40f9-9224-08ea20fe4d0c": {
+    "asset": 1671352644000,
+    "meta": 1671376164049,
+    "relativePath": "resources/37.a 门的大图，上面有锁以及旁边的提示纸.png"
+  },
+  "9b40d9f5-543f-4ea1-ba1f-ff932a258152": {
+    "asset": 1671354506000,
+    "meta": 1671376164916,
+    "relativePath": "scenes/chapter2/games/cp2_floor2_lock.fire"
+  },
+  "07ca7ff5-c8c6-45ce-8b49-ff5334eb020b": {
+    "asset": 1671354206000,
+    "meta": 1671376164297,
+    "relativePath": "scripts/lockctr.js"
+  },
+  "2b2ada10-1b2d-4a9e-8367-9c9dc85b4fd2": {
+    "asset": 1671354712000,
+    "meta": 1671376164251,
+    "relativePath": "scripts/bglockctr.js"
+  },
+  "4715ee85-e992-4beb-9ae2-0c92aa55349c": {
+    "asset": 1671358747000,
+    "meta": 1671376164503,
+    "relativePath": "scenes/chapter2/chp2_bakery.fire"
+  },
+  "888e110a-7bd6-41bb-b2c5-298f862ae28b": {
+    "asset": 1671355424000,
+    "meta": 1671376164349,
+    "relativePath": "source/38.蛋糕店柜台.png"
+  },
+  "bd53c31b-fbac-4509-95fe-87cf5ed06473": {
+    "asset": 1671355424000,
+    "meta": 1671376164348,
+    "relativePath": "source/42.收银柜台.png"
+  },
+  "c0241fba-9d74-4160-8ed2-1c56969a3bcc": {
+    "asset": 1671355514000,
+    "meta": 1671376164054,
+    "relativePath": "resources/39甜甜圈.png"
+  },
+  "c5b4afe5-bf19-481e-ac6c-7a85aafa735c": {
+    "asset": 1671355514000,
+    "meta": 1671376164054,
+    "relativePath": "resources/40.黑森林蛋糕.png"
+  },
+  "3483a2a3-ef08-4899-ac87-e06e929b5558": {
+    "asset": 1671355514000,
+    "meta": 1671376164056,
+    "relativePath": "resources/41.草莓泡芙.png"
+  },
+  "5a54c642-1487-4dcf-b0a2-7b9dd4d85855": {
+    "asset": 1671355514000,
+    "meta": 1671376164055,
+    "relativePath": "resources/39.1甜甜圈大图.png"
+  },
+  "7afd98e4-69ba-474c-8686-14369db732c7": {
+    "asset": 1671355514000,
+    "meta": 1671376164058,
+    "relativePath": "resources/41.草莓泡芙大图.png"
+  },
+  "03744c41-0740-4635-8b5f-de802a1d43c3": {
+    "asset": 1671355514000,
+    "meta": 1671376164056,
+    "relativePath": "resources/43.账单.png"
+  },
+  "eeb453e6-2017-4968-9269-8b6a23edd80b": {
+    "asset": 1671355514000,
+    "meta": 1671376164313,
+    "relativePath": "resources/bigbill.png"
+  },
+  "751bef5c-6ee8-4d9d-aca0-35bfce7b66a4": {
+    "asset": 1671355514000,
+    "meta": 1671376164057,
+    "relativePath": "resources/40.黑森林蛋糕大图.png"
+  },
+  "64f21d3a-5140-47f3-aa28-045ff9ce0a42": {
+    "asset": 1671355514000,
+    "meta": 1671376164058,
+    "relativePath": "resources/44.称.png"
+  },
+  "4719ab6e-c3e7-405d-9499-2d2c3419282a": {
+    "asset": 1671355514000,
+    "meta": 1671376164321,
+    "relativePath": "resources/44.称大图.png"
+  },
+  "f91b5bc3-e4b2-4ad9-825d-4b209e4f91d2": {
+    "asset": 1671355969000,
+    "meta": 1671376164339,
+    "relativePath": "scripts/zdctr.js"
+  },
+  "8393f860-4dd1-4c01-a66c-c1df2a94c0d1": {
+    "asset": 1671357908000,
+    "meta": 1671376164883,
+    "relativePath": "scenes/chapter2/games/chp2_bakery_game.fire"
+  },
+  "adb84649-d038-4802-b1ba-e76cf08a5d48": {
+    "asset": 1671356377000,
+    "meta": 1671376164312,
+    "relativePath": "scripts/showbutton.ts"
+  },
+  "5aebe65d-8145-492e-8392-ae8765f61b5e": {
+    "asset": 1671356377000,
+    "meta": 1671376164332,
+    "relativePath": "scripts/testbutton.ts"
+  },
+  "c76cb411-0293-48b2-828e-4a8f97df85ee": {
+    "asset": 1671356622000,
+    "meta": 1671376164354,
+    "relativePath": "source/面包店.jpg"
+  },
+  "866b08b3-d1d8-4497-8b38-90c4f631bd37": {
+    "asset": 1671357779000,
+    "meta": 1671376164321,
+    "relativePath": "scripts/stairlock.js"
+  },
+  "43637bca-9045-42ff-870b-af6991ad1531": {
+    "asset": 1671357867000,
+    "meta": 1671376164280,
+    "relativePath": "scripts/checkbutton.ts"
+  },
+  "25e4be6a-02db-414c-8d89-b8622523d98f": {
+    "asset": 1671358199000,
+    "meta": 1671376164285,
+    "relativePath": "scripts/chengctr.js"
+  },
+  "0cc57da3-59b5-42ad-8d68-3dde1d655dd8": {
+    "asset": 1671362053000,
+    "meta": 1671376164506,
+    "relativePath": "scenes/chapter2/chp2_kitchen.fire"
+  },
+  "6bb08c13-cc52-46a0-a654-0d22aacd69d2": {
+    "asset": 1671358881000,
+    "meta": 1671376164769,
+    "relativePath": "source/美工/46.a 盒子(大图).png"
+  },
+  "230fa9b2-9a76-4c3e-8787-cdb76c213503": {
+    "asset": 1671358983000,
+    "meta": 1671376164770,
+    "relativePath": "source/美工/50.一个箱子.png"
+  },
+  "91ce64ac-c058-4b4a-ba11-fa844ec8e5bf": {
+    "asset": 1671361637000,
+    "meta": 1671376164913,
+    "relativePath": "scenes/chapter2/games/chp2_kitchen_game1.fire"
+  },
+  "61780a6d-35bf-4aba-883e-46529226415e": {
+    "asset": 1671359281000,
+    "meta": 1671376164143,
+    "relativePath": "scripts/0 - 005.js"
+  },
+  "aa1f8d6c-7c30-4784-9d78-d4a9ba7b98a1": {
+    "asset": 1671359281000,
+    "meta": 1671376164187,
+    "relativePath": "scripts/0 - 009.js"
+  },
+  "cf528ac0-bfcf-4031-8242-f8a25d8325d8": {
+    "asset": 1671359281000,
+    "meta": 1671376164177,
+    "relativePath": "scripts/0 - 008.js"
+  },
+  "94ea4915-d23d-4e7a-a653-b5054ba8ee32": {
+    "asset": 1671359281000,
+    "meta": 1671376164155,
+    "relativePath": "scripts/0 - 006.js"
+  },
+  "7485cb85-8d13-4b45-8374-10f08a68f797": {
+    "asset": 1671359281000,
+    "meta": 1671376164168,
+    "relativePath": "scripts/0 - 007.js"
+  },
+  "dc3f4d48-2a69-4ded-a5ba-1f9e8ee23aae": {
+    "asset": 1671359281000,
+    "meta": 1671376164197,
+    "relativePath": "scripts/0 - 010.js"
+  },
+  "5b7ea19a-d7ae-4b48-869f-b8509d3e9c03": {
+    "asset": 1671359281000,
+    "meta": 1671376164206,
+    "relativePath": "scripts/0 - 011.js"
+  },
+  "3b9f0905-e2f8-474a-883a-872f20f25604": {
+    "asset": 1671359281000,
+    "meta": 1671376164224,
+    "relativePath": "scripts/0 - 013.js"
+  },
+  "6c5b30ec-fdb1-4008-8e9b-91c49baf659b": {
+    "asset": 1671359281000,
+    "meta": 1671376164213,
+    "relativePath": "scripts/0 - 012.js"
+  },
+  "3d3054b9-3b4f-44f3-9591-e47156b289a5": {
+    "asset": 1671359281000,
+    "meta": 1671376164238,
+    "relativePath": "scripts/0 - 015.js"
+  },
+  "2fab1e03-20b6-4543-b2ce-eaa70c393108": {
+    "asset": 1671359281000,
+    "meta": 1671376164232,
+    "relativePath": "scripts/0 - 014.js"
+  },
+  "7a636547-1d08-4453-91a4-bab64c5f5f57": {
+    "asset": 1671359281000,
+    "meta": 1671376164246,
+    "relativePath": "scripts/0.js"
+  },
+  "224c7b89-f39c-4b32-9adc-1f8117c18eb2": {
+    "asset": 1671359281000,
+    "meta": 1671376164109,
+    "relativePath": "scripts/0 - 002.js"
+  },
+  "b9abf610-4f8b-4310-bf79-8175caae3931": {
+    "asset": 1671359281000,
+    "meta": 1671376164121,
+    "relativePath": "scripts/0 - 003.js"
+  },
+  "37410e7b-61df-44bd-9d66-96ca03234e93": {
+    "asset": 1671359281000,
+    "meta": 1671376164132,
+    "relativePath": "scripts/0 - 004.js"
+  },
+  "2a5d19f3-6d91-4c55-81ad-a7bbd7dfbded": {
+    "asset": 1671359322000,
+    "meta": 1671376164340,
+    "relativePath": "resources/tall.png"
+  },
+  "4badc52d-c22e-4ec7-97ef-3572a58b532a": {
+    "asset": 1671359322000,
+    "meta": 1671376164340,
+    "relativePath": "resources/short.png"
+  },
+  "9836134e-b892-4283-b6b2-78b5acf3ed45": {
+    "asset": 1660645192000,
+    "meta": 1671376162312,
+    "relativePath": "effects"
+  },
+  "abc2cb62-7852-4525-a90d-d474487b88f2": {
+    "asset": 1660645192000,
+    "meta": 1671376162400,
+    "relativePath": "effects/builtin-phong.effect"
+  },
+  "e2f00085-c597-422d-9759-52c360279106": {
+    "asset": 1660645192000,
+    "meta": 1671376162425,
+    "relativePath": "effects/builtin-toon.effect"
+  },
+  "430eccbf-bf2c-4e6e-8c0c-884bbb487f32": {
+    "asset": 1660645192000,
+    "meta": 1671376162327,
+    "relativePath": "effects/__builtin-editor-gizmo-line.effect"
+  },
+  "6c5cf6e1-b044-4eac-9431-835644d57381": {
+    "asset": 1660645192000,
+    "meta": 1671376162331,
+    "relativePath": "effects/__builtin-editor-gizmo-unlit.effect"
+  },
+  "115286d1-2e10-49ee-aab4-341583f607e8": {
+    "asset": 1660645192000,
+    "meta": 1671376162348,
+    "relativePath": "effects/__builtin-editor-gizmo.effect"
+  },
+  "f8e6b000-5643-4b86-9080-aa680ce1f599": {
+    "asset": 1660645193000,
+    "meta": 1671376162313,
+    "relativePath": "image"
+  },
+  "b43ff3c2-02bb-4874-81f7-f2dea6970f18": {
+    "asset": 1660645193000,
+    "meta": 1671376162436,
+    "relativePath": "image/default_btn_pressed.png"
+  },
+  "71561142-4c83-4933-afca-cb7a17f67053": {
+    "asset": 1660645192000,
+    "meta": 1671376162437,
+    "relativePath": "image/default_btn_disabled.png"
+  },
+  "edd215b9-2796-4a05-aaf5-81f96c9281ce": {
+    "asset": 1660645193000,
+    "meta": 1671376162437,
+    "relativePath": "image/default_editbox_bg.png"
+  },
+  "600301aa-3357-4a10-b086-84f011fa32ba": {
+    "asset": 1660645193000,
+    "meta": 1671376162445,
+    "relativePath": "image/default-particle.png"
+  },
+  "cfef78f1-c8df-49b7-8ed0-4c953ace2621": {
+    "asset": 1660645193000,
+    "meta": 1671376162438,
+    "relativePath": "image/default_progressbar.png"
+  },
+  "e851e89b-faa2-4484-bea6-5c01dd9f06e2": {
+    "asset": 1660645193000,
+    "meta": 1671376162437,
+    "relativePath": "image/default_btn_normal.png"
+  },
+  "d81ec8ad-247c-4e62-aa3c-d35c4193c7af": {
+    "asset": 1660645193000,
+    "meta": 1671376162438,
+    "relativePath": "image/default_panel.png"
+  },
+  "99170b0b-d210-46f1-b213-7d9e3f23098a": {
+    "asset": 1660645193000,
+    "meta": 1671376162438,
+    "relativePath": "image/default_progressbar_bg.png"
+  },
+  "567dcd80-8bf4-4535-8a5a-313f1caf078a": {
+    "asset": 1660645193000,
+    "meta": 1671376162445,
+    "relativePath": "image/default_radio_button_off.png"
+  },
+  "0291c134-b3da-4098-b7b5-e397edbe947f": {
+    "asset": 1660645193000,
+    "meta": 1671376162448,
+    "relativePath": "image/default_scrollbar.png"
+  },
+  "5c3eedba-6c41-4c0c-9ba7-d91f813cbd1c": {
+    "asset": 1660645193000,
+    "meta": 1671376162313,
+    "relativePath": "materials"
+  },
+  "4bab67cb-18e6-4099-b840-355f0473f890": {
+    "asset": 1660645193000,
+    "meta": 1671376162446,
+    "relativePath": "image/default_scrollbar_bg.png"
+  },
+  "fc09f9bd-2cce-4605-b630-8145ef809ed6": {
+    "asset": 1660645193000,
+    "meta": 1671376162313,
+    "relativePath": "misc"
+  },
+  "9d60001f-b5f4-4726-a629-2659e3ded0b8": {
+    "asset": 1660645193000,
+    "meta": 1671376162446,
+    "relativePath": "image/default_radio_button_on.png"
+  },
+  "d6d3ca85-4681-47c1-b5dd-d036a9d39ea2": {
+    "asset": 1660645193000,
+    "meta": 1671376162447,
+    "relativePath": "image/default_scrollbar_vertical.png"
+  },
+  "db019bf7-f71c-4111-98cf-918ea180cb48": {
+    "asset": 1660645193000,
+    "meta": 1671376162314,
+    "relativePath": "model"
+  },
+  "0275e94c-56a7-410f-bd1a-fc7483f7d14a": {
+    "asset": 1660645193000,
+    "meta": 1671376162570,
+    "relativePath": "image/default_sprite_splash.png"
+  },
+  "e39e96e6-6f6e-413f-bcf1-ac7679bb648a": {
+    "asset": 1660645193000,
+    "meta": 1671376162448,
+    "relativePath": "model/prefab"
+  },
+  "c4480a0a-6ac5-443f-8b40-361a14257fc8": {
+    "asset": 1660645193000,
+    "meta": 1671376162784,
+    "relativePath": "materials/builtin-phong.mtl"
+  },
+  "a87cc147-01b2-43f8-8e42-a7ca90b0c757": {
+    "asset": 1660645193000,
+    "meta": 1671376162591,
+    "relativePath": "model/prefab/box.prefab"
+  },
+  "617323dd-11f4-4dd3-8eec-0caf6b3b45b9": {
+    "asset": 1660645193000,
+    "meta": 1671376162447,
+    "relativePath": "image/default_scrollbar_vertical_bg.png"
+  },
+  "fe1417b6-fe6b-46a4-ae7c-9fd331f33a2a": {
+    "asset": 1660645193000,
+    "meta": 1671376162591,
+    "relativePath": "model/prefab/capsule.prefab"
+  },
+  "6e056173-d285-473c-b206-40a7fff5386e": {
+    "asset": 1660645193000,
+    "meta": 1671376162448,
+    "relativePath": "image/default_sprite.png"
+  },
+  "b5fc2cf2-7942-483d-be1f-bbeadc4714ad": {
+    "asset": 1660645193000,
+    "meta": 1671376162592,
+    "relativePath": "model/prefab/cone.prefab"
+  },
+  "73a0903d-d80e-4e3c-aa67-f999543c08f5": {
+    "asset": 1660645193000,
+    "meta": 1671376162571,
+    "relativePath": "image/default_toggle_checkmark.png"
+  },
+  "f6e6dd15-71d1-4ffe-ace7-24fd39942c05": {
+    "asset": 1660645193000,
+    "meta": 1671376162314,
+    "relativePath": "obsolete"
+  },
+  "1c5e4038-953a-44c2-b620-0bbfc6170477": {
+    "asset": 1660645193000,
+    "meta": 1671376162592,
+    "relativePath": "model/prefab/cylinder.prefab"
+  },
+  "b181c1e4-0a72-4a91-bfb0-ae6f36ca60bd": {
+    "asset": 1660645193000,
+    "meta": 1671376162574,
+    "relativePath": "image/default_toggle_pressed.png"
+  },
+  "f743d2b6-b7ea-4c14-a55b-547ed4d0a045": {
+    "asset": 1660645193000,
+    "meta": 1671376162314,
+    "relativePath": "particle"
+  },
+  "c25b9d50-c8fc-4d27-beeb-6e7c1f2e5c0f": {
+    "asset": 1660645193000,
+    "meta": 1671376162572,
+    "relativePath": "image/default_toggle_disabled.png"
+  },
+  "2be36297-9abb-4fee-8049-9ed5e271da8a": {
+    "asset": 1660645193000,
+    "meta": 1671376162573,
+    "relativePath": "misc/default_video.mp4"
+  },
+  "d29077ba-1627-4a72-9579-7b56a235340c": {
+    "asset": 1660645193000,
+    "meta": 1671376162572,
+    "relativePath": "image/default_toggle_normal.png"
+  },
+  "ae6c6c98-11e4-452f-8758-75f5c6a56e83": {
+    "asset": 1660645193000,
+    "meta": 1671376162315,
+    "relativePath": "prefab"
+  },
+  "3f376125-a699-40ca-ad05-04d662eaa1f2": {
+    "asset": 1660645193000,
+    "meta": 1671376162593,
+    "relativePath": "model/prefab/plane.prefab"
+  },
+  "6c9ef10d-b479-420b-bfe6-39cdda6a8ae0": {
+    "asset": 1660645193000,
+    "meta": 1671376162593,
+    "relativePath": "model/prefab/quad.prefab"
+  },
+  "2d9a4b85-b0ab-4c46-84c5-18f393ab2058": {
+    "asset": 1660645193000,
+    "meta": 1671376162599,
+    "relativePath": "model/prefab/sphere.prefab"
+  },
+  "de510076-056b-484f-b94c-83bef217d0e1": {
+    "asset": 1660645193000,
+    "meta": 1671376162657,
+    "relativePath": "model/prefab/torus.prefab"
+  },
+  "897ef7a1-4860-4f64-968d-f5924b18668a": {
+    "asset": 1660645193000,
+    "meta": 1671376162575,
+    "relativePath": "prefab/2d-camera.prefab"
+  },
+  "70d7cdb0-04cd-41bb-9480-c06a4785f386": {
+    "asset": 1660645193000,
+    "meta": 1671376162576,
+    "relativePath": "prefab/3d-camera.prefab"
+  },
+  "70bbeb73-6dc2-4ee4-8faf-76b3a0e34ec4": {
+    "asset": 1660645193000,
+    "meta": 1671376162576,
+    "relativePath": "prefab/3d-particle.prefab"
+  },
+  "972b9a4d-47ee-4c74-b5c3-61d8a69bc29f": {
+    "asset": 1660645193000,
+    "meta": 1671376162577,
+    "relativePath": "prefab/button.prefab"
+  },
+  "ed88f13d-fcad-4848-aa35-65a2cb973584": {
+    "asset": 1660645193000,
+    "meta": 1671376162578,
+    "relativePath": "prefab/3d-stage.prefab"
+  },
+  "a3ee0214-b432-4865-9666-4a3211814282": {
+    "asset": 1660645193000,
+    "meta": 1671376162577,
+    "relativePath": "prefab/light"
+  },
+  "2c937608-2562-40ea-b264-7395df6f0cea": {
+    "asset": 1660645193000,
+    "meta": 1671376162579,
+    "relativePath": "prefab/canvas.prefab"
+  },
+  "61aeb05b-3b32-452b-8eed-2b76deeed554": {
+    "asset": 1660645193000,
+    "meta": 1671376162580,
+    "relativePath": "prefab/editbox.prefab"
+  },
+  "27756ebb-3d33-44b0-9b96-e858fadd4dd4": {
+    "asset": 1660645193000,
+    "meta": 1671376162580,
+    "relativePath": "prefab/label.prefab"
+  },
+  "785a442c-3ceb-45be-a46e-7317f625f3b9": {
+    "asset": 1660645193000,
+    "meta": 1671376162581,
+    "relativePath": "prefab/layout.prefab"
+  },
+  "ca8401fe-ad6e-41a8-bd46-8e3e4e9945be": {
+    "asset": 1660645193000,
+    "meta": 1671376162581,
+    "relativePath": "prefab/pageview.prefab"
+  },
+  "cd33edea-55f5-46c2-958d-357a01384a36": {
+    "asset": 1660645193000,
+    "meta": 1671376162582,
+    "relativePath": "prefab/particlesystem.prefab"
+  },
+  "5965ffac-69da-4b55-bcde-9225d0613c28": {
+    "asset": 1660645193000,
+    "meta": 1671376162584,
+    "relativePath": "prefab/progressBar.prefab"
+  },
+  "8a96b965-2dc0-4e03-aa90-3b79cb93b5b4": {
+    "asset": 1660645193000,
+    "meta": 1671376162577,
+    "relativePath": "obsolete/atom.png"
+  },
+  "4a37dd57-78cd-4cec-aad4-f11a73d12b63": {
+    "asset": 1660645193000,
+    "meta": 1671376162585,
+    "relativePath": "prefab/richtext.prefab"
+  },
+  "32044bd2-481f-4cf1-a656-e2b2fb1594eb": {
+    "asset": 1660645193000,
+    "meta": 1671376162586,
+    "relativePath": "prefab/scrollview.prefab"
+  },
+  "d0a82d39-bede-46c4-b698-c81ff0dedfff": {
+    "asset": 1660645193000,
+    "meta": 1671376162582,
+    "relativePath": "particle/atom.png"
+  },
+  "0004d1cf-a0ad-47d8-ab17-34d3db9d35a3": {
+    "asset": 1660645193000,
+    "meta": 1671376162586,
+    "relativePath": "prefab/slider.prefab"
+  },
+  "96083d03-c332-4a3f-9386-d03e2d19e8ee": {
+    "asset": 1660645193000,
+    "meta": 1671376162585,
+    "relativePath": "prefab/sprite.prefab"
+  },
+  "1f55e3be-b89b-4b79-88de-47fd31018044": {
+    "asset": 1660645193000,
+    "meta": 1671376162587,
+    "relativePath": "prefab/sprite_splash.prefab"
+  },
+  "7de03a80-4457-438d-95a7-3e7cdffd6086": {
+    "asset": 1660645193000,
+    "meta": 1671376162587,
+    "relativePath": "prefab/tiledmap.prefab"
+  },
+  "0e42ba95-1fa1-46aa-b2cf-143cd1bcee2c": {
+    "asset": 1660645193000,
+    "meta": 1671376162588,
+    "relativePath": "prefab/tiledtile.prefab"
+  },
+  "0d784963-d024-4ea6-a7db-03be0ad63010": {
+    "asset": 1660645193000,
+    "meta": 1671376162589,
+    "relativePath": "prefab/toggle.prefab"
+  },
+  "bf0a434c-84dd-4a8e-a08a-7a36f180cc75": {
+    "asset": 1660645193000,
+    "meta": 1671376162590,
+    "relativePath": "prefab/toggleContainer.prefab"
+  },
+  "d1b8be49-b0a0-435c-83b7-552bed4bbe35": {
+    "asset": 1660645193000,
+    "meta": 1671376162589,
+    "relativePath": "prefab/toggleGroup.prefab"
+  },
+  "d8afc78c-4eac-4a9f-83dd-67bc70344d33": {
+    "asset": 1660645193000,
+    "meta": 1671376162315,
+    "relativePath": "resources"
+  },
+  "294c1663-4adf-4a1e-a795-53808011a38a": {
+    "asset": 1660645193000,
+    "meta": 1671376162587,
+    "relativePath": "resources/effects"
+  },
+  "ddb99b39-7004-47cd-9705-751905c43c46": {
+    "asset": 1660645193000,
+    "meta": 1671376162680,
+    "relativePath": "prefab/light/directional.prefab"
+  },
+  "bbee2217-c261-49bd-a8ce-708d6bcc3500": {
+    "asset": 1660645193000,
+    "meta": 1671376162588,
+    "relativePath": "resources/materials"
+  },
+  "8c5001fd-07ee-4a4b-a8a0-63e15195e94d": {
+    "asset": 1660645193000,
+    "meta": 1671376162590,
+    "relativePath": "prefab/webview.prefab"
+  },
+  "30682f87-9f0d-4f17-8a44-72863791461b": {
+    "asset": 1660645193000,
+    "meta": 1671376162598,
+    "relativePath": "resources/effects/builtin-2d-graphics.effect"
+  },
+  "232d2782-c4bd-4bb4-9e01-909f03d6d3b9": {
+    "asset": 1660645193000,
+    "meta": 1671376162590,
+    "relativePath": "prefab/videoplayer.prefab"
+  },
+  "144c3297-af63-49e8-b8ef-1cfa29b3be28": {
+    "asset": 1660645193000,
+    "meta": 1671376162602,
+    "relativePath": "resources/effects/builtin-2d-gray-sprite.effect"
+  },
+  "61906da3-7003-4bda-9abc-5769c76faee4": {
+    "asset": 1660645193000,
+    "meta": 1671376162679,
+    "relativePath": "prefab/light/ambient.prefab"
+  },
+  "f18742d7-56d2-4eb5-ae49-2d9d710b37c8": {
+    "asset": 1660645193000,
+    "meta": 1671376162607,
+    "relativePath": "resources/effects/builtin-2d-label.effect"
+  },
+  "0e93aeaa-0b53-4e40-b8e0-6268b4e07bd7": {
+    "asset": 1660645193000,
+    "meta": 1671376162611,
+    "relativePath": "resources/effects/builtin-2d-spine.effect"
+  },
+  "2874f8dd-416c-4440-81b7-555975426e93": {
+    "asset": 1660645193000,
+    "meta": 1671376162615,
+    "relativePath": "resources/effects/builtin-2d-sprite.effect"
+  },
+  "829a282c-b049-4019-bd38-5ace8d8a6417": {
+    "asset": 1660645193000,
+    "meta": 1671376162657,
+    "relativePath": "resources/effects/builtin-3d-particle.effect"
+  },
+  "2a7c0036-e0b3-4fe1-8998-89a54b8a2bec": {
+    "asset": 1660645193000,
+    "meta": 1671376162668,
+    "relativePath": "resources/effects/builtin-3d-trail.effect"
+  },
+  "c0040c95-c57f-49cd-9cbc-12316b73d0d4": {
+    "asset": 1660645193000,
+    "meta": 1671376162671,
+    "relativePath": "resources/effects/builtin-clear-stencil.effect"
+  },
+  "0cf30284-9073-46bc-9eba-e62b69dbbff3": {
+    "asset": 1660645193000,
+    "meta": 1671376162680,
+    "relativePath": "prefab/light/point.prefab"
+  },
+  "6d91e591-4ce0-465c-809f-610ec95019c6": {
+    "asset": 1660645193000,
+    "meta": 1671376162678,
+    "relativePath": "resources/effects/builtin-unlit.effect"
+  },
+  "f5331fd2-bf42-4ee3-a3fd-3e1657600eff": {
+    "asset": 1660645193000,
+    "meta": 1671376162682,
+    "relativePath": "prefab/light/spot.prefab"
+  },
+  "a153945d-2511-4c14-be7b-05d242f47d57": {
+    "asset": 1660645193000,
+    "meta": 1671376162794,
+    "relativePath": "resources/materials/builtin-2d-graphics.mtl"
+  },
+  "6f801092-0c37-4f30-89ef-c8d960825b36": {
+    "asset": 1660645193000,
+    "meta": 1671376162794,
+    "relativePath": "resources/materials/builtin-2d-base.mtl"
+  },
+  "3a7bb79f-32fd-422e-ada2-96f518fed422": {
+    "asset": 1660645193000,
+    "meta": 1671376162794,
+    "relativePath": "resources/materials/builtin-2d-gray-sprite.mtl"
+  },
+  "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432": {
+    "asset": 1660645193000,
+    "meta": 1671376162795,
+    "relativePath": "resources/materials/builtin-2d-sprite.mtl"
+  },
+  "7afd064b-113f-480e-b793-8817d19f63c3": {
+    "asset": 1660645193000,
+    "meta": 1671376162794,
+    "relativePath": "resources/materials/builtin-2d-spine.mtl"
+  },
+  "e02d87d4-e599-4d16-8001-e14891ac6506": {
+    "asset": 1660645193000,
+    "meta": 1671376162794,
+    "relativePath": "resources/materials/builtin-2d-label.mtl"
+  },
+  "432fa09c-cf03-4cff-a186-982604408a07": {
+    "asset": 1660645193000,
+    "meta": 1671376162795,
+    "relativePath": "resources/materials/builtin-3d-particle.mtl"
+  },
+  "cf7e0bb8-a81c-44a9-ad79-d28d43991032": {
+    "asset": 1660645193000,
+    "meta": 1671376162795,
+    "relativePath": "resources/materials/builtin-clear-stencil.mtl"
+  },
+  "2a296057-247c-4a1c-bbeb-0548b6c98650": {
+    "asset": 1660645193000,
+    "meta": 1671376162795,
+    "relativePath": "resources/materials/builtin-unlit.mtl"
+  },
+  "466d4f9b-e5f4-4ea8-85d5-3c6e9a65658a": {
+    "asset": 1660645193000,
+    "meta": 1671376162795,
+    "relativePath": "resources/materials/builtin-3d-trail.mtl"
+  },
+  "b2687ac4-099e-403c-a192-ff477686f4f5": {
+    "asset": 1660645193000,
+    "meta": 1671376162792,
+    "relativePath": "particle/atom.plist"
+  },
+  "b8223619-7e38-47c4-841f-9160c232495a": {
+    "asset": 1660645193000,
+    "meta": 1671376162792,
+    "relativePath": "obsolete/atom.plist"
+  },
+  "954fec8b-cd16-4bb9-a3b7-7719660e7558": {
+    "asset": 1660645193000,
+    "meta": 1671376163886,
+    "relativePath": "model/primitives.fbx"
+  },
+  "62d61289-84e3-4924-8c2f-4ef50d0f06b6": {
+    "asset": 1671359354000,
+    "meta": 1671376164090,
+    "relativePath": "scripts/0 - 001.js"
+  },
+  "7dbf830e-bc58-47a7-8291-e199e934ff77": {
+    "asset": 1671361916000,
+    "meta": 1671376164914,
+    "relativePath": "scenes/chapter2/games/chp2_kitchen_game2.fire"
+  },
+  "3b14cf06-b3d4-48e2-9b68-813fe4d02569": {
+    "asset": 1671361720000,
+    "meta": 1671376164258,
+    "relativePath": "scripts/button.js"
+  },
+  "0b26dcf8-a307-41c2-bd7b-bb6812215fda": {
+    "asset": 1671361807000,
+    "meta": 1671376164043,
+    "relativePath": "resources/34.红色宝石.png"
+  },
+  "f783ed1d-defb-4f6f-b288-0f6e80083a86": {
+    "asset": 1671361856000,
+    "meta": 1671376164055,
+    "relativePath": "resources/color"
+  },
+  "29feef6d-9316-4e54-8521-72b35bf5963c": {
+    "asset": 1671361856000,
+    "meta": 1671376164351,
+    "relativePath": "resources/color/color3.PNG"
+  },
+  "8c1fccc0-0121-4d4a-b968-30a150a68d76": {
+    "asset": 1671361856000,
+    "meta": 1671376164351,
+    "relativePath": "resources/color/color2.PNG"
+  },
+  "7e0ef757-8073-4aba-82f7-9885ba06a109": {
+    "asset": 1671361856000,
+    "meta": 1671376164352,
+    "relativePath": "resources/color/color1.PNG"
+  },
+  "b6ad507a-d406-4eee-bc07-67aed72e93a7": {
+    "asset": 1671361994000,
+    "meta": 1671376164300,
+    "relativePath": "scripts/paperctr.js"
+  },
+  "81dfb297-c319-4df5-9278-82b5f35c5635": {
+    "asset": 1671362039000,
+    "meta": 1671376164291,
+    "relativePath": "scripts/kitchenctr.js"
+  }
+}

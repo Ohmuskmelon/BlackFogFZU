@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shield2",
+    "texture": "cc25ee48-c97d-4ccf-b99b-3310c024c616",
+    "atlas": "",
+    "rect": [
+      11,
+      10,
+      39,
+      43
+    ],
+    "offset": [
+      -1.5,
+      0.5
+    ],
+    "originalSize": [
+      64,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

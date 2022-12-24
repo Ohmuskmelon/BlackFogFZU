@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "楼道（有门）",
+    "texture": "433d3135-dda1-4091-8af0-22a3d8e6d7d2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      2790,
+      758
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      2790,
+      758
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "27.a台灯按钮",
+    "texture": "e1c8bcb5-fc4b-4e84-b7c5-a205347d963a",
+    "atlas": "",
+    "rect": [
+      9,
+      10,
+      13,
+      13
+    ],
+    "offset": [
+      -0.5,
+      -0.5
+    ],
+    "originalSize": [
+      32,
+      32
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

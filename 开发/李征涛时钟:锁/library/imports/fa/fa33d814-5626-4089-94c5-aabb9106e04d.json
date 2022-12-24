@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "19-存放石头的装置（无按键图案）",
+    "texture": "51b74586-6326-4ac5-bfa4-51484b798bc0",
+    "atlas": "",
+    "rect": [
+      5,
+      6,
+      118,
+      118
+    ],
+    "offset": [
+      0,
+      -1
+    ],
+    "originalSize": [
+      128,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

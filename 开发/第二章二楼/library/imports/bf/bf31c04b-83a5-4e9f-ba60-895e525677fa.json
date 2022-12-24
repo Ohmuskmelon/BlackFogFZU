@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "11.衣柜",
+    "texture": "d43809ab-32bf-4aad-bce7-d25c538d38a6",
+    "atlas": "",
+    "rect": [
+      85,
+      27,
+      76,
+      180
+    ],
+    "offset": [
+      -5,
+      11
+    ],
+    "originalSize": [
+      256,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
