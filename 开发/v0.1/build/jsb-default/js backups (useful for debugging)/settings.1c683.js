@@ -1,0 +1,1 @@
+window._CCSettings={platform:"mac",groupList:["default","hero","wall"],collisionMatrix:[[true,false],[false,false,true],[false,true,false]],hasResourcesBundle:true,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/scenes/开始游戏.fire",orientation:"",server:"",jsList:[],bundleVers:{internal:"627df",resources:"37a1d",main:"731de"}};

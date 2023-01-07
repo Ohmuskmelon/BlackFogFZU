@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "wand2",
+    "texture": "aeee400b-90da-4183-a168-f36708aedacf",
+    "atlas": "",
+    "rect": [
+      0,
+      7,
+      53,
+      57
+    ],
+    "offset": [
+      -5.5,
+      -3.5
+    ],
+    "originalSize": [
+      64,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

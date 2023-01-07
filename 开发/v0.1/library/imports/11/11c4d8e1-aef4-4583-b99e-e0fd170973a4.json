@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "boots",
+    "texture": "ba15471a-02ec-455f-b71c-7adc3fbc6417",
+    "atlas": "",
+    "rect": [
+      10,
+      13,
+      35,
+      42
+    ],
+    "offset": [
+      -4.5,
+      -2
+    ],
+    "originalSize": [
+      64,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

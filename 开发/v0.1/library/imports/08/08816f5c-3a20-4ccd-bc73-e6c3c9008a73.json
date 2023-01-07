@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "10-黄色杯子",
+    "texture": "6386a559-189e-43b8-8a68-10d57f031a2f",
+    "atlas": "",
+    "rect": [
+      5,
+      0,
+      25,
+      25
+    ],
+    "offset": [
+      1.5,
+      0
+    ],
+    "originalSize": [
+      32,
+      25
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

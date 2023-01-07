@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "8480ab89-75f6-421e-b9c9-bee9ec095e4c",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 625,
+  "height": 621,
+  "platformSettings": {},
+  "subMetas": {
+    "37.a 门的大图，上面有锁以及旁边的提示纸": {
+      "ver": "1.0.6",
+      "uuid": "f148e724-f6a6-4dfb-85fc-2d630b4bbea7",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "8480ab89-75f6-421e-b9c9-bee9ec095e4c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 0,
+      "trimX": 4,
+      "trimY": 0,
+      "width": 618,
+      "height": 621,
+      "rawWidth": 625,
+      "rawHeight": 621,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

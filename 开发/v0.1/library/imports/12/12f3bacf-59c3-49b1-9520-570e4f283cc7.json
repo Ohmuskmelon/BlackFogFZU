@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dialogue-bubble",
+    "texture": "ce1ad896-af22-4047-9a68-2271309b2f59",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      316,
+      60
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      316,
+      60
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

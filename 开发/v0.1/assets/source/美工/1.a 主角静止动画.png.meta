@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "24a7599e-87dc-4c8a-a57d-2e71edd30db2",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 128,
+  "height": 128,
+  "platformSettings": {},
+  "subMetas": {
+    "1.a 主角静止动画": {
+      "ver": "1.0.6",
+      "uuid": "5d33b425-9ad2-4e20-a0f5-1c07d337c3f7",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "24a7599e-87dc-4c8a-a57d-2e71edd30db2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -2.5,
+      "offsetY": -2,
+      "trimX": 32,
+      "trimY": 4,
+      "width": 59,
+      "height": 124,
+      "rawWidth": 128,
+      "rawHeight": 128,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

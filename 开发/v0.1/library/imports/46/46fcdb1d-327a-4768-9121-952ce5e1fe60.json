@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "19-按键-",
+    "texture": "14c2c3dd-1d5a-4688-b95c-2c72309c77d6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      11,
+      6
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      11,
+      6
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

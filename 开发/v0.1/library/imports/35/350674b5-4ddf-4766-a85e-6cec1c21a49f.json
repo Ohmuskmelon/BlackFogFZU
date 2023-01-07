@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "继续游戏@1x",
+    "texture": "4ca7465a-66f7-4c6d-a6a2-05e0cb67766c",
+    "atlas": "",
+    "rect": [
+      0,
+      17,
+      269,
+      58
+    ],
+    "offset": [
+      -5.5,
+      -3
+    ],
+    "originalSize": [
+      280,
+      86
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

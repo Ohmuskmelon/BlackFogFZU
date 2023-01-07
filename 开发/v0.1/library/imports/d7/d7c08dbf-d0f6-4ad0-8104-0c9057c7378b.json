@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "晾衣杆",
+    "texture": "b434f766-bfdc-48b4-b7ce-e1c7d2f2a955",
+    "atlas": "",
+    "rect": [
+      52,
+      10,
+      18,
+      115
+    ],
+    "offset": [
+      -3,
+      -3.5
+    ],
+    "originalSize": [
+      128,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

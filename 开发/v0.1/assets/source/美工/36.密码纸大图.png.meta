@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "6f2e8966-3db7-4501-aa1d-9e0c5e65f50d",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 256,
+  "height": 256,
+  "platformSettings": {},
+  "subMetas": {
+    "36.密码纸大图": {
+      "ver": "1.0.6",
+      "uuid": "e9ef024d-2e92-4fd2-929a-23cc5f4467b2",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "6f2e8966-3db7-4501-aa1d-9e0c5e65f50d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 2.5,
+      "trimX": 40,
+      "trimY": 37,
+      "width": 177,
+      "height": 177,
+      "rawWidth": 256,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

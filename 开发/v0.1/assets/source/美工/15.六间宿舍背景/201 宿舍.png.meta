@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "7ea8b141-a507-494d-93b4-e4ac80397e18",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 2546,
+  "height": 629,
+  "platformSettings": {},
+  "subMetas": {
+    "201 宿舍": {
+      "ver": "1.0.6",
+      "uuid": "a5f5f12d-0f21-429c-9ec6-f6de6db6184e",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "7ea8b141-a507-494d-93b4-e4ac80397e18",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 2546,
+      "height": 629,
+      "rawWidth": 2546,
+      "rawHeight": 629,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

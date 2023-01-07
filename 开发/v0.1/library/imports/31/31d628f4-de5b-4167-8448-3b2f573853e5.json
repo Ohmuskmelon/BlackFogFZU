@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "30水位块默认",
+    "texture": "06a05381-d4e1-44be-bf5d-c069d4808cc5",
+    "atlas": "",
+    "rect": [
+      71,
+      67,
+      110,
+      28
+    ],
+    "offset": [
+      -2,
+      47
+    ],
+    "originalSize": [
+      256,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

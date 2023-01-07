@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "蓝色宝石",
+    "texture": "6d6fbced-fe23-4cd7-aa51-fee1f01f3dbd",
+    "atlas": "",
+    "rect": [
+      22,
+      17,
+      78,
+      92
+    ],
+    "offset": [
+      -3,
+      1
+    ],
+    "originalSize": [
+      128,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

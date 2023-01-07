@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "30水位块填充",
+    "texture": "74b9a670-926c-4883-a671-cb75032db48f",
+    "atlas": "",
+    "rect": [
+      71,
+      110,
+      114,
+      32
+    ],
+    "offset": [
+      0,
+      2
+    ],
+    "originalSize": [
+      256,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

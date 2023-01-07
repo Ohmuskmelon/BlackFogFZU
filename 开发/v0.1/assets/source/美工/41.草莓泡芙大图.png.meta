@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "a3951c0c-a2b2-4d54-a582-d80c5240a124",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 256,
+  "height": 256,
+  "platformSettings": {},
+  "subMetas": {
+    "41.草莓泡芙大图": {
+      "ver": "1.0.6",
+      "uuid": "e023560e-008f-4520-8a5f-c49fd7da3329",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "a3951c0c-a2b2-4d54-a582-d80c5240a124",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -5.5,
+      "offsetY": -6.5,
+      "trimX": 62,
+      "trimY": 69,
+      "width": 121,
+      "height": 131,
+      "rawWidth": 256,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

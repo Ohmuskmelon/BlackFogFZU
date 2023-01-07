@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "超市",
+    "texture": "e4c43a66-57ab-4f79-b023-4de94c164300",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      900,
+      327
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      900,
+      327
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

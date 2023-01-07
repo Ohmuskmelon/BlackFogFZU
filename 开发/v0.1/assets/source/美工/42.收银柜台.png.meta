@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "769ee067-34a7-42f0-92ca-204bc42d95ba",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 256,
+  "height": 256,
+  "platformSettings": {},
+  "subMetas": {
+    "42.收银柜台": {
+      "ver": "1.0.6",
+      "uuid": "5580fe51-1279-43dd-bb78-5a22f3623df8",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "769ee067-34a7-42f0-92ca-204bc42d95ba",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -61.5,
+      "trimX": 0,
+      "trimY": 123,
+      "width": 256,
+      "height": 133,
+      "rawWidth": 256,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

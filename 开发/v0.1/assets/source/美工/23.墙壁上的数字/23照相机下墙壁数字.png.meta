@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "14c4310c-b3f0-451a-8a9d-01da55c57ec2",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 256,
+  "height": 256,
+  "platformSettings": {},
+  "subMetas": {
+    "23照相机下墙壁数字": {
+      "ver": "1.0.6",
+      "uuid": "4032929c-243a-403b-a403-bc73a26d8dbb",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "14c4310c-b3f0-451a-8a9d-01da55c57ec2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -7,
+      "offsetY": -3,
+      "trimX": 66,
+      "trimY": 50,
+      "width": 110,
+      "height": 162,
+      "rawWidth": 256,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

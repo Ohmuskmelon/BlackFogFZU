@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "洗衣机按钮",
+    "texture": "55f099e7-7868-4a0a-b053-8913604fd196",
+    "atlas": "",
+    "rect": [
+      16,
+      19,
+      34,
+      29
+    ],
+    "offset": [
+      1,
+      -1.5
+    ],
+    "originalSize": [
+      64,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

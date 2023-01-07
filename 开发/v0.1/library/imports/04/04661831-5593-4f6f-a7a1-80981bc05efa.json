@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gemRed",
+    "texture": "cb57b473-5491-4e42-806a-5a5b5d2ebee1",
+    "atlas": "",
+    "rect": [
+      11,
+      14,
+      41,
+      37
+    ],
+    "offset": [
+      -0.5,
+      -0.5
+    ],
+    "originalSize": [
+      64,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

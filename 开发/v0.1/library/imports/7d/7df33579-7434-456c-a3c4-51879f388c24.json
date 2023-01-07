@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "背包（挂着的）",
+    "texture": "9729d484-a2ca-42bb-84cc-f87549c4b25c",
+    "atlas": "",
+    "rect": [
+      30,
+      11,
+      58,
+      96
+    ],
+    "offset": [
+      -5,
+      5
+    ],
+    "originalSize": [
+      128,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

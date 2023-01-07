@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "蓝色灯罩 (1)",
+    "texture": "3cb4f061-0149-4936-817a-e28d9ca67baa",
+    "atlas": "",
+    "rect": [
+      55,
+      15,
+      176,
+      136
+    ],
+    "offset": [
+      15,
+      45
+    ],
+    "originalSize": [
+      256,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

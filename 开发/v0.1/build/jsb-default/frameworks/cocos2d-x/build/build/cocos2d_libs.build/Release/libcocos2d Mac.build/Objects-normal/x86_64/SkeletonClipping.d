@@ -1,0 +1,20 @@
+dependencies: \
+  /Users/gangnam/Downloads/v0.1/build/jsb-default/frameworks/cocos2d-x/build/../cocos/platform/mac/cocos2d-prefix.pch \
+  /Users/gangnam/Downloads/v0.1/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/SkeletonClipping.cpp \
+  /Users/gangnam/Downloads/v0.1/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/SkeletonClipping.h \
+  /Users/gangnam/Downloads/v0.1/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/Vector.h \
+  /Users/gangnam/Downloads/v0.1/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/Extension.h \
+  /Users/gangnam/Downloads/v0.1/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/dll.h \
+  /Users/gangnam/Downloads/v0.1/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/SpineObject.h \
+  /Users/gangnam/Downloads/v0.1/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/SpineString.h \
+  /Users/gangnam/Downloads/v0.1/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/Triangulator.h \
+  /Users/gangnam/Downloads/v0.1/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/Pool.h \
+  /Users/gangnam/Downloads/v0.1/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/ContainerUtil.h \
+  /Users/gangnam/Downloads/v0.1/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/HashMap.h \
+  /Users/gangnam/Downloads/v0.1/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/Slot.h \
+  /Users/gangnam/Downloads/v0.1/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/Color.h \
+  /Users/gangnam/Downloads/v0.1/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/MathUtil.h \
+  /Users/gangnam/Downloads/v0.1/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/ClippingAttachment.h \
+  /Users/gangnam/Downloads/v0.1/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/VertexAttachment.h \
+  /Users/gangnam/Downloads/v0.1/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/Attachment.h \
+  /Users/gangnam/Downloads/v0.1/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/RTTI.h

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gemGreen",
+    "texture": "01e5524d-cf77-45dd-819c-5e4d1d219cda",
+    "atlas": "",
+    "rect": [
+      11,
+      14,
+      41,
+      37
+    ],
+    "offset": [
+      -0.5,
+      -0.5
+    ],
+    "originalSize": [
+      64,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "开门改色",
+    "texture": "5b6ef5fa-3a2d-4e0b-9af1-f4ad0b5f27c9",
+    "atlas": "",
+    "rect": [
+      60,
+      18,
+      112,
+      212
+    ],
+    "offset": [
+      -12,
+      4
+    ],
+    "originalSize": [
+      256,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

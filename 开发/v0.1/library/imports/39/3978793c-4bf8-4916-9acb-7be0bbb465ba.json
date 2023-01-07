@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "手机",
+    "texture": "74ccb96d-90f6-43dc-8435-6f747edabcf8",
+    "atlas": "",
+    "rect": [
+      10,
+      7,
+      12,
+      17
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      32,
+      32
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

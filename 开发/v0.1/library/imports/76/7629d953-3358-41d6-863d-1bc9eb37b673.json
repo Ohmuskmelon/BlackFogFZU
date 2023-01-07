@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "钥匙",
+    "texture": "4069b272-779f-4470-8344-ae87ade5c2e5",
+    "atlas": "",
+    "rect": [
+      13,
+      5,
+      36,
+      53
+    ],
+    "offset": [
+      -1,
+      0.5
+    ],
+    "originalSize": [
+      64,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

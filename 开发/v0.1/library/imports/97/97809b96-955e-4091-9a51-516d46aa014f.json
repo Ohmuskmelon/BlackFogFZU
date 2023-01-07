@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "裤子",
+    "texture": "89147011-8773-4fe2-8b08-8896f69d1941",
+    "atlas": "",
+    "rect": [
+      23,
+      1,
+      65,
+      124
+    ],
+    "offset": [
+      -8.5,
+      1
+    ],
+    "originalSize": [
+      128,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

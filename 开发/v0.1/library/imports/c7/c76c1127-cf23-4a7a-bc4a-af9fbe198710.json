@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "leather2",
+    "texture": "cef5a87b-759a-438a-a64d-c9d6e73db937",
+    "atlas": "",
+    "rect": [
+      4,
+      12,
+      57,
+      50
+    ],
+    "offset": [
+      0.5,
+      -5
+    ],
+    "originalSize": [
+      64,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

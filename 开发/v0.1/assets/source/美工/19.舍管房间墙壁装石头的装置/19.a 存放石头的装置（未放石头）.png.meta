@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "d422e254-8e91-4413-8658-fad4dfe847bb",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 128,
+  "height": 128,
+  "platformSettings": {},
+  "subMetas": {
+    "19.a 存放石头的装置（未放石头）": {
+      "ver": "1.0.6",
+      "uuid": "1713c703-6adc-4b60-9087-9b195b915dce",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "d422e254-8e91-4413-8658-fad4dfe847bb",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -1,
+      "trimX": 5,
+      "trimY": 6,
+      "width": 118,
+      "height": 118,
+      "rawWidth": 128,
+      "rawHeight": 128,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

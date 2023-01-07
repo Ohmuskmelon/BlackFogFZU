@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "b5289abc-85c5-494f-9b5f-72e57ac20a02",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 256,
+  "height": 256,
+  "platformSettings": {},
+  "subMetas": {
+    "48.福大月饼（1块）": {
+      "ver": "1.0.6",
+      "uuid": "4f660ef6-2f07-4e45-a911-ba82fbdc72d6",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "b5289abc-85c5-494f-9b5f-72e57ac20a02",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -11,
+      "offsetY": -11,
+      "trimX": 42,
+      "trimY": 58,
+      "width": 150,
+      "height": 162,
+      "rawWidth": 256,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

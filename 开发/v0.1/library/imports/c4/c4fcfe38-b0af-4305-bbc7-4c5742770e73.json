@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "衣服",
+    "texture": "a5038c24-18df-413b-8051-888f9244d544",
+    "atlas": "",
+    "rect": [
+      11,
+      3,
+      109,
+      114
+    ],
+    "offset": [
+      1.5,
+      4
+    ],
+    "originalSize": [
+      128,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

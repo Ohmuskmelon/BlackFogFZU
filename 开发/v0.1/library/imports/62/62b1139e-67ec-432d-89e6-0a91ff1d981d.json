@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "5.a开门",
+    "texture": "4541044f-9d98-4592-bb97-61a2a72ad670",
+    "atlas": "",
+    "rect": [
+      71,
+      18,
+      112,
+      212
+    ],
+    "offset": [
+      -1,
+      4
+    ],
+    "originalSize": [
+      256,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

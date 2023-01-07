@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "19-按键五角星",
+    "texture": "7e40b690-fdbb-4b47-b5d1-23e49d5f69cf",
+    "atlas": "",
+    "rect": [
+      2,
+      0,
+      17,
+      16
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      21,
+      17
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

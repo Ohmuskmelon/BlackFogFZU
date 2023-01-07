@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "关于我们@1x",
+    "texture": "026dc530-bdda-45be-a313-dcd69b8fe09a",
+    "atlas": "",
+    "rect": [
+      1,
+      17,
+      268,
+      58
+    ],
+    "offset": [
+      -5,
+      -3
+    ],
+    "originalSize": [
+      280,
+      86
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

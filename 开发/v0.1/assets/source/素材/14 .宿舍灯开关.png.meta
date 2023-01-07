@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "27c1e0e8-0cda-4991-babd-980ece23dfea",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 256,
+  "height": 256,
+  "platformSettings": {},
+  "subMetas": {
+    "14 .宿舍灯开关": {
+      "ver": "1.0.6",
+      "uuid": "bb0cc448-5c52-425d-b6d8-004bb43783a4",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "27c1e0e8-0cda-4991-babd-980ece23dfea",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -8,
+      "offsetY": 16.5,
+      "trimX": 111,
+      "trimY": 103,
+      "width": 18,
+      "height": 17,
+      "rawWidth": 256,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

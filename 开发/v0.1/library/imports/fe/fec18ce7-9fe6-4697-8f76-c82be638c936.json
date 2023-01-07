@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "完全透明",
+    "texture": "170d9e61-c8f1-45e0-bda5-2f966fc95042",
+    "atlas": "",
+    "rect": [
+      255,
+      255,
+      1,
+      1
+    ],
+    "offset": [
+      127.5,
+      -127.5
+    ],
+    "originalSize": [
+      256,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

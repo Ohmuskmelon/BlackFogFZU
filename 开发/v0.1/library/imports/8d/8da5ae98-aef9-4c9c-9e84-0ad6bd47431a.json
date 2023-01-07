@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shield_semi",
+    "texture": "083cae86-cebc-47b2-bfb1-542ee51243e1",
+    "atlas": "",
+    "rect": [
+      8,
+      7,
+      45,
+      50
+    ],
+    "offset": [
+      -1.5,
+      0
+    ],
+    "originalSize": [
+      64,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

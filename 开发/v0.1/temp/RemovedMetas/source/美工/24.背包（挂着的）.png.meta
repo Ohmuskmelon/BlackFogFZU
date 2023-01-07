@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "32814c9b-7462-4c96-8927-a94e968c0e83",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 128,
+  "height": 128,
+  "platformSettings": {},
+  "subMetas": {
+    "24.背包（挂着的）": {
+      "ver": "1.0.6",
+      "uuid": "774932cb-dc05-4c5f-a2da-95929e24e974",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "32814c9b-7462-4c96-8927-a94e968c0e83",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -5,
+      "offsetY": 5,
+      "trimX": 30,
+      "trimY": 11,
+      "width": 58,
+      "height": 96,
+      "rawWidth": 128,
+      "rawHeight": 128,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

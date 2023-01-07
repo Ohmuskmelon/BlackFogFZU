@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "关于我们背景",
+    "texture": "320b7b68-13f5-427b-8cdd-5e05d8eacc8e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      2394,
+      1024
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      2394,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

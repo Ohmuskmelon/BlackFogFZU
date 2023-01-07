@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "22-袜子",
+    "texture": "846cf704-1f05-4589-8e17-b04c54f64b98",
+    "atlas": "",
+    "rect": [
+      19,
+      5,
+      102,
+      123
+    ],
+    "offset": [
+      6,
+      -2.5
+    ],
+    "originalSize": [
+      128,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

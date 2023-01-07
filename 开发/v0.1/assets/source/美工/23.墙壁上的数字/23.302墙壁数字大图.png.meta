@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "e86bfd42-4ad0-4a10-b081-13d2584bd7ab",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 128,
+  "height": 128,
+  "platformSettings": {},
+  "subMetas": {
+    "23.302墙壁数字大图": {
+      "ver": "1.0.6",
+      "uuid": "fa74f5c8-16d6-433a-b776-3be1a6b4e04b",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "e86bfd42-4ad0-4a10-b081-13d2584bd7ab",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -17,
+      "offsetY": 6,
+      "trimX": 23,
+      "trimY": 31,
+      "width": 48,
+      "height": 54,
+      "rawWidth": 128,
+      "rawHeight": 128,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

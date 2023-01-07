@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "203 宿舍",
+    "texture": "85983f3e-4b2b-4083-86c9-facbebf8f598",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      2546,
+      629
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      2546,
+      629
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

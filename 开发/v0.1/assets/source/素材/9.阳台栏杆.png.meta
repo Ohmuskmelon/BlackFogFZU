@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "87af061e-7f02-4bdc-93ec-067c1ebb6ac9",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 256,
+  "height": 256,
+  "platformSettings": {},
+  "subMetas": {
+    "9.阳台栏杆": {
+      "ver": "1.0.6",
+      "uuid": "3a10440d-0499-4e17-a53c-fb2ab0b59cc6",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "87af061e-7f02-4bdc-93ec-067c1ebb6ac9",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -3,
+      "offsetY": 9,
+      "trimX": 121,
+      "trimY": 5,
+      "width": 8,
+      "height": 228,
+      "rawWidth": 256,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

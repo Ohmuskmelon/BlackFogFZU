@@ -1,0 +1,4 @@
+Target dependency graph (2 targets)
+libcocos2d Mac in cocos2d_libs, no dependencies
+BlackFogFZU-desktop in BlackFogFZU, depends on:
+libcocos2d Mac in cocos2d_libs (explicit)

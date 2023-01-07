@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "黑雾福大@1x",
+    "texture": "0deeff0a-f42f-460f-ace3-2310246ccd24",
+    "atlas": "",
+    "rect": [
+      6,
+      47,
+      661,
+      153
+    ],
+    "offset": [
+      -3.5,
+      -8.5
+    ],
+    "originalSize": [
+      680,
+      230
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

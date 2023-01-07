@@ -1,0 +1,37 @@
+dependencies: \
+  /Users/gangnam/Downloads/v0.1/build/jsb-default/frameworks/cocos2d-x/build/../cocos/platform/mac/cocos2d-prefix.pch \
+  /Users/gangnam/Downloads/v0.1/build/jsb-default/frameworks/cocos2d-x/cocos/renderer/scene/NodeMemPool.cpp \
+  /Users/gangnam/Downloads/v0.1/build/jsb-default/frameworks/cocos2d-x/cocos/renderer/scene/NodeMemPool.hpp \
+  /Users/gangnam/Downloads/v0.1/build/jsb-default/frameworks/cocos2d-x/cocos/renderer/scene/MemPool.hpp \
+  /Users/gangnam/Downloads/v0.1/build/jsb-default/frameworks/cocos2d-x/cocos/renderer/scene/../Macro.h \
+  /Users/gangnam/Downloads/v0.1/build/jsb-default/frameworks/cocos2d-x/cocos/platform/CCPlatformConfig.h \
+  /Users/gangnam/Downloads/v0.1/build/jsb-default/frameworks/cocos2d-x/cocos/scripting/js-bindings/jswrapper/Object.hpp \
+  /Users/gangnam/Downloads/v0.1/build/jsb-default/frameworks/cocos2d-x/cocos/scripting/js-bindings/jswrapper/config.hpp \
+  /Users/gangnam/Downloads/v0.1/build/jsb-default/frameworks/cocos2d-x/cocos/scripting/js-bindings/jswrapper/v8/Object.hpp \
+  /Users/gangnam/Downloads/v0.1/build/jsb-default/frameworks/cocos2d-x/cocos/scripting/js-bindings/jswrapper/v8/../config.hpp \
+  /Users/gangnam/Downloads/v0.1/build/jsb-default/frameworks/cocos2d-x/cocos/scripting/js-bindings/jswrapper/v8/Base.h \
+  /Users/gangnam/Downloads/v0.1/build/jsb-default/frameworks/cocos2d-x/external/mac/include/v8/libplatform/libplatform.h \
+  /Users/gangnam/Downloads/v0.1/build/jsb-default/frameworks/cocos2d-x/external/mac/include/v8/libplatform/libplatform-export.h \
+  /Users/gangnam/Downloads/v0.1/build/jsb-default/frameworks/cocos2d-x/external/mac/include/v8/libplatform/v8-tracing.h \
+  /Users/gangnam/Downloads/v0.1/build/jsb-default/frameworks/cocos2d-x/external/mac/include/v8/v8-platform.h \
+  /Users/gangnam/Downloads/v0.1/build/jsb-default/frameworks/cocos2d-x/external/mac/include/v8/v8config.h \
+  /Users/gangnam/Downloads/v0.1/build/jsb-default/frameworks/cocos2d-x/external/mac/include/v8/v8.h \
+  /Users/gangnam/Downloads/v0.1/build/jsb-default/frameworks/cocos2d-x/external/mac/include/v8/v8-internal.h \
+  /Users/gangnam/Downloads/v0.1/build/jsb-default/frameworks/cocos2d-x/external/mac/include/v8/v8-version.h \
+  /Users/gangnam/Downloads/v0.1/build/jsb-default/frameworks/cocos2d-x/cocos/scripting/js-bindings/jswrapper/v8/HelperMacros.h \
+  /Users/gangnam/Downloads/v0.1/build/jsb-default/frameworks/cocos2d-x/cocos/scripting/js-bindings/jswrapper/v8/../RefCounter.hpp \
+  /Users/gangnam/Downloads/v0.1/build/jsb-default/frameworks/cocos2d-x/cocos/scripting/js-bindings/jswrapper/v8/../Value.hpp \
+  /Users/gangnam/Downloads/v0.1/build/jsb-default/frameworks/cocos2d-x/cocos/scripting/js-bindings/jswrapper/HandleObject.hpp \
+  /Users/gangnam/Downloads/v0.1/build/jsb-default/frameworks/cocos2d-x/cocos/scripting/js-bindings/jswrapper/v8/ObjectWrap.h \
+  /Users/gangnam/Downloads/v0.1/build/jsb-default/frameworks/cocos2d-x/cocos/math/Mat4.h \
+  /Users/gangnam/Downloads/v0.1/build/jsb-default/frameworks/cocos2d-x/cocos/base/ccMacros.h \
+  /Users/gangnam/Downloads/v0.1/build/jsb-default/frameworks/cocos2d-x/cocos/base/CCLog.h \
+  /Users/gangnam/Downloads/v0.1/build/jsb-default/frameworks/cocos2d-x/cocos/platform/CCPlatformDefine.h \
+  /Users/gangnam/Downloads/v0.1/build/jsb-default/frameworks/cocos2d-x/cocos/platform/mac/CCPlatformDefine-mac.h \
+  /Users/gangnam/Downloads/v0.1/build/jsb-default/frameworks/cocos2d-x/cocos/base/ccConfig.h \
+  /Users/gangnam/Downloads/v0.1/build/jsb-default/frameworks/cocos2d-x/cocos/math/Vec3.h \
+  /Users/gangnam/Downloads/v0.1/build/jsb-default/frameworks/cocos2d-x/cocos/math/CCMathBase.h \
+  /Users/gangnam/Downloads/v0.1/build/jsb-default/frameworks/cocos2d-x/cocos/math/Vec3.inl \
+  /Users/gangnam/Downloads/v0.1/build/jsb-default/frameworks/cocos2d-x/cocos/math/Vec4.h \
+  /Users/gangnam/Downloads/v0.1/build/jsb-default/frameworks/cocos2d-x/cocos/math/Vec4.inl \
+  /Users/gangnam/Downloads/v0.1/build/jsb-default/frameworks/cocos2d-x/cocos/math/Mat4.inl

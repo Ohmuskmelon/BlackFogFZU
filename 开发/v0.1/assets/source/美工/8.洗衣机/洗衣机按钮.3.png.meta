@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "c3d9cd0c-ab1d-42c4-92a2-a99f4a2a34d9",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 64,
+  "height": 64,
+  "platformSettings": {},
+  "subMetas": {
+    "洗衣机按钮.3": {
+      "ver": "1.0.6",
+      "uuid": "26a16e24-2cb5-487d-8b96-fc77004ec3b8",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "c3d9cd0c-ab1d-42c4-92a2-a99f4a2a34d9",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1,
+      "offsetY": -2.5,
+      "trimX": 14,
+      "trimY": 20,
+      "width": 34,
+      "height": 29,
+      "rawWidth": 64,
+      "rawHeight": 64,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

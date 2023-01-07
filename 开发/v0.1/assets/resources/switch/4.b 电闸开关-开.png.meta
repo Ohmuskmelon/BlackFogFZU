@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "389de998-d959-48b9-8270-b4d02c4a45dc",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 64,
+  "height": 64,
+  "platformSettings": {},
+  "subMetas": {
+    "4.b 电闸开关-开": {
+      "ver": "1.0.6",
+      "uuid": "ed49f0e1-012f-4dc6-a831-9a3868050a1b",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "389de998-d959-48b9-8270-b4d02c4a45dc",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0.5,
+      "trimX": 21,
+      "trimY": 3,
+      "width": 22,
+      "height": 57,
+      "rawWidth": 64,
+      "rawHeight": 64,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

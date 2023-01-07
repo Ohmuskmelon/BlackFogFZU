@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "帽子",
+    "texture": "6708f1b1-77ce-4c58-8a75-7b2dd6ae1144",
+    "atlas": "",
+    "rect": [
+      7,
+      11,
+      117,
+      106
+    ],
+    "offset": [
+      1.5,
+      0
+    ],
+    "originalSize": [
+      128,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

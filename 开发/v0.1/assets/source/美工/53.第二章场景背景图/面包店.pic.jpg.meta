@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "8c4e8b10-e194-4824-ba6a-6575c2326746",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 900,
+  "height": 327,
+  "platformSettings": {},
+  "subMetas": {
+    "面包店.pic": {
+      "ver": "1.0.6",
+      "uuid": "ef1d79ac-a223-4ceb-8991-574cb62a5bdf",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "8c4e8b10-e194-4824-ba6a-6575c2326746",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 900,
+      "height": 327,
+      "rawWidth": 900,
+      "rawHeight": 327,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

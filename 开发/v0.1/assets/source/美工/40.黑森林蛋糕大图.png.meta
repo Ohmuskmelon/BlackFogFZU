@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "dbd6c963-bbe6-4929-800f-8bb5c8a10b15",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 256,
+  "height": 256,
+  "platformSettings": {},
+  "subMetas": {
+    "40.黑森林蛋糕大图": {
+      "ver": "1.0.6",
+      "uuid": "b376c1a2-64aa-4973-9901-d5b8b454cbca",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "dbd6c963-bbe6-4929-800f-8bb5c8a10b15",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1.5,
+      "offsetY": 4,
+      "trimX": 12,
+      "trimY": 67,
+      "width": 229,
+      "height": 114,
+      "rawWidth": 256,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

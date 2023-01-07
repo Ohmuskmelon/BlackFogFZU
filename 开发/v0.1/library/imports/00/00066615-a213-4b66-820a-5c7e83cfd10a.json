@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "电梯按钮向下键",
+    "texture": "d3be3c48-61bd-49f6-afdf-a14d66f78e1f",
+    "atlas": "",
+    "rect": [
+      13,
+      17,
+      38,
+      32
+    ],
+    "offset": [
+      0,
+      -1
+    ],
+    "originalSize": [
+      64,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

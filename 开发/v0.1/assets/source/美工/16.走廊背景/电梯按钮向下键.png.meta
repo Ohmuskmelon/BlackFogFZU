@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "d3be3c48-61bd-49f6-afdf-a14d66f78e1f",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 64,
+  "height": 64,
+  "platformSettings": {},
+  "subMetas": {
+    "电梯按钮向下键": {
+      "ver": "1.0.6",
+      "uuid": "00066615-a213-4b66-820a-5c7e83cfd10a",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "d3be3c48-61bd-49f6-afdf-a14d66f78e1f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -1,
+      "trimX": 13,
+      "trimY": 17,
+      "width": 38,
+      "height": 32,
+      "rawWidth": 64,
+      "rawHeight": 64,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

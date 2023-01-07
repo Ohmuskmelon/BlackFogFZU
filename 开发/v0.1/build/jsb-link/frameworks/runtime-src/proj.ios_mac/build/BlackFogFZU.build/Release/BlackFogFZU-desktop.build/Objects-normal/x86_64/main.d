@@ -1,0 +1,19 @@
+dependencies: \
+  /Users/gangnam/Downloads/v0.1/build/jsb-link/frameworks/runtime-src/proj.ios_mac/mac/Prefix.pch \
+  /Users/gangnam/Downloads/v0.1/build/jsb-link/frameworks/runtime-src/proj.ios_mac/mac/main.cpp \
+  /Users/gangnam/Downloads/v0.1/build/jsb-link/frameworks/runtime-src/Classes/AppDelegate.h \
+  /Applications/CocosCreator/Creator/2.4.10/CocosCreator.app/Contents/Resources/cocos2d-x/cocos/platform/CCApplication.h \
+  /Applications/CocosCreator/Creator/2.4.10/CocosCreator.app/Contents/Resources/cocos2d-x/cocos/base/ccMacros.h \
+  /Applications/CocosCreator/Creator/2.4.10/CocosCreator.app/Contents/Resources/cocos2d-x/cocos/base/CCLog.h \
+  /Applications/CocosCreator/Creator/2.4.10/CocosCreator.app/Contents/Resources/cocos2d-x/cocos/platform/CCPlatformDefine.h \
+  /Applications/CocosCreator/Creator/2.4.10/CocosCreator.app/Contents/Resources/cocos2d-x/cocos/platform/CCPlatformConfig.h \
+  /Applications/CocosCreator/Creator/2.4.10/CocosCreator.app/Contents/Resources/cocos2d-x/cocos/platform/mac/CCPlatformDefine-mac.h \
+  /Applications/CocosCreator/Creator/2.4.10/CocosCreator.app/Contents/Resources/cocos2d-x/cocos/base/ccConfig.h \
+  /Applications/CocosCreator/Creator/2.4.10/CocosCreator.app/Contents/Resources/cocos2d-x/cocos/base/CCRenderTexture.h \
+  /Applications/CocosCreator/Creator/2.4.10/CocosCreator.app/Contents/Resources/cocos2d-x/cocos/math/Vec2.h \
+  /Applications/CocosCreator/Creator/2.4.10/CocosCreator.app/Contents/Resources/cocos2d-x/cocos/math/CCMathBase.h \
+  /Applications/CocosCreator/Creator/2.4.10/CocosCreator.app/Contents/Resources/cocos2d-x/cocos/math/Vec2.inl \
+  /Applications/CocosCreator/Creator/2.4.10/CocosCreator.app/Contents/Resources/cocos2d-x/cocos/platform/CCGL.h \
+  /Applications/CocosCreator/Creator/2.4.10/CocosCreator.app/Contents/Resources/cocos2d-x/cocos/platform/mac/CCGL-mac.h \
+  /Applications/CocosCreator/Creator/2.4.10/CocosCreator.app/Contents/Resources/cocos2d-x/cocos/base/CCGLUtils.h \
+  /Users/gangnam/Downloads/v0.1/build/jsb-link/frameworks/runtime-src/Classes/NativeConfig.h

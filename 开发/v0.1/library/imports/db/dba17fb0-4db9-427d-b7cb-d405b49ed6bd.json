@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "scroll",
+    "texture": "a8088dc6-c8c8-4b33-a047-1ac95eb2d9b6",
+    "atlas": "",
+    "rect": [
+      3,
+      1,
+      58,
+      58
+    ],
+    "offset": [
+      0,
+      2
+    ],
+    "originalSize": [
+      64,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

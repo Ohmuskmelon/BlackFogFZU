@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "电梯按钮向上键",
+    "texture": "a87f97c3-caea-4b34-ba99-3753580fca72",
+    "atlas": "",
+    "rect": [
+      13,
+      12,
+      38,
+      32
+    ],
+    "offset": [
+      0,
+      4
+    ],
+    "originalSize": [
+      64,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

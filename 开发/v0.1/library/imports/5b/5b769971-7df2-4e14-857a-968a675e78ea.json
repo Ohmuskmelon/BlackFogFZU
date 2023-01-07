@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "19-存放石头的装置（放上石头）",
+    "texture": "5258fca8-330d-4168-b5ea-ee6dc97b213c",
+    "atlas": "",
+    "rect": [
+      8,
+      6,
+      118,
+      118
+    ],
+    "offset": [
+      3,
+      -1
+    ],
+    "originalSize": [
+      128,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

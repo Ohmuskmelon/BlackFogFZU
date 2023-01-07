@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "39甜甜圈",
+    "texture": "06106d6c-066e-4e71-8954-b08fe6a82ae0",
+    "atlas": "",
+    "rect": [
+      7,
+      14,
+      46,
+      38
+    ],
+    "offset": [
+      -2,
+      -1
+    ],
+    "originalSize": [
+      64,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

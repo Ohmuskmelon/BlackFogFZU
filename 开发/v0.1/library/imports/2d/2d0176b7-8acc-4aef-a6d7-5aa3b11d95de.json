@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "10-洗漱台大图(有杯子)",
+    "texture": "848d30bd-cc9e-4f27-a309-a58c2e7f9bd6",
+    "atlas": "",
+    "rect": [
+      6,
+      15,
+      242,
+      212
+    ],
+    "offset": [
+      -1,
+      7
+    ],
+    "originalSize": [
+      256,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

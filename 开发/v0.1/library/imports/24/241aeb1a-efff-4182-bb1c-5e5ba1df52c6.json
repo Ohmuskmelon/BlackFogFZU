@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "packLine",
+    "texture": "64af0348-7f40-4bbc-95ac-1dea977deec5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      342,
+      62
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      342,
+      62
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

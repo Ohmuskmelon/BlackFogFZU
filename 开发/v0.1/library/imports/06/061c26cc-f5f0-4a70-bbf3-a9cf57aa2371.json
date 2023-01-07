@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shield_wood",
+    "texture": "22de04d1-9231-4e46-9a28-91eb1731a063",
+    "atlas": "",
+    "rect": [
+      11,
+      8,
+      42,
+      46
+    ],
+    "offset": [
+      0,
+      1
+    ],
+    "originalSize": [
+      64,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

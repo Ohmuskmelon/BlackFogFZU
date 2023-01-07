@@ -1,0 +1,22 @@
+dependencies: \
+  /Users/gangnam/Downloads/v0.1/build/jsb-default/frameworks/cocos2d-x/build/../cocos/platform/mac/cocos2d-prefix.pch \
+  /Users/gangnam/Downloads/v0.1/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/dragonbones/parser/DataParser.cpp \
+  /Users/gangnam/Downloads/v0.1/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/dragonbones/parser/DataParser.h \
+  /Users/gangnam/Downloads/v0.1/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/dragonbones/parser/../core/DragonBones.h \
+  /Users/gangnam/Downloads/v0.1/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/dragonbones/parser/../model/UserData.h \
+  /Users/gangnam/Downloads/v0.1/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/dragonbones/parser/../model/../core/BaseObject.h \
+  /Users/gangnam/Downloads/v0.1/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/dragonbones/parser/../model/DragonBonesData.h \
+  /Users/gangnam/Downloads/v0.1/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/dragonbones/parser/../model/ArmatureData.h \
+  /Users/gangnam/Downloads/v0.1/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/dragonbones/parser/../model/../geom/Matrix.h \
+  /Users/gangnam/Downloads/v0.1/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/dragonbones/parser/../model/../geom/../core/DragonBones.h \
+  /Users/gangnam/Downloads/v0.1/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/dragonbones/parser/../model/../geom/Point.h \
+  /Users/gangnam/Downloads/v0.1/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/dragonbones/parser/../model/../geom/Rectangle.h \
+  /Users/gangnam/Downloads/v0.1/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/dragonbones/parser/../model/../geom/Transform.h \
+  /Users/gangnam/Downloads/v0.1/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/dragonbones/parser/../model/../geom/ColorTransform.h \
+  /Users/gangnam/Downloads/v0.1/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/dragonbones/parser/../model/CanvasData.h \
+  /Users/gangnam/Downloads/v0.1/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/dragonbones/parser/../model/ConstraintData.h \
+  /Users/gangnam/Downloads/v0.1/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/dragonbones/parser/../model/SkinData.h \
+  /Users/gangnam/Downloads/v0.1/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/dragonbones/parser/../model/DisplayData.h \
+  /Users/gangnam/Downloads/v0.1/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/dragonbones/parser/../model/BoundingBoxData.h \
+  /Users/gangnam/Downloads/v0.1/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/dragonbones/parser/../model/AnimationData.h \
+  /Users/gangnam/Downloads/v0.1/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/dragonbones/parser/../model/TextureAtlasData.h

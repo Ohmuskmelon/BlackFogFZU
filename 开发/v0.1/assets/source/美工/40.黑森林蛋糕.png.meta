@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "8be2778f-ab88-4791-a89b-4e267522b841",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 64,
+  "height": 64,
+  "platformSettings": {},
+  "subMetas": {
+    "40.黑森林蛋糕": {
+      "ver": "1.0.6",
+      "uuid": "a6831fea-1918-4e95-a3d1-67a0d103bf8d",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "8be2778f-ab88-4791-a89b-4e267522b841",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 1.5,
+      "trimX": 6,
+      "trimY": 15,
+      "width": 51,
+      "height": 31,
+      "rawWidth": 64,
+      "rawHeight": 64,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
